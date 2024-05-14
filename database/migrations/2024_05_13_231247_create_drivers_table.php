@@ -18,8 +18,8 @@ return new class extends Migration
             $table->timestamps();
             $table->integer('driver_id');
             $table->integer('kidsdriv');
-            $table->integer('age');
-            $table->integer('income');
+            $table->string('age');
+            $table->string('income');
             $table->string('mstatus');
             $table->string('gender');
             $table->string('education');
