@@ -1,0 +1,10303 @@
+car_type,red_car,car_age
+Minivan,yes,18
+Minivan,yes,1
+Van,yes,10
+SUV,no,10
+Minivan,yes,6
+SUV,no,17
+Sports Car,no,7
+SUV,no,1
+Minivan,no,1
+SUV,no,10
+Van,yes,7
+SUV,no,1
+Van,no,17
+Sports Car,no,11
+Minivan,no,1
+Van,yes,9
+Panel Truck,yes,10
+Pickup,no,4
+SUV,no,5
+SUV,no,13
+Minivan,yes,1
+Minivan,no,16
+SUV,no,20
+Minivan,no,7
+SUV,no,1
+Panel Truck,yes,1
+SUV,no,14
+Minivan,no,5
+SUV,no,11
+Panel Truck,no,12
+Sports Car,no,1
+SUV,no,15
+SUV,no,1
+Minivan,no,12
+SUV,no,12
+SUV,no,12
+Panel Truck,no,
+Minivan,no,1
+Minivan,no,9
+SUV,no,10
+Panel Truck,no,15
+Van,yes,13
+Minivan,no,12
+Minivan,no,14
+SUV,no,9
+Van,no,15
+Sports Car,no,1
+SUV,no,11
+SUV,no,6
+Pickup,no,7
+Sports Car,no,8
+Minivan,no,1
+Panel Truck,yes,5
+Minivan,yes,5
+SUV,no,
+Minivan,yes,15
+SUV,no,5
+Minivan,yes,1
+Minivan,yes,
+Minivan,no,11
+Pickup,yes,6
+Minivan,yes,1
+Sports Car,no,
+Minivan,no,16
+SUV,no,1
+Minivan,yes,6
+Van,no,13
+Minivan,yes,1
+Panel Truck,yes,10
+Minivan,no,10
+SUV,no,1
+SUV,no,8
+Sports Car,no,10
+Pickup,no,1
+SUV,no,4
+Sports Car,no,
+Sports Car,no,15
+Panel Truck,no,18
+Minivan,no,11
+SUV,no,20
+Panel Truck,yes,12
+Pickup,yes,
+Panel Truck,yes,17
+SUV,no,18
+Minivan,no,1
+Minivan,yes,11
+Sports Car,no,7
+Sports Car,no,
+SUV,no,3
+Sports Car,no,1
+Pickup,no,1
+SUV,no,12
+SUV,no,14
+Sports Car,no,1
+Minivan,no,14
+Minivan,no,6
+Minivan,no,11
+Van,no,6
+SUV,no,1
+SUV,no,8
+Minivan,no,1
+Pickup,no,
+Minivan,no,13
+Pickup,yes,11
+SUV,no,
+Sports Car,no,8
+Minivan,yes,9
+Van,yes,15
+SUV,no,1
+Minivan,yes,17
+Minivan,yes,9
+Panel Truck,yes,17
+SUV,no,1
+Panel Truck,yes,14
+Pickup,yes,8
+Minivan,yes,5
+SUV,no,6
+Minivan,no,14
+SUV,no,10
+SUV,no,7
+Minivan,no,10
+Panel Truck,no,1
+SUV,no,1
+SUV,no,16
+Pickup,yes,15
+SUV,no,1
+Pickup,yes,5
+SUV,no,1
+Van,yes,
+Sports Car,no,10
+SUV,no,15
+Van,yes,13
+Van,no,
+Panel Truck,yes,
+Van,yes,8
+Sports Car,no,21
+Pickup,no,18
+Sports Car,no,6
+Minivan,yes,11
+Pickup,no,17
+Minivan,no,17
+SUV,no,1
+Pickup,no,1
+SUV,no,10
+Pickup,yes,1
+Minivan,no,9
+Van,yes,14
+SUV,no,1
+Minivan,yes,1
+Panel Truck,yes,11
+SUV,no,1
+Minivan,no,16
+SUV,no,7
+SUV,no,9
+Van,no,4
+Minivan,no,
+Pickup,no,9
+SUV,no,
+SUV,no,15
+Pickup,yes,1
+SUV,no,1
+Minivan,no,14
+Van,yes,7
+Pickup,no,1
+Sports Car,no,16
+Minivan,no,8
+SUV,no,20
+Pickup,no,1
+Sports Car,no,1
+SUV,no,15
+Pickup,no,1
+SUV,no,10
+Sports Car,no,13
+Pickup,yes,17
+Pickup,yes,12
+Pickup,yes,18
+Minivan,no,14
+Pickup,no,1
+SUV,no,14
+Pickup,yes,7
+SUV,no,1
+Minivan,yes,1
+Van,yes,
+SUV,no,7
+Panel Truck,no,14
+SUV,no,1
+Minivan,no,8
+SUV,no,10
+Minivan,yes,10
+Pickup,yes,1
+Minivan,yes,
+Sports Car,no,1
+Pickup,no,16
+Minivan,no,18
+SUV,no,1
+Sports Car,no,17
+Minivan,no,4
+Van,no,1
+Sports Car,no,11
+Panel Truck,yes,1
+Sports Car,no,7
+SUV,no,9
+Sports Car,no,7
+SUV,no,7
+SUV,no,9
+Minivan,no,1
+Sports Car,no,9
+Minivan,yes,5
+SUV,no,9
+Panel Truck,no,19
+Sports Car,no,1
+Van,no,19
+Sports Car,no,1
+SUV,no,5
+Minivan,yes,
+Pickup,no,6
+Minivan,no,13
+SUV,no,
+Pickup,no,1
+Minivan,no,15
+Pickup,yes,1
+Sports Car,no,7
+Pickup,no,10
+Minivan,no,17
+SUV,no,10
+SUV,no,10
+SUV,no,1
+Van,no,10
+Minivan,yes,1
+Pickup,no,6
+SUV,no,1
+Pickup,no,8
+Van,no,1
+Sports Car,no,1
+Panel Truck,yes,20
+SUV,no,6
+Minivan,no,1
+SUV,no,7
+Panel Truck,no,14
+SUV,no,5
+SUV,no,8
+SUV,no,14
+Pickup,yes,23
+Van,no,18
+Minivan,yes,1
+SUV,no,17
+Van,no,13
+Minivan,yes,7
+Sports Car,no,8
+Pickup,no,17
+Pickup,yes,8
+Minivan,no,1
+Sports Car,no,1
+SUV,no,17
+Pickup,no,16
+Pickup,yes,15
+SUV,no,
+SUV,no,1
+Minivan,yes,5
+Pickup,yes,
+Minivan,no,5
+Minivan,no,12
+SUV,no,10
+Minivan,no,9
+SUV,no,9
+Minivan,yes,8
+Minivan,yes,4
+SUV,no,7
+Pickup,no,1
+Van,yes,12
+SUV,no,6
+SUV,no,1
+SUV,no,9
+SUV,no,13
+Sports Car,no,12
+Minivan,yes,15
+Panel Truck,yes,1
+Minivan,no,11
+Pickup,no,8
+Pickup,no,11
+Pickup,no,1
+Van,no,13
+Minivan,yes,1
+Minivan,yes,8
+Sports Car,yes,14
+Pickup,no,4
+Sports Car,no,8
+Minivan,yes,12
+Van,no,
+Sports Car,no,9
+Minivan,no,20
+SUV,no,17
+Panel Truck,yes,11
+Pickup,yes,6
+Minivan,yes,3
+Sports Car,yes,5
+Minivan,yes,18
+SUV,no,1
+SUV,no,17
+Panel Truck,yes,20
+SUV,no,
+SUV,no,14
+Pickup,yes,14
+SUV,no,1
+Minivan,no,14
+Sports Car,no,11
+SUV,no,9
+SUV,no,1
+SUV,no,1
+Panel Truck,no,
+Sports Car,no,8
+SUV,no,10
+SUV,no,10
+SUV,no,8
+Sports Car,no,10
+Minivan,no,12
+Pickup,yes,1
+Panel Truck,yes,18
+SUV,no,14
+SUV,no,10
+SUV,no,9
+Minivan,no,1
+SUV,no,1
+Van,yes,21
+Minivan,no,10
+Sports Car,no,1
+Pickup,no,1
+SUV,no,9
+Pickup,no,17
+SUV,no,1
+Minivan,no,8
+Minivan,no,10
+Pickup,yes,1
+Minivan,yes,5
+Sports Car,no,18
+Pickup,no,0
+Van,no,13
+Pickup,no,19
+Minivan,yes,5
+Minivan,no,5
+SUV,no,10
+Sports Car,no,15
+Minivan,yes,7
+SUV,no,1
+Pickup,yes,6
+Panel Truck,yes,19
+Sports Car,no,13
+SUV,no,7
+Pickup,yes,1
+Minivan,no,1
+Minivan,no,
+SUV,no,14
+Panel Truck,no,11
+Minivan,yes,
+Minivan,no,15
+Pickup,no,1
+SUV,no,15
+SUV,no,7
+SUV,no,11
+Minivan,no,8
+Pickup,yes,3
+Minivan,no,1
+Sports Car,no,10
+Minivan,no,11
+SUV,no,5
+Minivan,yes,7
+SUV,no,8
+Pickup,yes,10
+Sports Car,no,1
+SUV,no,1
+Van,yes,1
+Sports Car,no,6
+Panel Truck,yes,23
+SUV,no,18
+Pickup,yes,
+Pickup,yes,10
+Sports Car,no,1
+SUV,no,1
+Minivan,no,12
+SUV,no,13
+Minivan,yes,1
+Sports Car,no,13
+Van,no,13
+SUV,no,15
+SUV,no,1
+Sports Car,no,
+Sports Car,no,14
+SUV,no,8
+Pickup,no,9
+SUV,no,1
+Panel Truck,yes,13
+Sports Car,no,6
+Pickup,yes,10
+Sports Car,no,18
+SUV,no,15
+Minivan,yes,18
+Panel Truck,yes,8
+Minivan,yes,1
+Panel Truck,no,1
+Pickup,yes,8
+SUV,no,9
+Sports Car,no,1
+SUV,no,1
+Minivan,yes,7
+SUV,no,10
+SUV,no,9
+Sports Car,no,15
+SUV,no,1
+Pickup,no,15
+SUV,no,6
+Pickup,no,14
+SUV,no,1
+Minivan,yes,8
+Panel Truck,yes,1
+Minivan,yes,14
+Minivan,no,11
+Minivan,no,7
+Pickup,no,1
+SUV,no,1
+Pickup,no,9
+Pickup,no,1
+SUV,no,1
+Minivan,yes,9
+Panel Truck,no,
+SUV,no,
+Panel Truck,yes,9
+Minivan,no,15
+SUV,yes,9
+Sports Car,no,1
+Van,yes,15
+Sports Car,no,1
+Van,yes,7
+Pickup,no,
+Van,yes,1
+Sports Car,no,5
+Minivan,no,1
+Pickup,yes,6
+SUV,no,10
+Pickup,yes,1
+Pickup,no,4
+SUV,no,10
+Minivan,no,6
+Sports Car,yes,1
+Minivan,no,5
+Pickup,no,1
+Pickup,yes,5
+Minivan,no,10
+Minivan,no,7
+Sports Car,no,19
+Van,yes,6
+Panel Truck,yes,
+Pickup,yes,14
+Van,no,7
+SUV,no,
+SUV,no,1
+Minivan,yes,7
+SUV,no,6
+Panel Truck,no,20
+Pickup,yes,1
+SUV,no,6
+Minivan,no,8
+Pickup,no,9
+Minivan,yes,9
+Pickup,no,18
+Minivan,no,16
+Sports Car,no,1
+SUV,no,6
+SUV,no,5
+Sports Car,no,1
+Van,yes,6
+Minivan,no,9
+SUV,no,
+Van,no,13
+Van,yes,9
+Pickup,no,8
+Sports Car,no,1
+Pickup,no,1
+Panel Truck,yes,22
+SUV,no,12
+Minivan,no,17
+SUV,no,1
+Pickup,no,1
+SUV,no,1
+Sports Car,no,16
+SUV,no,7
+Minivan,no,1
+SUV,no,11
+SUV,no,8
+Van,yes,7
+Pickup,no,8
+SUV,no,
+Minivan,no,1
+Van,yes,8
+Sports Car,no,1
+SUV,no,7
+Sports Car,no,1
+Panel Truck,no,10
+Van,yes,10
+SUV,no,7
+SUV,no,7
+Minivan,no,
+SUV,no,13
+Minivan,no,11
+Sports Car,no,1
+Van,no,17
+Minivan,yes,1
+Pickup,yes,1
+SUV,no,13
+Sports Car,no,9
+Minivan,yes,6
+Panel Truck,yes,12
+SUV,yes,11
+SUV,no,6
+Minivan,no,
+Minivan,yes,5
+SUV,no,13
+Pickup,no,11
+Van,yes,14
+Van,yes,1
+Sports Car,no,7
+Pickup,yes,1
+Van,yes,8
+Van,yes,10
+Pickup,yes,1
+Pickup,yes,9
+Sports Car,no,13
+Minivan,no,16
+SUV,no,15
+Minivan,no,17
+Minivan,no,2
+Minivan,yes,1
+SUV,no,11
+Sports Car,no,10
+SUV,no,7
+Sports Car,no,
+Minivan,no,16
+SUV,no,10
+SUV,no,10
+SUV,no,8
+Minivan,no,
+Minivan,no,1
+Pickup,no,11
+Minivan,yes,1
+SUV,no,10
+Minivan,no,6
+Pickup,no,6
+Minivan,no,1
+Pickup,yes,1
+Minivan,no,7
+Sports Car,no,3
+Pickup,no,8
+Van,no,5
+Pickup,no,8
+Pickup,yes,4
+Minivan,yes,14
+Pickup,yes,7
+SUV,no,6
+Sports Car,no,1
+Minivan,no,8
+SUV,no,1
+Minivan,no,1
+Pickup,yes,8
+SUV,no,9
+SUV,no,6
+SUV,no,12
+Minivan,yes,11
+Minivan,yes,8
+Van,no,8
+SUV,no,1
+Minivan,no,17
+Pickup,no,7
+Minivan,no,
+SUV,no,11
+SUV,no,1
+Minivan,no,1
+Panel Truck,no,9
+Minivan,no,1
+SUV,no,8
+Sports Car,no,1
+Minivan,no,5
+Minivan,no,8
+Minivan,yes,8
+SUV,yes,13
+Pickup,no,11
+SUV,no,7
+Sports Car,no,8
+SUV,no,9
+Pickup,no,3
+Minivan,no,6
+Pickup,yes,14
+Pickup,yes,1
+Minivan,no,5
+Panel Truck,yes,12
+SUV,no,12
+Pickup,no,1
+Sports Car,no,1
+Pickup,yes,17
+Minivan,no,9
+SUV,no,9
+Minivan,yes,9
+Pickup,yes,1
+Sports Car,no,8
+SUV,no,18
+Minivan,yes,8
+Pickup,yes,1
+Sports Car,no,7
+Pickup,yes,1
+Panel Truck,no,10
+SUV,no,6
+Panel Truck,yes,18
+Panel Truck,no,
+SUV,no,9
+Minivan,no,1
+Minivan,no,1
+Pickup,yes,1
+Sports Car,no,13
+SUV,no,9
+SUV,no,12
+SUV,no,1
+SUV,yes,1
+Pickup,yes,1
+SUV,no,8
+Sports Car,no,1
+Minivan,no,10
+Minivan,no,18
+Minivan,yes,9
+Sports Car,no,7
+Panel Truck,no,6
+Pickup,no,14
+Van,yes,10
+Panel Truck,yes,9
+SUV,no,6
+SUV,no,13
+Minivan,yes,5
+Minivan,no,9
+Van,yes,10
+Van,yes,23
+Pickup,no,5
+Sports Car,no,6
+Pickup,yes,
+Sports Car,no,7
+Sports Car,no,8
+Pickup,no,1
+Pickup,no,8
+Sports Car,no,6
+Panel Truck,no,16
+SUV,no,11
+Pickup,no,1
+Minivan,no,7
+Sports Car,no,
+Sports Car,no,6
+Sports Car,no,11
+SUV,no,8
+Sports Car,no,10
+Sports Car,no,1
+SUV,no,
+Pickup,no,20
+Pickup,yes,
+Minivan,no,6
+SUV,no,18
+Panel Truck,no,8
+Pickup,no,20
+Minivan,no,1
+Sports Car,no,9
+Panel Truck,no,11
+Van,yes,9
+Pickup,yes,1
+Sports Car,no,11
+Minivan,no,5
+SUV,no,10
+Pickup,no,4
+Van,no,6
+SUV,no,7
+SUV,no,1
+Minivan,yes,
+Minivan,no,6
+Sports Car,no,1
+SUV,no,20
+Panel Truck,no,9
+SUV,no,9
+Van,yes,11
+SUV,no,1
+SUV,no,9
+Minivan,no,12
+Sports Car,no,9
+Pickup,no,20
+Minivan,no,1
+SUV,yes,1
+Minivan,yes,1
+Pickup,yes,14
+Sports Car,no,3
+Panel Truck,yes,10
+Minivan,no,1
+SUV,no,
+Minivan,no,13
+SUV,no,16
+Sports Car,no,20
+Pickup,no,6
+Panel Truck,yes,10
+Van,yes,8
+SUV,no,4
+Minivan,no,1
+Minivan,no,1
+Sports Car,no,
+Pickup,yes,8
+Panel Truck,yes,22
+Pickup,no,4
+Sports Car,no,1
+Minivan,yes,15
+SUV,no,13
+Minivan,yes,9
+Minivan,yes,7
+Pickup,yes,14
+Minivan,no,6
+SUV,yes,1
+Sports Car,no,8
+SUV,no,5
+Pickup,no,11
+Minivan,yes,9
+Pickup,no,20
+Minivan,yes,6
+Minivan,no,17
+SUV,no,8
+SUV,no,10
+Van,yes,7
+Minivan,yes,11
+Minivan,no,8
+SUV,no,17
+Panel Truck,no,13
+SUV,no,1
+Minivan,no,5
+SUV,no,6
+SUV,no,15
+Minivan,no,1
+Minivan,no,13
+SUV,no,19
+SUV,no,1
+Pickup,no,12
+Minivan,no,7
+Sports Car,no,2
+SUV,no,10
+Minivan,no,1
+Sports Car,no,17
+Pickup,no,1
+Minivan,yes,5
+Minivan,yes,1
+Sports Car,no,1
+SUV,no,1
+SUV,no,9
+Minivan,no,6
+Minivan,yes,1
+Minivan,no,14
+Sports Car,no,8
+SUV,no,11
+Pickup,no,15
+Minivan,no,19
+Minivan,no,17
+Sports Car,no,21
+Minivan,yes,1
+Minivan,no,1
+Minivan,yes,4
+SUV,no,9
+Minivan,no,1
+Sports Car,no,16
+Van,yes,11
+SUV,no,12
+Pickup,no,13
+SUV,no,5
+Pickup,yes,
+Pickup,no,13
+Minivan,no,7
+Van,yes,10
+Minivan,yes,12
+Minivan,no,8
+Pickup,yes,1
+Minivan,no,8
+Minivan,no,8
+Sports Car,no,10
+SUV,no,19
+SUV,no,9
+Pickup,no,12
+Minivan,no,8
+Minivan,no,1
+SUV,no,1
+Panel Truck,yes,15
+Sports Car,no,1
+Pickup,yes,1
+SUV,no,9
+Panel Truck,yes,9
+SUV,no,6
+Van,yes,1
+Pickup,no,10
+Pickup,no,11
+Pickup,no,14
+Pickup,yes,13
+Van,yes,1
+Pickup,no,1
+Minivan,yes,16
+SUV,no,10
+SUV,no,16
+Van,no,11
+Minivan,no,7
+Pickup,no,9
+SUV,no,14
+Minivan,no,12
+Van,yes,13
+SUV,no,19
+SUV,no,10
+SUV,no,
+Pickup,yes,5
+Panel Truck,yes,8
+Pickup,no,17
+Minivan,no,18
+Pickup,no,4
+SUV,no,19
+Minivan,no,7
+SUV,no,10
+SUV,no,1
+Van,no,
+Minivan,no,22
+Minivan,no,8
+Minivan,no,9
+SUV,no,8
+Minivan,no,1
+SUV,no,1
+SUV,no,13
+Minivan,yes,1
+Van,yes,1
+Panel Truck,no,18
+Minivan,yes,13
+Minivan,yes,6
+SUV,no,6
+Pickup,no,15
+Panel Truck,yes,16
+Panel Truck,yes,7
+SUV,no,1
+Panel Truck,yes,16
+SUV,no,11
+Pickup,no,6
+SUV,no,1
+Panel Truck,no,14
+SUV,no,
+Pickup,no,12
+Minivan,yes,9
+SUV,no,6
+Pickup,no,17
+Pickup,yes,1
+SUV,no,17
+Minivan,yes,7
+SUV,no,
+SUV,no,
+Van,yes,8
+SUV,no,1
+Minivan,no,5
+Minivan,no,14
+SUV,no,9
+SUV,no,16
+Pickup,no,
+Van,yes,8
+Minivan,no,11
+Panel Truck,yes,1
+Pickup,no,7
+Sports Car,no,2
+Minivan,yes,
+SUV,no,12
+SUV,no,7
+SUV,no,7
+Pickup,no,13
+Pickup,no,7
+SUV,no,1
+Minivan,yes,1
+Panel Truck,yes,5
+SUV,yes,9
+SUV,no,14
+Panel Truck,no,7
+Sports Car,no,7
+SUV,no,12
+Minivan,yes,1
+Panel Truck,no,5
+Pickup,no,9
+Pickup,no,12
+Minivan,no,26
+Minivan,no,1
+Minivan,no,11
+Panel Truck,yes,17
+Minivan,yes,9
+SUV,no,1
+Minivan,no,1
+Pickup,yes,7
+SUV,no,9
+Minivan,yes,12
+Van,yes,
+Minivan,no,16
+Van,yes,16
+SUV,no,11
+Sports Car,no,16
+SUV,no,1
+Minivan,no,15
+Pickup,yes,1
+Minivan,no,1
+Pickup,yes,11
+Van,no,4
+Minivan,no,17
+Van,no,1
+Minivan,no,10
+SUV,no,1
+Minivan,no,14
+Sports Car,no,1
+Panel Truck,yes,22
+Sports Car,no,7
+Pickup,yes,15
+Panel Truck,yes,14
+Minivan,no,6
+Sports Car,no,10
+SUV,no,23
+SUV,no,5
+Van,yes,15
+Pickup,no,18
+Minivan,no,6
+SUV,no,1
+Minivan,no,18
+Minivan,no,6
+Van,yes,1
+Sports Car,no,1
+Sports Car,no,1
+Sports Car,no,19
+Minivan,no,8
+Minivan,yes,1
+Van,yes,21
+Van,yes,8
+Minivan,no,5
+Panel Truck,yes,9
+SUV,no,15
+Minivan,yes,17
+Minivan,yes,12
+SUV,no,17
+SUV,no,21
+SUV,no,16
+Minivan,yes,11
+Sports Car,no,11
+SUV,no,9
+Panel Truck,yes,13
+Van,no,16
+Minivan,yes,13
+Van,no,
+Van,no,
+Van,no,1
+SUV,no,10
+SUV,no,9
+Pickup,yes,1
+Minivan,no,12
+Panel Truck,yes,17
+SUV,no,1
+SUV,no,1
+SUV,no,1
+SUV,no,1
+SUV,no,11
+Minivan,yes,
+SUV,no,9
+SUV,no,8
+Panel Truck,yes,20
+Minivan,yes,1
+SUV,no,12
+Van,yes,8
+Pickup,yes,20
+Pickup,no,9
+SUV,no,9
+Minivan,no,1
+Van,no,6
+Minivan,no,6
+Pickup,yes,1
+Minivan,yes,11
+Minivan,yes,5
+SUV,no,14
+Minivan,no,10
+SUV,no,1
+SUV,no,1
+SUV,no,14
+Minivan,no,15
+Minivan,yes,21
+Minivan,yes,10
+Minivan,no,1
+SUV,no,9
+Pickup,no,12
+Minivan,no,10
+Van,yes,8
+Minivan,no,1
+Pickup,yes,17
+Minivan,yes,11
+SUV,no,8
+SUV,no,8
+SUV,no,9
+Minivan,yes,1
+SUV,no,12
+Sports Car,no,7
+Panel Truck,no,13
+Minivan,yes,1
+Sports Car,no,11
+Sports Car,no,11
+Panel Truck,no,13
+Minivan,no,10
+Minivan,no,6
+Sports Car,no,13
+Pickup,no,7
+Minivan,no,1
+Pickup,no,7
+Panel Truck,yes,12
+Panel Truck,yes,19
+Sports Car,no,1
+SUV,no,1
+Minivan,no,10
+Minivan,yes,6
+SUV,no,9
+Minivan,no,15
+Pickup,yes,1
+Pickup,yes,8
+Sports Car,no,5
+Minivan,no,8
+SUV,no,13
+Panel Truck,yes,20
+Minivan,yes,16
+Minivan,yes,11
+Van,yes,12
+Panel Truck,no,16
+SUV,no,6
+SUV,no,14
+Minivan,no,1
+Pickup,yes,9
+SUV,no,11
+Van,no,9
+Minivan,yes,1
+SUV,no,11
+Minivan,no,10
+Sports Car,yes,1
+SUV,no,1
+Minivan,no,14
+Van,no,2
+SUV,no,12
+SUV,no,17
+Sports Car,no,4
+Minivan,no,17
+Minivan,no,6
+SUV,no,8
+Van,yes,14
+Pickup,no,13
+Minivan,no,10
+Pickup,yes,11
+Minivan,yes,12
+Minivan,no,12
+SUV,no,6
+Minivan,no,16
+Sports Car,no,17
+Pickup,yes,1
+Minivan,yes,8
+Pickup,no,22
+Sports Car,no,1
+SUV,no,13
+Sports Car,no,18
+Panel Truck,no,16
+SUV,no,10
+Panel Truck,no,14
+Pickup,no,16
+SUV,no,1
+Van,no,9
+Minivan,yes,1
+Minivan,yes,11
+Panel Truck,yes,17
+Sports Car,no,
+Pickup,no,20
+Van,yes,1
+SUV,no,14
+Pickup,yes,4
+SUV,no,6
+SUV,no,6
+Van,yes,8
+SUV,no,1
+Minivan,yes,11
+Pickup,yes,1
+Van,no,7
+Minivan,no,7
+SUV,no,8
+Minivan,no,16
+Van,no,6
+SUV,no,13
+SUV,no,9
+SUV,no,1
+Pickup,no,
+Pickup,yes,11
+Minivan,yes,1
+SUV,no,16
+Van,yes,18
+SUV,yes,15
+SUV,no,7
+Minivan,no,21
+Panel Truck,no,14
+SUV,no,9
+Minivan,no,9
+SUV,no,8
+Minivan,no,8
+Pickup,no,1
+Sports Car,no,14
+Sports Car,no,7
+SUV,no,16
+Minivan,no,11
+Minivan,yes,1
+Pickup,no,16
+Sports Car,no,13
+Minivan,no,8
+SUV,no,4
+Minivan,no,1
+Panel Truck,no,6
+Minivan,yes,1
+SUV,no,1
+SUV,no,19
+Minivan,no,12
+Pickup,no,1
+Van,no,17
+Sports Car,no,
+Pickup,no,17
+Sports Car,no,12
+Minivan,no,11
+SUV,no,6
+SUV,no,13
+Pickup,no,7
+Minivan,no,13
+Van,no,1
+Sports Car,no,
+SUV,no,12
+Sports Car,no,4
+Panel Truck,yes,8
+SUV,no,6
+SUV,no,1
+Van,no,20
+Van,yes,10
+Sports Car,no,1
+Sports Car,no,
+Sports Car,yes,8
+Sports Car,no,13
+Minivan,yes,18
+Van,no,20
+Sports Car,no,6
+Minivan,yes,1
+Minivan,yes,15
+Van,no,5
+Minivan,no,8
+Pickup,yes,11
+Minivan,yes,1
+Minivan,yes,9
+Minivan,no,9
+Minivan,no,
+Sports Car,no,19
+Van,yes,14
+Minivan,no,12
+Sports Car,no,11
+Minivan,yes,7
+SUV,no,1
+SUV,no,1
+Panel Truck,yes,7
+Minivan,yes,6
+Panel Truck,yes,17
+Minivan,yes,5
+SUV,no,9
+Panel Truck,no,8
+Pickup,no,14
+Sports Car,no,20
+Minivan,yes,7
+Minivan,yes,1
+Pickup,no,10
+Minivan,no,1
+Pickup,no,9
+SUV,no,1
+Minivan,no,1
+Minivan,yes,21
+SUV,no,8
+Pickup,no,1
+Van,yes,15
+Van,no,18
+Sports Car,no,9
+SUV,no,15
+Minivan,yes,1
+Pickup,no,10
+SUV,no,7
+Minivan,yes,1
+SUV,no,12
+Minivan,yes,1
+Pickup,no,7
+SUV,no,9
+Minivan,no,16
+SUV,no,6
+SUV,no,13
+Sports Car,no,1
+Pickup,yes,12
+Van,yes,15
+SUV,no,5
+Van,no,9
+Minivan,no,9
+Pickup,no,18
+Minivan,no,6
+SUV,no,1
+Sports Car,no,10
+Van,no,10
+SUV,no,1
+SUV,no,22
+SUV,no,1
+Sports Car,no,8
+SUV,no,1
+SUV,no,1
+Minivan,yes,13
+Panel Truck,yes,1
+Minivan,no,15
+Panel Truck,yes,9
+Sports Car,no,7
+Pickup,no,6
+Pickup,no,1
+Sports Car,no,9
+Pickup,yes,1
+Minivan,no,9
+Minivan,no,1
+Van,yes,13
+Minivan,yes,5
+Minivan,no,13
+Minivan,no,11
+Pickup,yes,7
+SUV,no,1
+Pickup,yes,12
+SUV,no,12
+Sports Car,no,1
+Pickup,no,6
+Pickup,no,8
+SUV,no,15
+Sports Car,no,8
+SUV,no,
+Pickup,no,6
+Minivan,yes,7
+SUV,no,11
+Sports Car,no,12
+Panel Truck,no,20
+Pickup,yes,1
+SUV,no,9
+Pickup,no,1
+Minivan,no,9
+Panel Truck,no,17
+Sports Car,no,1
+Panel Truck,yes,7
+Minivan,yes,16
+SUV,no,9
+Panel Truck,no,1
+Minivan,no,6
+Minivan,no,15
+Panel Truck,yes,1
+Pickup,no,1
+Minivan,no,17
+Pickup,no,1
+SUV,no,7
+Pickup,no,1
+SUV,no,8
+Pickup,yes,15
+Panel Truck,yes,11
+SUV,no,10
+Pickup,no,12
+SUV,no,19
+SUV,no,1
+SUV,no,6
+SUV,no,13
+Minivan,no,15
+SUV,no,18
+SUV,no,10
+Sports Car,no,8
+Minivan,no,17
+Van,no,
+Minivan,no,1
+Panel Truck,no,5
+Minivan,no,7
+SUV,yes,
+Minivan,no,10
+Minivan,yes,1
+SUV,no,7
+Pickup,yes,15
+Minivan,yes,1
+Minivan,yes,5
+Van,yes,1
+SUV,no,5
+Sports Car,yes,
+Minivan,yes,14
+Sports Car,no,1
+Minivan,yes,18
+Minivan,no,12
+SUV,no,10
+Sports Car,no,7
+Minivan,no,14
+SUV,no,1
+Minivan,no,1
+Pickup,no,6
+Van,yes,7
+Pickup,yes,1
+SUV,no,5
+Sports Car,no,1
+Minivan,yes,1
+Panel Truck,no,13
+Sports Car,no,1
+Minivan,no,15
+SUV,no,6
+Minivan,yes,5
+Van,yes,17
+Van,no,13
+Pickup,yes,19
+Pickup,yes,5
+Pickup,no,1
+Minivan,no,15
+Sports Car,no,11
+SUV,no,1
+SUV,no,7
+Minivan,no,6
+Sports Car,no,
+Pickup,yes,9
+SUV,no,10
+Pickup,yes,15
+Minivan,yes,8
+Minivan,no,1
+Minivan,no,4
+Van,yes,18
+SUV,no,10
+Panel Truck,no,12
+Pickup,no,1
+SUV,no,1
+Pickup,no,13
+Panel Truck,yes,6
+Panel Truck,no,19
+SUV,no,10
+Pickup,no,7
+Van,yes,13
+SUV,no,1
+Panel Truck,no,14
+Minivan,no,5
+SUV,no,7
+Pickup,yes,9
+Minivan,no,14
+Minivan,yes,13
+SUV,no,8
+Van,yes,1
+Minivan,yes,10
+SUV,no,14
+SUV,no,6
+Pickup,no,4
+Pickup,yes,7
+Pickup,no,1
+SUV,no,1
+Pickup,no,1
+Van,yes,12
+Minivan,yes,13
+Minivan,no,1
+Pickup,no,
+SUV,no,1
+Minivan,yes,16
+Minivan,yes,1
+Sports Car,no,4
+Van,yes,1
+Minivan,yes,8
+SUV,no,1
+SUV,no,3
+SUV,no,1
+Minivan,yes,1
+SUV,no,7
+Sports Car,no,1
+Van,no,6
+SUV,no,4
+SUV,no,1
+Van,no,8
+SUV,no,13
+Pickup,yes,8
+Minivan,yes,20
+Panel Truck,no,13
+SUV,no,19
+Van,no,17
+Sports Car,no,6
+SUV,no,19
+SUV,no,1
+Sports Car,no,4
+Minivan,yes,1
+Minivan,yes,1
+SUV,no,7
+SUV,no,7
+Van,yes,1
+Pickup,no,15
+SUV,no,5
+SUV,no,5
+Pickup,no,1
+SUV,no,1
+Sports Car,no,6
+SUV,no,8
+Pickup,yes,1
+Pickup,no,18
+Pickup,yes,5
+Minivan,yes,13
+Minivan,no,16
+Van,no,1
+Minivan,yes,9
+Sports Car,no,1
+Minivan,no,10
+Sports Car,no,1
+Sports Car,no,
+Pickup,no,16
+SUV,no,9
+Pickup,yes,18
+SUV,no,1
+Sports Car,no,8
+Minivan,no,1
+Minivan,no,1
+SUV,no,6
+Minivan,no,14
+Van,no,9
+SUV,no,1
+SUV,no,6
+Panel Truck,yes,8
+Panel Truck,no,7
+Van,no,1
+SUV,no,12
+Sports Car,no,6
+Sports Car,no,14
+Van,yes,15
+Pickup,yes,1
+Pickup,no,15
+SUV,no,
+Minivan,yes,9
+Minivan,no,14
+SUV,no,8
+Minivan,no,13
+Pickup,no,1
+Pickup,no,1
+Sports Car,no,1
+Pickup,yes,
+Sports Car,no,7
+Minivan,yes,14
+SUV,no,1
+Minivan,no,12
+Pickup,no,9
+SUV,no,1
+Van,no,11
+SUV,no,5
+Minivan,yes,15
+SUV,no,1
+Sports Car,no,1
+Minivan,no,8
+Panel Truck,yes,1
+Panel Truck,yes,15
+SUV,no,1
+Minivan,yes,14
+Minivan,yes,10
+Panel Truck,no,1
+Panel Truck,yes,11
+Pickup,no,8
+SUV,no,1
+Minivan,no,14
+Sports Car,no,6
+Panel Truck,yes,10
+Panel Truck,yes,10
+Minivan,yes,8
+Sports Car,no,10
+SUV,no,13
+Sports Car,no,9
+Minivan,yes,1
+Pickup,yes,1
+Sports Car,no,12
+Minivan,no,13
+Minivan,no,10
+Minivan,no,11
+Panel Truck,no,
+SUV,no,
+Pickup,no,1
+SUV,no,13
+SUV,no,14
+Minivan,no,20
+Panel Truck,no,1
+Pickup,yes,1
+Minivan,no,1
+Sports Car,no,8
+Pickup,no,10
+Pickup,no,1
+Sports Car,no,18
+SUV,no,7
+Sports Car,no,5
+Pickup,no,9
+SUV,no,1
+Pickup,yes,16
+Pickup,yes,1
+SUV,no,5
+Sports Car,no,6
+Van,yes,18
+SUV,no,13
+Sports Car,no,1
+Van,yes,18
+Pickup,no,1
+Sports Car,no,15
+SUV,no,
+Pickup,no,15
+Minivan,yes,1
+Sports Car,no,6
+Van,yes,1
+Pickup,yes,1
+Sports Car,no,16
+Van,yes,12
+Panel Truck,no,7
+SUV,no,7
+Minivan,yes,5
+SUV,no,17
+Minivan,no,1
+SUV,no,9
+SUV,no,7
+Pickup,no,6
+Minivan,no,17
+Sports Car,no,17
+SUV,no,6
+Pickup,yes,4
+Panel Truck,no,
+Pickup,no,1
+Minivan,yes,12
+SUV,no,1
+Minivan,no,12
+Van,no,12
+SUV,no,16
+Sports Car,no,1
+Pickup,yes,1
+Sports Car,no,1
+Minivan,yes,6
+Minivan,yes,14
+SUV,no,7
+Pickup,no,5
+Minivan,no,1
+Minivan,no,8
+Sports Car,no,7
+Minivan,yes,5
+SUV,no,12
+Sports Car,yes,1
+Van,no,1
+SUV,no,11
+Pickup,yes,11
+Minivan,no,
+Pickup,no,6
+Minivan,no,1
+SUV,no,1
+Minivan,no,1
+Van,yes,13
+Minivan,no,15
+SUV,no,1
+SUV,no,8
+Minivan,no,17
+Panel Truck,yes,1
+SUV,yes,13
+Minivan,yes,6
+Minivan,no,1
+Panel Truck,no,8
+Pickup,no,19
+Minivan,yes,10
+SUV,no,1
+Panel Truck,yes,1
+Pickup,yes,8
+Sports Car,no,10
+SUV,no,1
+Sports Car,no,11
+Pickup,no,8
+SUV,no,1
+Panel Truck,yes,9
+SUV,no,6
+Minivan,no,11
+Minivan,no,1
+Pickup,no,12
+SUV,no,1
+Pickup,no,5
+Minivan,no,8
+Minivan,yes,20
+Minivan,yes,10
+SUV,no,13
+SUV,no,10
+Sports Car,no,9
+Van,no,18
+Minivan,no,11
+Pickup,no,1
+Van,yes,1
+SUV,no,1
+Sports Car,no,9
+Minivan,no,13
+Pickup,yes,13
+Van,no,13
+Minivan,yes,16
+Pickup,yes,13
+Minivan,no,1
+SUV,no,11
+SUV,no,1
+Sports Car,yes,18
+Pickup,yes,15
+Pickup,yes,1
+Sports Car,no,1
+SUV,no,12
+SUV,no,18
+Minivan,yes,13
+SUV,no,10
+Minivan,yes,17
+Sports Car,no,16
+SUV,no,1
+Pickup,yes,1
+Pickup,no,13
+Pickup,no,4
+SUV,no,8
+Minivan,no,10
+Van,yes,20
+SUV,no,16
+Sports Car,no,6
+Pickup,no,1
+SUV,no,1
+Minivan,no,8
+Van,no,21
+Pickup,no,7
+Pickup,yes,1
+SUV,no,1
+SUV,no,17
+SUV,no,9
+Minivan,no,8
+SUV,no,1
+SUV,no,12
+Pickup,no,
+Minivan,yes,14
+SUV,no,1
+Pickup,yes,1
+Minivan,no,12
+Minivan,no,11
+Pickup,no,11
+Pickup,no,5
+Sports Car,no,7
+SUV,no,9
+Pickup,no,5
+Minivan,yes,14
+Minivan,no,1
+Minivan,yes,6
+SUV,no,
+SUV,no,7
+Minivan,no,11
+Panel Truck,yes,7
+SUV,no,8
+Van,no,12
+Minivan,no,8
+Minivan,yes,1
+Minivan,no,12
+SUV,no,7
+Minivan,no,1
+Pickup,no,7
+Sports Car,no,16
+SUV,no,14
+SUV,no,1
+SUV,no,14
+SUV,no,1
+Van,yes,15
+SUV,yes,6
+Sports Car,no,14
+Pickup,yes,8
+Panel Truck,no,14
+Minivan,no,8
+Panel Truck,yes,14
+SUV,no,11
+Minivan,yes,13
+SUV,no,18
+Pickup,yes,1
+Pickup,no,1
+SUV,no,1
+Pickup,yes,
+SUV,no,13
+Pickup,no,8
+Sports Car,no,10
+Panel Truck,yes,14
+SUV,no,11
+SUV,no,9
+SUV,no,10
+Pickup,yes,14
+Minivan,yes,1
+SUV,no,
+Sports Car,no,3
+Pickup,no,13
+Pickup,yes,10
+Minivan,no,12
+Minivan,no,1
+Pickup,no,18
+Van,no,13
+Panel Truck,no,19
+Minivan,no,5
+Minivan,yes,8
+Van,yes,6
+SUV,no,9
+SUV,no,
+Sports Car,no,6
+Panel Truck,yes,10
+Pickup,no,1
+SUV,no,14
+Minivan,no,12
+SUV,no,7
+Minivan,yes,11
+SUV,no,
+Panel Truck,yes,14
+SUV,no,17
+Pickup,no,6
+Van,yes,9
+Van,yes,5
+Pickup,no,1
+Minivan,yes,17
+SUV,no,1
+Minivan,no,9
+SUV,no,7
+SUV,no,
+Minivan,no,12
+Sports Car,no,10
+Minivan,yes,1
+Minivan,yes,10
+Minivan,no,5
+SUV,no,1
+SUV,no,1
+SUV,no,1
+Sports Car,no,20
+Minivan,no,1
+SUV,no,1
+Panel Truck,yes,1
+Sports Car,no,14
+Pickup,no,
+Van,no,6
+Sports Car,no,17
+Minivan,no,1
+Pickup,no,1
+SUV,no,7
+Panel Truck,no,10
+Panel Truck,yes,13
+Van,yes,4
+Minivan,no,7
+SUV,no,1
+Sports Car,no,8
+SUV,no,9
+SUV,no,
+Pickup,no,6
+Minivan,yes,6
+Minivan,no,7
+SUV,no,17
+Minivan,no,19
+Van,no,8
+Van,yes,10
+SUV,no,13
+Pickup,yes,8
+Minivan,no,10
+Pickup,yes,1
+Minivan,no,1
+Panel Truck,no,8
+Minivan,yes,7
+Minivan,no,14
+SUV,no,14
+SUV,no,1
+Pickup,yes,4
+SUV,no,5
+Minivan,yes,14
+Panel Truck,no,16
+SUV,no,1
+Sports Car,no,18
+SUV,no,1
+Minivan,yes,13
+Minivan,no,10
+Pickup,yes,19
+Minivan,no,
+Pickup,no,16
+SUV,no,9
+SUV,no,11
+Van,no,1
+Pickup,no,11
+SUV,yes,17
+SUV,no,12
+Pickup,no,9
+Pickup,yes,1
+Sports Car,no,11
+Pickup,no,10
+Pickup,yes,1
+Minivan,no,9
+Pickup,no,9
+Panel Truck,yes,8
+Minivan,no,17
+Minivan,no,7
+SUV,no,13
+SUV,no,9
+Minivan,yes,6
+Sports Car,no,6
+SUV,yes,1
+Sports Car,no,8
+Pickup,no,1
+SUV,no,1
+SUV,no,6
+Minivan,no,11
+Van,yes,13
+SUV,no,12
+Sports Car,no,6
+Panel Truck,yes,16
+SUV,no,4
+Panel Truck,no,15
+Minivan,yes,9
+Sports Car,no,1
+SUV,no,17
+Pickup,yes,1
+Van,yes,16
+Van,no,11
+Minivan,no,
+Minivan,no,8
+SUV,no,13
+Pickup,yes,9
+SUV,no,1
+Van,yes,
+Minivan,yes,16
+Sports Car,no,1
+Minivan,no,11
+Panel Truck,yes,13
+Minivan,yes,1
+SUV,no,14
+SUV,no,10
+Minivan,no,
+Sports Car,no,7
+Minivan,no,5
+SUV,no,1
+Panel Truck,no,8
+Minivan,no,14
+Minivan,yes,10
+Panel Truck,yes,10
+SUV,no,1
+Pickup,yes,8
+Pickup,no,12
+SUV,no,9
+Sports Car,no,14
+Pickup,no,
+Pickup,no,
+Panel Truck,no,
+Sports Car,no,1
+Minivan,no,13
+Minivan,yes,12
+SUV,no,6
+Van,yes,1
+Minivan,no,1
+Minivan,no,8
+Van,yes,11
+Minivan,no,15
+Van,yes,1
+Minivan,yes,10
+Pickup,yes,14
+SUV,no,8
+Sports Car,no,1
+Panel Truck,no,1
+SUV,no,17
+Pickup,yes,13
+Pickup,yes,1
+SUV,no,9
+Pickup,yes,15
+Minivan,yes,14
+Panel Truck,yes,1
+SUV,no,
+Pickup,yes,1
+Sports Car,no,9
+Minivan,no,6
+Minivan,no,13
+SUV,no,5
+Van,yes,11
+Minivan,no,1
+Pickup,no,7
+SUV,no,7
+SUV,no,8
+Minivan,no,17
+SUV,no,8
+Van,yes,18
+Minivan,no,16
+Minivan,no,12
+SUV,no,7
+Panel Truck,no,17
+Minivan,yes,20
+Panel Truck,no,6
+Pickup,no,1
+SUV,no,14
+SUV,no,5
+Minivan,no,20
+Minivan,no,1
+Minivan,yes,12
+SUV,no,15
+Minivan,no,6
+Panel Truck,yes,17
+Minivan,no,1
+SUV,no,15
+Sports Car,no,9
+Sports Car,no,7
+Minivan,no,6
+SUV,no,5
+Panel Truck,no,5
+Minivan,no,14
+Minivan,no,17
+SUV,no,10
+SUV,no,16
+Pickup,yes,5
+Minivan,no,1
+Panel Truck,yes,6
+SUV,no,1
+SUV,no,1
+SUV,no,1
+Van,yes,11
+SUV,no,17
+Panel Truck,no,13
+SUV,no,9
+SUV,no,14
+SUV,no,4
+SUV,no,11
+SUV,no,1
+Panel Truck,no,8
+Minivan,no,
+Minivan,no,
+Sports Car,no,14
+SUV,no,6
+Panel Truck,yes,
+SUV,no,13
+SUV,no,1
+SUV,no,11
+Sports Car,yes,8
+Pickup,yes,7
+Van,no,1
+Minivan,yes,1
+Pickup,yes,9
+SUV,no,14
+Pickup,yes,1
+Sports Car,no,7
+Sports Car,no,
+Sports Car,no,
+Panel Truck,yes,
+Pickup,yes,1
+SUV,no,1
+Minivan,no,9
+SUV,no,13
+Minivan,yes,8
+Minivan,no,19
+Minivan,yes,1
+SUV,no,1
+Minivan,yes,8
+SUV,no,5
+Minivan,yes,1
+Van,yes,1
+SUV,no,9
+Van,no,8
+Minivan,yes,
+Pickup,yes,4
+Minivan,no,17
+Van,no,1
+Sports Car,no,1
+Minivan,no,7
+Sports Car,no,6
+Minivan,yes,5
+Minivan,yes,
+Pickup,no,1
+Pickup,no,12
+Sports Car,no,11
+SUV,no,1
+SUV,no,1
+Minivan,no,12
+SUV,no,8
+Minivan,yes,19
+Pickup,yes,5
+Minivan,no,9
+Minivan,no,14
+Pickup,yes,22
+Van,no,14
+SUV,no,13
+Sports Car,no,13
+Pickup,yes,8
+SUV,no,9
+Minivan,no,7
+Sports Car,no,1
+Pickup,yes,6
+Minivan,no,18
+SUV,no,1
+Minivan,yes,1
+SUV,no,7
+Sports Car,no,3
+Sports Car,no,1
+Van,yes,
+Pickup,no,
+Minivan,no,7
+Sports Car,no,11
+Pickup,no,9
+Minivan,yes,1
+Van,yes,18
+Minivan,yes,17
+Minivan,no,16
+Panel Truck,yes,8
+SUV,no,1
+Van,yes,14
+SUV,no,5
+Minivan,no,
+Sports Car,no,6
+Minivan,yes,6
+Minivan,no,9
+Minivan,yes,6
+SUV,no,1
+SUV,no,1
+SUV,no,8
+Pickup,no,9
+Van,no,11
+Van,no,6
+SUV,no,1
+Pickup,no,15
+Minivan,no,1
+Panel Truck,no,8
+Van,yes,8
+Minivan,no,15
+SUV,no,8
+Minivan,yes,1
+Pickup,no,1
+Minivan,yes,15
+SUV,no,
+SUV,no,5
+Pickup,no,2
+Panel Truck,yes,6
+SUV,no,8
+Minivan,yes,7
+SUV,no,5
+Sports Car,no,11
+Minivan,yes,1
+Minivan,yes,10
+SUV,no,12
+Minivan,yes,1
+Minivan,yes,7
+Pickup,yes,1
+Pickup,yes,1
+Minivan,no,
+Pickup,no,10
+SUV,no,10
+SUV,no,6
+Panel Truck,no,20
+Pickup,yes,1
+Minivan,no,14
+Sports Car,no,7
+Minivan,yes,21
+Sports Car,no,17
+Minivan,no,8
+SUV,yes,1
+Sports Car,no,9
+Panel Truck,no,1
+SUV,no,1
+SUV,no,14
+Pickup,yes,7
+Sports Car,no,12
+SUV,no,14
+SUV,no,7
+SUV,no,13
+SUV,no,15
+Minivan,no,6
+Pickup,yes,1
+Panel Truck,no,11
+Pickup,yes,1
+Minivan,yes,10
+Sports Car,no,12
+Van,yes,
+Van,no,1
+SUV,no,9
+SUV,no,10
+Minivan,no,12
+Pickup,no,13
+Minivan,no,19
+SUV,no,1
+SUV,no,6
+Sports Car,no,5
+SUV,no,7
+SUV,no,8
+SUV,yes,1
+Pickup,no,4
+SUV,no,7
+Pickup,no,1
+Van,yes,9
+Pickup,no,12
+Sports Car,no,1
+SUV,no,7
+Panel Truck,yes,16
+Minivan,no,12
+Minivan,no,8
+SUV,no,7
+SUV,no,16
+Panel Truck,yes,1
+Minivan,no,8
+SUV,no,8
+Van,yes,1
+SUV,yes,
+Van,no,5
+SUV,no,7
+SUV,no,1
+Sports Car,no,1
+Minivan,no,1
+SUV,no,10
+Panel Truck,no,1
+SUV,no,12
+Pickup,no,8
+Van,no,
+Sports Car,no,1
+Minivan,no,16
+Van,yes,13
+Pickup,no,13
+SUV,no,13
+Minivan,no,1
+Van,yes,9
+Panel Truck,yes,14
+Pickup,yes,1
+SUV,no,23
+Minivan,no,1
+Panel Truck,yes,1
+Minivan,yes,6
+SUV,no,8
+Pickup,yes,1
+SUV,no,5
+Pickup,yes,6
+Pickup,yes,7
+Pickup,no,14
+Sports Car,no,5
+SUV,no,4
+SUV,no,10
+Pickup,yes,6
+SUV,no,1
+SUV,no,10
+SUV,no,7
+SUV,no,19
+SUV,no,1
+SUV,no,11
+SUV,no,9
+SUV,no,9
+Minivan,no,13
+Minivan,no,7
+SUV,no,11
+Pickup,no,12
+Pickup,no,
+SUV,no,1
+Sports Car,no,1
+SUV,no,4
+Sports Car,no,4
+Pickup,yes,9
+Van,no,6
+SUV,no,10
+Minivan,yes,13
+Pickup,no,8
+Van,no,7
+Sports Car,no,1
+Pickup,no,10
+Van,no,1
+Minivan,no,1
+Minivan,yes,4
+SUV,no,10
+Pickup,no,14
+SUV,no,12
+Minivan,no,15
+Minivan,no,14
+Minivan,no,12
+Minivan,yes,1
+Pickup,yes,18
+Panel Truck,yes,8
+Minivan,no,4
+Pickup,yes,1
+Sports Car,no,16
+SUV,no,9
+SUV,no,11
+Pickup,no,19
+SUV,no,1
+Van,yes,1
+Pickup,no,18
+Minivan,yes,11
+SUV,no,1
+Van,yes,15
+Pickup,no,8
+Van,no,13
+Van,yes,23
+Pickup,yes,6
+Minivan,no,13
+Minivan,no,10
+SUV,no,3
+SUV,no,10
+Pickup,no,13
+Pickup,no,13
+SUV,no,5
+Minivan,yes,1
+Minivan,no,1
+Minivan,no,18
+Minivan,no,10
+Van,yes,6
+Minivan,no,7
+SUV,no,1
+SUV,no,8
+SUV,no,7
+SUV,no,9
+Pickup,no,4
+SUV,no,10
+Pickup,yes,9
+Minivan,no,10
+Sports Car,no,10
+Pickup,yes,1
+Minivan,yes,7
+Panel Truck,no,
+Pickup,yes,1
+Minivan,no,16
+Pickup,no,4
+Van,no,14
+SUV,no,3
+Minivan,yes,13
+Minivan,no,1
+Minivan,yes,6
+Panel Truck,yes,8
+Sports Car,no,6
+SUV,no,17
+SUV,no,10
+Minivan,no,1
+SUV,no,6
+Pickup,no,1
+Minivan,yes,
+SUV,no,1
+SUV,no,1
+SUV,no,1
+Pickup,no,10
+SUV,no,9
+Minivan,yes,1
+SUV,no,5
+Pickup,yes,1
+SUV,no,10
+Pickup,no,1
+Minivan,yes,11
+Panel Truck,yes,
+Minivan,yes,1
+SUV,no,9
+Van,no,5
+Sports Car,no,14
+Pickup,no,6
+Minivan,no,9
+Panel Truck,no,15
+SUV,no,8
+SUV,no,12
+Panel Truck,no,
+Pickup,yes,8
+Minivan,yes,7
+SUV,no,
+SUV,no,10
+Minivan,no,13
+Minivan,no,10
+Sports Car,no,5
+Minivan,no,10
+Sports Car,no,12
+Minivan,no,1
+Pickup,no,1
+Sports Car,no,
+Panel Truck,yes,16
+Van,no,27
+Minivan,no,15
+Sports Car,no,5
+Sports Car,no,1
+Minivan,no,10
+Minivan,yes,16
+SUV,no,21
+Sports Car,no,1
+Pickup,no,17
+SUV,no,1
+Van,no,8
+Pickup,no,6
+Minivan,no,3
+Sports Car,no,13
+SUV,no,19
+Minivan,no,17
+Minivan,no,
+Pickup,no,10
+Minivan,yes,9
+Minivan,yes,7
+Minivan,yes,
+Minivan,no,
+Panel Truck,no,6
+Minivan,yes,19
+Van,no,5
+Minivan,no,16
+Panel Truck,no,9
+SUV,no,1
+Sports Car,no,5
+Pickup,yes,1
+Panel Truck,yes,15
+Sports Car,no,3
+SUV,no,1
+SUV,no,1
+Pickup,no,1
+Pickup,no,5
+Minivan,yes,1
+SUV,no,10
+Pickup,yes,1
+Sports Car,no,9
+SUV,no,9
+SUV,no,7
+SUV,no,6
+Pickup,no,16
+Minivan,yes,1
+Sports Car,no,7
+SUV,no,11
+Minivan,no,12
+Van,yes,8
+SUV,no,7
+SUV,no,16
+Minivan,no,8
+Pickup,yes,9
+Minivan,no,5
+Minivan,no,7
+Panel Truck,yes,
+Van,no,15
+Panel Truck,no,15
+Minivan,no,6
+SUV,no,15
+Minivan,yes,7
+Minivan,no,1
+SUV,no,1
+SUV,no,1
+SUV,no,10
+Sports Car,no,6
+Minivan,no,8
+Pickup,no,1
+SUV,no,6
+Sports Car,no,1
+Pickup,no,13
+SUV,no,1
+SUV,no,8
+Sports Car,no,17
+Panel Truck,no,5
+Minivan,no,13
+Pickup,no,1
+SUV,no,1
+Minivan,no,6
+Pickup,no,16
+SUV,no,6
+Van,yes,8
+SUV,no,1
+Sports Car,no,1
+Minivan,no,7
+SUV,no,7
+SUV,no,11
+Sports Car,no,8
+Pickup,yes,1
+SUV,no,19
+Pickup,no,7
+Panel Truck,yes,15
+SUV,no,14
+Minivan,yes,20
+Van,yes,
+SUV,no,8
+SUV,no,1
+Minivan,yes,10
+Sports Car,no,24
+Minivan,no,15
+Pickup,yes,1
+SUV,no,1
+SUV,no,6
+SUV,no,18
+Pickup,no,
+Minivan,yes,13
+Minivan,no,17
+SUV,no,1
+Panel Truck,yes,
+Pickup,yes,7
+SUV,no,6
+Pickup,no,1
+Van,no,13
+SUV,no,
+SUV,no,1
+SUV,no,
+SUV,no,1
+Minivan,no,3
+Panel Truck,yes,5
+SUV,no,10
+SUV,no,11
+Sports Car,no,6
+Sports Car,no,9
+Minivan,no,16
+Pickup,yes,7
+SUV,no,6
+Sports Car,no,1
+Van,yes,1
+SUV,no,9
+Minivan,no,12
+SUV,no,8
+Minivan,no,6
+SUV,no,6
+SUV,no,7
+Minivan,no,1
+Panel Truck,yes,1
+Pickup,no,1
+Van,no,11
+Pickup,yes,16
+Minivan,no,19
+Van,yes,15
+Pickup,yes,1
+SUV,no,1
+Panel Truck,yes,11
+Minivan,yes,1
+Minivan,yes,9
+SUV,no,10
+Sports Car,no,1
+Minivan,yes,15
+SUV,no,3
+SUV,no,8
+Pickup,yes,11
+Panel Truck,yes,12
+SUV,no,4
+Sports Car,no,12
+Minivan,no,12
+Pickup,yes,16
+SUV,no,12
+Minivan,no,4
+SUV,no,6
+Minivan,no,1
+Van,no,11
+Minivan,yes,9
+SUV,no,6
+SUV,no,4
+Sports Car,no,1
+SUV,no,5
+SUV,no,1
+Van,yes,15
+Pickup,yes,8
+Minivan,yes,14
+SUV,no,15
+Van,yes,12
+SUV,no,1
+SUV,no,8
+Pickup,yes,14
+Panel Truck,no,9
+Minivan,yes,24
+Pickup,no,7
+SUV,no,1
+Panel Truck,yes,1
+SUV,no,8
+Panel Truck,yes,13
+Panel Truck,no,15
+Minivan,no,9
+Van,yes,1
+SUV,no,19
+Sports Car,no,
+Minivan,no,15
+Pickup,yes,10
+Pickup,no,14
+Minivan,yes,11
+Sports Car,no,10
+Panel Truck,no,16
+Minivan,yes,12
+Pickup,no,4
+Sports Car,no,13
+Pickup,yes,1
+Pickup,yes,19
+Pickup,no,16
+SUV,no,6
+Minivan,yes,
+Van,no,13
+Panel Truck,no,1
+Minivan,no,15
+Panel Truck,no,15
+Pickup,yes,12
+SUV,no,1
+Pickup,no,13
+SUV,no,1
+Minivan,no,8
+Sports Car,yes,1
+Panel Truck,yes,25
+Panel Truck,no,1
+Panel Truck,no,7
+Van,no,1
+SUV,no,20
+SUV,no,1
+Sports Car,no,16
+Panel Truck,yes,17
+Minivan,yes,1
+Pickup,no,13
+Sports Car,no,1
+Van,no,15
+SUV,no,12
+Pickup,yes,6
+Van,yes,1
+Minivan,yes,16
+Pickup,yes,1
+SUV,no,14
+Sports Car,no,1
+SUV,no,1
+Minivan,no,6
+Van,yes,9
+SUV,no,1
+Minivan,no,11
+Panel Truck,no,1
+Sports Car,no,8
+SUV,no,1
+Sports Car,no,1
+Van,yes,18
+Sports Car,no,1
+Minivan,no,12
+SUV,no,
+Pickup,no,1
+Minivan,no,14
+Sports Car,no,6
+Pickup,yes,14
+SUV,no,1
+Minivan,yes,19
+Minivan,yes,1
+Minivan,no,8
+SUV,no,13
+Van,yes,
+SUV,no,10
+Pickup,no,1
+SUV,no,1
+Pickup,no,
+Sports Car,no,1
+Pickup,yes,9
+SUV,no,13
+Van,no,1
+Sports Car,no,1
+Minivan,no,10
+SUV,no,7
+Minivan,no,16
+Minivan,no,1
+Minivan,no,5
+Minivan,no,6
+Minivan,yes,1
+Van,no,11
+Pickup,yes,7
+Panel Truck,no,10
+SUV,no,5
+Minivan,no,1
+Minivan,no,11
+Sports Car,no,1
+Pickup,no,
+Minivan,yes,9
+Minivan,yes,12
+Panel Truck,no,8
+Panel Truck,yes,8
+Pickup,yes,1
+Minivan,yes,7
+Pickup,yes,5
+Van,yes,1
+Minivan,no,8
+SUV,no,10
+Pickup,no,1
+Minivan,yes,1
+Minivan,no,18
+Van,no,1
+Minivan,no,8
+Van,yes,9
+Pickup,no,17
+Van,no,4
+Van,no,10
+Minivan,no,12
+Sports Car,no,6
+Panel Truck,yes,6
+Minivan,yes,1
+Sports Car,no,18
+Sports Car,no,9
+SUV,no,1
+Pickup,no,1
+SUV,no,19
+Panel Truck,no,15
+SUV,no,13
+Minivan,no,1
+Minivan,no,1
+SUV,no,7
+Minivan,no,7
+SUV,no,1
+SUV,no,9
+Pickup,no,7
+SUV,no,1
+SUV,no,
+Panel Truck,yes,
+Sports Car,no,12
+SUV,no,7
+Pickup,no,10
+Minivan,no,8
+Van,yes,1
+SUV,no,1
+SUV,no,1
+Minivan,yes,11
+Sports Car,no,13
+SUV,no,1
+Minivan,yes,6
+SUV,no,15
+Sports Car,no,7
+SUV,no,1
+Van,yes,8
+Minivan,no,15
+Panel Truck,no,9
+Panel Truck,yes,20
+Minivan,yes,9
+Minivan,no,13
+Minivan,yes,9
+SUV,no,7
+Minivan,no,13
+Panel Truck,yes,11
+Van,no,11
+Panel Truck,yes,11
+Panel Truck,yes,17
+Panel Truck,no,1
+Van,no,11
+Pickup,no,8
+Panel Truck,no,11
+SUV,yes,11
+Pickup,no,
+Pickup,yes,1
+Minivan,no,6
+Minivan,no,1
+Minivan,no,4
+SUV,no,12
+Minivan,no,13
+Panel Truck,no,22
+Minivan,no,1
+SUV,no,8
+Sports Car,no,11
+Minivan,no,12
+Sports Car,no,12
+Minivan,no,17
+Pickup,no,1
+Pickup,no,13
+Pickup,no,9
+Panel Truck,no,13
+Minivan,yes,9
+Minivan,no,11
+Van,no,16
+SUV,no,1
+SUV,no,22
+Sports Car,no,7
+Minivan,no,8
+Van,no,8
+Minivan,yes,
+Van,no,14
+SUV,no,11
+SUV,no,6
+Minivan,no,10
+Pickup,yes,1
+Van,no,12
+SUV,no,15
+Sports Car,no,1
+Van,yes,7
+Van,yes,12
+Van,no,1
+Van,no,9
+SUV,no,1
+Panel Truck,no,10
+SUV,no,10
+Van,yes,11
+Sports Car,no,9
+SUV,no,11
+Minivan,yes,13
+Minivan,no,9
+SUV,no,7
+Pickup,no,7
+Van,yes,18
+Pickup,no,8
+Pickup,yes,1
+SUV,no,11
+Panel Truck,no,20
+Van,yes,19
+Minivan,no,17
+Minivan,no,12
+Van,no,10
+Minivan,no,12
+SUV,no,4
+Pickup,no,10
+Van,yes,16
+Minivan,no,9
+Sports Car,no,11
+Minivan,no,11
+Minivan,no,13
+SUV,no,14
+Pickup,no,15
+Minivan,no,15
+Pickup,no,1
+SUV,no,7
+SUV,no,2
+Pickup,yes,6
+Panel Truck,yes,6
+SUV,no,1
+Van,yes,7
+SUV,no,15
+Sports Car,no,8
+SUV,no,15
+SUV,no,8
+Sports Car,no,1
+Pickup,no,1
+SUV,no,8
+Minivan,yes,17
+Minivan,no,
+Panel Truck,yes,10
+Minivan,no,9
+Minivan,no,9
+Minivan,yes,12
+Panel Truck,no,14
+Pickup,no,14
+Minivan,yes,18
+Pickup,no,7
+Sports Car,no,11
+Pickup,no,17
+Minivan,no,7
+Pickup,no,15
+Minivan,yes,19
+SUV,no,12
+Panel Truck,yes,18
+Minivan,yes,16
+SUV,no,9
+Van,yes,1
+SUV,no,13
+Van,yes,12
+Minivan,yes,1
+Pickup,yes,6
+Sports Car,no,12
+SUV,no,7
+SUV,no,1
+Pickup,yes,10
+SUV,no,1
+Minivan,yes,11
+Minivan,no,7
+Panel Truck,yes,9
+SUV,no,1
+Pickup,no,16
+SUV,no,8
+SUV,no,1
+SUV,no,15
+Pickup,no,1
+SUV,no,8
+Minivan,no,15
+Pickup,yes,1
+Pickup,no,8
+Minivan,no,8
+SUV,no,14
+Minivan,no,
+Sports Car,no,13
+Pickup,yes,10
+Minivan,yes,7
+SUV,no,1
+Minivan,no,7
+Sports Car,no,11
+SUV,no,11
+Panel Truck,yes,17
+Pickup,yes,11
+Pickup,no,9
+Panel Truck,yes,7
+Minivan,no,17
+SUV,no,1
+Minivan,yes,9
+Minivan,no,14
+Minivan,no,12
+SUV,no,1
+Minivan,no,12
+Pickup,no,14
+Minivan,no,
+SUV,no,21
+Pickup,no,1
+SUV,no,1
+Pickup,no,15
+Minivan,no,10
+SUV,no,12
+Minivan,no,5
+Minivan,no,15
+Van,yes,3
+SUV,no,7
+Minivan,no,1
+Minivan,yes,22
+Pickup,yes,1
+Panel Truck,no,6
+Pickup,yes,1
+Minivan,no,
+SUV,no,15
+Pickup,no,9
+Minivan,no,1
+Minivan,no,15
+Minivan,yes,8
+SUV,no,19
+Sports Car,no,10
+SUV,no,8
+Sports Car,no,1
+SUV,no,1
+Pickup,no,8
+Minivan,yes,5
+Sports Car,no,11
+Minivan,yes,
+Sports Car,no,13
+Pickup,no,1
+Minivan,no,
+Minivan,no,8
+Van,yes,4
+Sports Car,no,5
+Pickup,yes,11
+Sports Car,no,1
+Pickup,yes,1
+Sports Car,no,
+SUV,no,1
+Minivan,no,8
+Minivan,no,15
+Panel Truck,yes,
+SUV,no,6
+Sports Car,no,18
+SUV,no,1
+Pickup,yes,11
+SUV,no,21
+SUV,no,9
+SUV,no,11
+SUV,no,
+Pickup,yes,1
+Minivan,no,10
+Minivan,yes,1
+Minivan,yes,11
+Pickup,yes,13
+Minivan,no,12
+Minivan,no,10
+Pickup,yes,6
+Minivan,no,9
+SUV,no,2
+Van,yes,
+Panel Truck,no,11
+Minivan,no,9
+Panel Truck,yes,14
+Pickup,yes,1
+Pickup,no,
+Sports Car,no,5
+Pickup,yes,10
+SUV,no,1
+Sports Car,no,8
+Panel Truck,no,21
+Sports Car,no,10
+Sports Car,no,1
+Minivan,no,1
+Sports Car,no,13
+Minivan,no,9
+SUV,no,14
+Sports Car,no,
+Van,yes,1
+Minivan,yes,10
+Pickup,no,10
+Pickup,yes,12
+Van,no,1
+Minivan,yes,8
+SUV,no,9
+SUV,no,1
+Minivan,no,4
+SUV,no,7
+SUV,no,12
+Van,no,7
+Minivan,no,1
+SUV,no,1
+Pickup,yes,1
+Sports Car,no,6
+Pickup,yes,1
+Minivan,yes,1
+Pickup,no,17
+Minivan,yes,11
+Pickup,yes,13
+Panel Truck,yes,12
+Pickup,yes,1
+SUV,no,6
+Minivan,no,15
+Minivan,no,16
+Sports Car,no,7
+Pickup,no,11
+Pickup,no,16
+Pickup,no,10
+SUV,no,9
+SUV,no,14
+Pickup,no,11
+Pickup,no,1
+Minivan,no,1
+SUV,no,17
+Panel Truck,no,
+SUV,no,
+Minivan,no,6
+SUV,no,7
+Minivan,yes,7
+Sports Car,no,1
+Minivan,no,17
+Pickup,yes,
+Minivan,yes,10
+SUV,no,10
+SUV,no,9
+SUV,no,11
+Sports Car,no,12
+Panel Truck,no,12
+Pickup,yes,20
+Minivan,no,8
+SUV,no,10
+Sports Car,no,1
+Van,no,14
+Sports Car,no,11
+Minivan,no,12
+Sports Car,no,14
+Pickup,yes,7
+Panel Truck,yes,9
+Minivan,no,9
+SUV,no,11
+SUV,no,6
+Sports Car,no,1
+Pickup,no,
+Pickup,yes,7
+Minivan,no,1
+SUV,no,9
+SUV,no,8
+Sports Car,no,10
+Minivan,no,1
+Van,yes,15
+Pickup,no,8
+Minivan,yes,5
+SUV,no,10
+Sports Car,no,1
+SUV,no,1
+Minivan,no,1
+SUV,no,3
+Pickup,no,1
+Minivan,yes,17
+SUV,no,8
+Minivan,no,13
+Panel Truck,yes,9
+SUV,no,17
+Sports Car,no,9
+Sports Car,no,10
+Minivan,yes,8
+Van,yes,9
+Van,no,1
+Sports Car,no,10
+Van,no,5
+SUV,no,10
+SUV,no,15
+Van,no,10
+Sports Car,no,3
+Panel Truck,yes,1
+Van,yes,13
+Minivan,no,11
+Van,yes,21
+Van,yes,8
+Minivan,no,9
+Sports Car,no,4
+Panel Truck,no,5
+SUV,no,1
+SUV,no,12
+SUV,no,5
+Minivan,yes,15
+Panel Truck,yes,14
+Panel Truck,yes,8
+Van,yes,17
+Pickup,no,
+Minivan,no,15
+Sports Car,no,
+SUV,no,16
+SUV,no,1
+Panel Truck,yes,19
+SUV,no,6
+Sports Car,no,18
+SUV,no,5
+Panel Truck,yes,14
+Minivan,no,6
+Van,no,14
+Van,yes,1
+Pickup,yes,1
+Sports Car,no,
+Minivan,no,11
+Sports Car,no,17
+SUV,no,5
+Minivan,no,1
+Sports Car,no,14
+Van,yes,13
+SUV,no,7
+Minivan,no,8
+SUV,no,14
+Pickup,yes,19
+SUV,no,12
+Minivan,yes,19
+SUV,no,7
+Sports Car,yes,7
+Minivan,no,8
+Panel Truck,yes,1
+Van,no,8
+Pickup,no,9
+Panel Truck,yes,20
+Minivan,yes,11
+SUV,no,14
+Sports Car,no,1
+Minivan,yes,13
+Pickup,no,14
+Minivan,no,10
+Pickup,no,9
+Panel Truck,yes,16
+SUV,no,7
+Pickup,no,1
+SUV,no,1
+Minivan,no,14
+Pickup,no,12
+SUV,no,1
+SUV,no,13
+Pickup,yes,11
+Minivan,yes,10
+Minivan,yes,9
+SUV,no,1
+Sports Car,no,14
+Minivan,no,
+SUV,no,8
+SUV,yes,1
+Pickup,yes,8
+Van,no,16
+Minivan,no,6
+Panel Truck,no,17
+Sports Car,no,15
+Panel Truck,yes,1
+Van,yes,5
+Minivan,no,7
+Pickup,no,8
+SUV,no,12
+Panel Truck,no,7
+Pickup,yes,1
+SUV,no,14
+Van,no,
+Minivan,yes,12
+Pickup,yes,8
+Pickup,no,9
+Panel Truck,yes,17
+Panel Truck,yes,7
+SUV,no,1
+SUV,no,1
+SUV,no,7
+Pickup,yes,10
+Minivan,yes,8
+Panel Truck,no,10
+SUV,no,7
+Minivan,no,14
+Minivan,no,6
+Minivan,yes,5
+Pickup,no,9
+Panel Truck,yes,11
+Minivan,yes,1
+Pickup,no,13
+Minivan,no,18
+SUV,no,6
+Minivan,no,1
+Minivan,yes,17
+Pickup,yes,14
+Panel Truck,yes,17
+Sports Car,no,1
+SUV,no,8
+Panel Truck,yes,17
+Sports Car,yes,6
+Pickup,no,5
+Van,no,7
+SUV,no,1
+Van,yes,5
+SUV,no,14
+SUV,no,1
+SUV,no,9
+SUV,no,1
+Minivan,yes,11
+Pickup,yes,12
+Panel Truck,yes,14
+Minivan,yes,8
+Pickup,yes,
+Minivan,yes,
+Van,yes,1
+Minivan,yes,4
+Panel Truck,yes,16
+Pickup,no,1
+Pickup,no,14
+Minivan,yes,1
+Pickup,no,13
+Van,yes,11
+Pickup,no,17
+Minivan,yes,11
+SUV,no,1
+Van,no,3
+Pickup,no,7
+Panel Truck,no,7
+Minivan,yes,7
+Minivan,no,1
+Van,yes,
+Pickup,yes,
+SUV,no,1
+Pickup,no,
+Minivan,no,1
+Pickup,yes,1
+Minivan,no,7
+Pickup,no,14
+Van,no,1
+Panel Truck,no,1
+Pickup,no,6
+Van,yes,7
+Pickup,no,1
+SUV,no,5
+Minivan,no,9
+SUV,no,8
+Van,no,7
+SUV,no,15
+Panel Truck,no,17
+SUV,no,23
+Van,yes,8
+Minivan,no,15
+Pickup,no,1
+SUV,no,8
+Minivan,no,1
+Panel Truck,yes,9
+Pickup,no,12
+SUV,no,1
+Panel Truck,yes,13
+Minivan,yes,1
+SUV,no,4
+Minivan,no,1
+SUV,no,12
+Panel Truck,yes,1
+Minivan,no,9
+Pickup,no,10
+Van,no,9
+Minivan,no,14
+Van,yes,1
+Panel Truck,yes,10
+Minivan,no,
+Pickup,yes,1
+Sports Car,no,8
+Pickup,yes,9
+SUV,no,
+Van,yes,13
+Panel Truck,yes,6
+SUV,no,1
+Pickup,yes,4
+Pickup,no,18
+Pickup,no,8
+SUV,no,12
+Van,yes,14
+Minivan,no,8
+SUV,no,4
+Minivan,yes,1
+SUV,no,1
+Sports Car,no,1
+Van,yes,5
+SUV,no,10
+Sports Car,no,6
+Minivan,yes,17
+SUV,no,8
+Sports Car,no,9
+SUV,no,12
+Van,no,6
+SUV,no,8
+SUV,no,4
+Sports Car,no,1
+Pickup,yes,1
+Pickup,no,1
+Panel Truck,yes,12
+Sports Car,no,7
+SUV,no,12
+Pickup,yes,1
+Minivan,no,
+Minivan,yes,11
+Pickup,no,1
+SUV,no,16
+SUV,no,1
+Pickup,no,1
+Minivan,no,1
+SUV,no,1
+Panel Truck,yes,17
+SUV,no,1
+Minivan,no,12
+Van,no,
+Panel Truck,yes,22
+SUV,no,13
+Sports Car,no,8
+Panel Truck,yes,10
+Minivan,yes,19
+Sports Car,no,15
+Pickup,yes,16
+Minivan,yes,1
+Pickup,yes,16
+SUV,no,1
+Minivan,yes,9
+Panel Truck,no,17
+SUV,no,13
+Minivan,no,6
+Minivan,yes,16
+SUV,no,1
+SUV,yes,1
+Pickup,no,
+Pickup,no,9
+Minivan,yes,6
+SUV,no,12
+Sports Car,no,20
+SUV,no,17
+SUV,no,7
+SUV,no,14
+Sports Car,no,7
+Minivan,no,1
+Van,yes,8
+Pickup,yes,17
+Minivan,no,1
+Van,yes,21
+SUV,no,16
+SUV,no,22
+SUV,no,1
+Pickup,yes,8
+SUV,no,9
+Minivan,no,6
+Pickup,yes,9
+SUV,no,13
+Panel Truck,no,1
+Panel Truck,yes,9
+Van,yes,14
+Minivan,yes,1
+Minivan,no,
+SUV,no,11
+Van,yes,1
+Minivan,no,6
+SUV,no,14
+Minivan,yes,11
+Sports Car,no,1
+Sports Car,no,14
+Sports Car,no,14
+Van,no,8
+SUV,no,12
+SUV,no,5
+Panel Truck,no,11
+Minivan,yes,1
+Minivan,no,14
+Sports Car,no,1
+SUV,no,1
+Pickup,yes,1
+Minivan,no,1
+Minivan,yes,1
+Minivan,no,6
+Minivan,yes,1
+Minivan,yes,14
+SUV,no,8
+Pickup,no,13
+Panel Truck,yes,17
+Minivan,no,16
+Sports Car,no,12
+Sports Car,no,4
+SUV,no,12
+Minivan,no,7
+Panel Truck,yes,23
+Van,yes,7
+Van,yes,13
+Sports Car,no,1
+Minivan,no,9
+Pickup,yes,8
+Minivan,no,6
+SUV,no,5
+Minivan,yes,18
+Pickup,no,1
+Sports Car,no,10
+SUV,no,12
+SUV,no,20
+SUV,no,14
+Pickup,no,11
+Panel Truck,no,14
+Pickup,yes,13
+Minivan,no,10
+Minivan,no,24
+Pickup,no,5
+Pickup,no,1
+Van,yes,14
+Pickup,no,7
+Van,yes,
+Pickup,yes,1
+SUV,no,6
+SUV,no,9
+Minivan,no,15
+Pickup,no,14
+Minivan,no,1
+Pickup,no,1
+Sports Car,no,15
+Panel Truck,yes,14
+Sports Car,no,7
+Panel Truck,no,12
+Minivan,yes,9
+Minivan,yes,1
+Pickup,yes,7
+Minivan,no,10
+Sports Car,no,1
+SUV,no,8
+Van,no,15
+Sports Car,no,6
+Van,no,9
+SUV,no,10
+Minivan,yes,
+Van,no,12
+SUV,yes,1
+Panel Truck,yes,13
+SUV,no,9
+Van,no,13
+SUV,no,
+SUV,no,12
+Sports Car,no,
+Panel Truck,yes,
+Minivan,no,
+Minivan,yes,1
+Minivan,no,1
+Pickup,no,17
+Pickup,no,7
+Minivan,no,13
+Minivan,no,1
+Minivan,no,8
+Minivan,no,9
+SUV,no,1
+SUV,no,7
+Sports Car,no,11
+Van,no,1
+Minivan,yes,15
+Minivan,no,8
+Pickup,yes,1
+Pickup,no,1
+Minivan,no,11
+Pickup,yes,13
+Pickup,yes,19
+Panel Truck,yes,11
+SUV,no,15
+Minivan,no,16
+Panel Truck,yes,6
+Minivan,no,1
+SUV,no,15
+Pickup,no,7
+Sports Car,no,6
+Sports Car,no,16
+Panel Truck,no,8
+Minivan,no,8
+Sports Car,yes,
+SUV,no,
+SUV,no,15
+SUV,no,4
+Minivan,yes,1
+Pickup,yes,18
+Sports Car,no,1
+Van,no,7
+Minivan,yes,1
+Pickup,yes,22
+Sports Car,no,7
+SUV,no,6
+Pickup,no,7
+Minivan,yes,7
+SUV,no,16
+Pickup,no,10
+SUV,no,5
+Minivan,yes,12
+Minivan,no,14
+Panel Truck,yes,16
+Pickup,no,8
+Minivan,no,8
+SUV,no,10
+Minivan,no,11
+SUV,no,1
+Pickup,yes,15
+Minivan,no,5
+Minivan,no,5
+SUV,no,1
+Van,yes,8
+SUV,no,1
+SUV,no,
+SUV,no,7
+SUV,no,1
+SUV,no,1
+Pickup,yes,1
+SUV,no,11
+Sports Car,no,1
+Pickup,no,15
+Panel Truck,no,1
+Sports Car,no,20
+Sports Car,no,9
+Pickup,yes,14
+SUV,no,16
+SUV,no,8
+Panel Truck,no,14
+Minivan,no,9
+Sports Car,no,15
+Minivan,yes,9
+SUV,no,17
+Panel Truck,no,3
+Panel Truck,yes,15
+Pickup,yes,1
+Pickup,yes,1
+Sports Car,no,9
+Panel Truck,no,1
+SUV,no,4
+Pickup,no,5
+Minivan,yes,9
+Minivan,no,10
+Panel Truck,yes,13
+Panel Truck,no,10
+SUV,no,7
+Van,yes,7
+Sports Car,no,8
+SUV,no,1
+Minivan,no,1
+SUV,no,19
+Van,yes,6
+Minivan,yes,1
+SUV,no,15
+SUV,no,14
+SUV,no,25
+Panel Truck,yes,1
+SUV,no,1
+SUV,no,14
+Pickup,no,1
+Pickup,yes,13
+Sports Car,no,1
+Minivan,yes,12
+Sports Car,no,1
+SUV,no,4
+Pickup,yes,7
+Minivan,no,10
+Pickup,no,11
+Minivan,yes,13
+Pickup,no,
+Panel Truck,yes,15
+SUV,no,3
+Minivan,yes,11
+SUV,no,1
+Sports Car,no,20
+Pickup,yes,1
+Pickup,yes,7
+Minivan,yes,18
+Minivan,yes,1
+Panel Truck,no,1
+Pickup,yes,1
+SUV,no,9
+Minivan,yes,19
+Van,no,10
+Pickup,no,1
+Minivan,no,18
+Minivan,yes,7
+Minivan,no,19
+SUV,no,1
+Minivan,no,13
+SUV,no,1
+SUV,no,1
+SUV,no,25
+Sports Car,no,15
+Minivan,no,11
+Minivan,yes,6
+SUV,no,1
+Minivan,yes,18
+SUV,no,1
+Panel Truck,yes,19
+Pickup,yes,1
+Panel Truck,no,19
+Pickup,no,16
+Sports Car,no,1
+Pickup,no,10
+Minivan,yes,16
+Van,yes,6
+Minivan,no,
+Panel Truck,no,11
+SUV,no,1
+Pickup,yes,11
+Minivan,yes,12
+Minivan,no,5
+Minivan,no,7
+Panel Truck,no,15
+Pickup,yes,11
+Minivan,no,1
+SUV,no,11
+Van,no,11
+SUV,no,1
+Sports Car,no,1
+SUV,no,
+Minivan,yes,6
+Pickup,no,14
+Pickup,no,11
+Pickup,yes,17
+Sports Car,no,16
+Pickup,yes,11
+Minivan,yes,1
+Pickup,yes,1
+SUV,no,10
+Van,no,13
+SUV,no,15
+Panel Truck,no,14
+Pickup,no,18
+Sports Car,no,
+Minivan,yes,4
+Minivan,no,1
+Van,yes,6
+Minivan,yes,8
+SUV,no,8
+Pickup,yes,1
+Van,yes,5
+Sports Car,no,7
+SUV,no,8
+Sports Car,no,11
+Panel Truck,no,20
+Minivan,yes,16
+SUV,no,1
+SUV,no,12
+Pickup,no,17
+SUV,no,6
+SUV,no,5
+Panel Truck,yes,14
+Sports Car,no,8
+Pickup,no,
+Minivan,yes,9
+Pickup,yes,
+Minivan,yes,1
+Pickup,yes,18
+Minivan,yes,18
+Minivan,no,1
+SUV,no,14
+SUV,no,12
+SUV,no,1
+Sports Car,no,1
+Pickup,no,6
+SUV,no,1
+Van,yes,19
+Minivan,yes,16
+Minivan,yes,1
+Panel Truck,yes,
+Pickup,no,12
+SUV,no,10
+SUV,no,16
+Minivan,yes,
+SUV,no,
+SUV,no,1
+Minivan,yes,6
+SUV,no,9
+Minivan,yes,8
+SUV,no,1
+Panel Truck,yes,13
+SUV,no,1
+SUV,no,9
+Minivan,no,7
+SUV,no,
+SUV,no,5
+Minivan,no,
+SUV,no,4
+Sports Car,no,13
+Panel Truck,no,
+SUV,no,11
+Sports Car,no,1
+Minivan,no,10
+Minivan,no,10
+Minivan,yes,15
+Sports Car,no,1
+Pickup,yes,15
+Pickup,no,1
+SUV,no,11
+Panel Truck,yes,23
+SUV,no,12
+Minivan,no,9
+Pickup,yes,6
+Sports Car,no,8
+Minivan,no,14
+Pickup,yes,10
+SUV,no,10
+SUV,no,7
+Minivan,yes,7
+Pickup,yes,
+SUV,no,19
+SUV,no,5
+Van,yes,13
+Panel Truck,no,4
+Minivan,yes,
+Van,yes,14
+SUV,no,7
+Panel Truck,yes,14
+Van,no,12
+Panel Truck,yes,1
+Panel Truck,no,8
+Pickup,no,9
+Pickup,yes,1
+Minivan,yes,16
+Minivan,no,1
+SUV,no,
+Minivan,no,1
+Minivan,no,1
+Pickup,yes,1
+Panel Truck,no,5
+SUV,yes,16
+SUV,no,8
+SUV,no,
+Van,yes,1
+Sports Car,no,
+SUV,no,25
+SUV,no,7
+Minivan,yes,11
+SUV,no,9
+SUV,no,9
+SUV,no,1
+Pickup,yes,11
+Minivan,yes,9
+Van,no,6
+Minivan,no,1
+SUV,no,1
+Minivan,no,12
+SUV,no,9
+SUV,no,1
+Van,yes,22
+SUV,no,
+Van,no,8
+Minivan,yes,9
+Van,no,10
+Pickup,yes,7
+Pickup,yes,1
+Pickup,no,10
+Sports Car,no,1
+SUV,no,7
+Pickup,yes,10
+Minivan,yes,7
+Sports Car,no,8
+Pickup,yes,
+SUV,no,9
+SUV,no,6
+SUV,no,11
+SUV,no,15
+Van,no,9
+SUV,no,9
+Minivan,yes,10
+Minivan,no,8
+Panel Truck,no,14
+Minivan,no,21
+SUV,no,1
+Sports Car,no,
+Pickup,yes,11
+Panel Truck,yes,16
+SUV,no,1
+Minivan,no,12
+SUV,no,7
+Pickup,no,12
+SUV,no,8
+SUV,no,1
+Pickup,yes,11
+Minivan,yes,10
+Sports Car,no,17
+Pickup,no,1
+Van,yes,15
+Minivan,no,1
+SUV,no,16
+Van,yes,1
+SUV,no,12
+SUV,no,9
+SUV,no,
+Minivan,no,8
+Sports Car,no,13
+Minivan,yes,4
+SUV,no,11
+Minivan,yes,1
+Sports Car,no,7
+Van,yes,12
+Panel Truck,yes,12
+Minivan,no,12
+SUV,no,9
+Van,yes,18
+Sports Car,no,1
+SUV,no,1
+Van,no,1
+Panel Truck,yes,1
+Minivan,no,
+SUV,no,8
+Panel Truck,no,8
+SUV,no,
+Panel Truck,yes,12
+SUV,no,8
+Pickup,yes,7
+Sports Car,no,1
+SUV,no,14
+SUV,no,1
+SUV,no,1
+Minivan,yes,8
+SUV,no,11
+Minivan,no,
+Minivan,no,1
+Pickup,yes,5
+Minivan,no,1
+Minivan,no,13
+Minivan,no,
+Pickup,yes,
+Minivan,yes,1
+Sports Car,no,16
+Pickup,no,1
+Minivan,yes,6
+Pickup,yes,12
+Panel Truck,no,7
+SUV,no,
+Pickup,no,3
+Pickup,no,5
+Minivan,no,18
+Pickup,no,1
+SUV,no,17
+Van,yes,7
+Minivan,yes,9
+Panel Truck,yes,1
+Van,no,16
+Sports Car,no,7
+Panel Truck,no,9
+Minivan,no,15
+Van,no,7
+SUV,no,4
+Sports Car,no,11
+SUV,no,8
+Van,yes,1
+Panel Truck,yes,15
+Minivan,no,1
+SUV,no,2
+Minivan,no,1
+Pickup,no,1
+Pickup,no,1
+Van,no,17
+Van,yes,15
+Minivan,no,1
+SUV,no,1
+Sports Car,no,14
+Van,yes,17
+SUV,no,14
+Pickup,no,1
+SUV,no,6
+Van,yes,1
+Van,yes,10
+SUV,no,11
+Panel Truck,yes,1
+SUV,no,4
+Sports Car,no,8
+Van,no,12
+Van,yes,16
+Minivan,no,19
+Panel Truck,yes,14
+SUV,no,13
+SUV,no,1
+Van,no,15
+Pickup,yes,9
+Pickup,no,11
+Pickup,no,14
+SUV,no,1
+SUV,no,5
+Panel Truck,no,8
+SUV,no,7
+Panel Truck,no,19
+SUV,no,8
+Minivan,yes,16
+Minivan,yes,11
+Sports Car,no,11
+Van,no,22
+SUV,no,10
+Pickup,yes,5
+SUV,no,1
+SUV,no,
+Van,no,1
+SUV,no,12
+Sports Car,no,15
+SUV,no,1
+Panel Truck,no,12
+Sports Car,no,
+SUV,no,7
+Minivan,yes,6
+Panel Truck,yes,12
+Minivan,no,7
+SUV,no,11
+Minivan,no,11
+Minivan,no,7
+Minivan,yes,11
+SUV,no,9
+SUV,no,7
+Sports Car,no,
+SUV,no,6
+Panel Truck,no,7
+Minivan,yes,1
+Panel Truck,yes,7
+Minivan,no,14
+Pickup,yes,7
+Sports Car,yes,13
+Minivan,yes,
+Sports Car,no,8
+SUV,no,6
+SUV,no,9
+Sports Car,no,1
+Van,yes,3
+SUV,no,5
+Pickup,no,16
+SUV,no,1
+Van,yes,1
+SUV,no,4
+SUV,no,8
+Minivan,no,26
+Pickup,yes,16
+Minivan,no,18
+SUV,no,1
+Minivan,no,9
+SUV,no,19
+Pickup,no,1
+Minivan,no,15
+Van,no,1
+SUV,no,10
+Pickup,no,4
+SUV,no,16
+Pickup,yes,8
+Minivan,no,13
+Minivan,yes,14
+Panel Truck,yes,1
+Pickup,yes,6
+Pickup,yes,1
+Sports Car,no,1
+Minivan,yes,7
+Minivan,no,16
+Sports Car,no,5
+SUV,no,1
+Panel Truck,no,5
+Minivan,yes,8
+SUV,no,7
+Pickup,no,8
+Sports Car,no,1
+Sports Car,no,1
+Minivan,yes,18
+Sports Car,no,1
+SUV,no,11
+Minivan,yes,1
+Van,no,
+Pickup,no,1
+Minivan,no,9
+Sports Car,no,11
+Pickup,yes,9
+SUV,no,6
+Minivan,no,
+SUV,no,16
+SUV,no,10
+Pickup,yes,10
+Pickup,no,4
+Sports Car,no,13
+Minivan,no,15
+Minivan,no,1
+SUV,no,
+Minivan,no,9
+Panel Truck,no,14
+Sports Car,no,1
+Van,no,
+Van,yes,17
+SUV,no,7
+SUV,no,1
+Minivan,yes,1
+Van,no,
+SUV,no,16
+Pickup,no,1
+Minivan,no,10
+Pickup,no,1
+Sports Car,no,7
+SUV,no,9
+Minivan,no,1
+Panel Truck,no,5
+SUV,no,12
+Minivan,no,17
+SUV,no,7
+Sports Car,no,1
+Minivan,yes,11
+Minivan,yes,11
+Pickup,yes,7
+Pickup,yes,1
+Sports Car,no,
+SUV,no,5
+SUV,no,1
+Pickup,no,1
+Minivan,no,8
+Sports Car,no,1
+Minivan,no,1
+SUV,no,6
+Minivan,no,11
+Panel Truck,yes,16
+Van,yes,1
+SUV,yes,5
+Minivan,no,11
+Panel Truck,no,16
+Sports Car,no,13
+SUV,no,1
+Panel Truck,no,14
+Pickup,no,20
+Pickup,yes,6
+SUV,no,6
+Sports Car,yes,19
+Panel Truck,yes,19
+Minivan,no,7
+Pickup,no,
+Pickup,yes,12
+SUV,no,21
+SUV,no,
+Sports Car,no,6
+Pickup,yes,7
+Minivan,no,18
+Van,no,1
+SUV,no,8
+Minivan,no,13
+SUV,no,7
+Minivan,no,9
+Minivan,no,7
+Panel Truck,no,9
+SUV,no,10
+Minivan,no,1
+Pickup,no,13
+Minivan,no,
+Pickup,no,14
+Minivan,no,8
+Sports Car,no,1
+SUV,yes,11
+Van,yes,9
+Minivan,no,6
+Minivan,no,1
+SUV,no,10
+SUV,no,1
+SUV,no,7
+Minivan,yes,
+Van,yes,14
+Pickup,no,12
+Pickup,yes,1
+SUV,no,
+SUV,no,1
+Sports Car,no,1
+Van,yes,1
+SUV,no,9
+SUV,no,1
+Sports Car,no,18
+Panel Truck,yes,1
+SUV,no,11
+Panel Truck,no,18
+Sports Car,no,14
+Sports Car,no,9
+Pickup,no,
+Pickup,yes,1
+Sports Car,no,3
+Minivan,no,1
+SUV,no,16
+SUV,no,8
+SUV,no,
+SUV,no,1
+Pickup,no,16
+SUV,no,8
+SUV,no,10
+Sports Car,no,18
+Minivan,yes,13
+Pickup,no,18
+Pickup,no,4
+SUV,no,10
+Pickup,no,
+SUV,no,1
+Pickup,no,1
+SUV,no,9
+Minivan,no,8
+SUV,no,6
+SUV,no,1
+Minivan,yes,14
+SUV,no,16
+Minivan,yes,16
+Pickup,no,1
+SUV,no,13
+Pickup,no,1
+Sports Car,no,8
+Minivan,no,5
+Panel Truck,no,1
+SUV,no,7
+Minivan,no,1
+SUV,no,9
+Pickup,no,1
+Pickup,no,12
+Panel Truck,yes,5
+Minivan,yes,13
+SUV,no,6
+Minivan,yes,6
+Panel Truck,yes,1
+Pickup,yes,14
+Sports Car,no,15
+Pickup,yes,1
+Van,no,16
+Minivan,no,1
+SUV,no,
+SUV,no,16
+Van,no,14
+SUV,no,5
+Panel Truck,yes,9
+Sports Car,no,
+Minivan,yes,14
+Sports Car,no,10
+Minivan,yes,7
+SUV,no,4
+Minivan,no,10
+Pickup,yes,10
+Panel Truck,yes,
+Sports Car,no,7
+SUV,no,1
+Minivan,yes,15
+Pickup,no,10
+Pickup,yes,13
+Sports Car,no,1
+Panel Truck,no,20
+Sports Car,no,6
+Sports Car,no,12
+SUV,no,1
+SUV,no,7
+Van,no,9
+Panel Truck,no,
+Minivan,no,6
+Panel Truck,yes,20
+Sports Car,no,1
+SUV,no,1
+Minivan,no,17
+Minivan,no,8
+Sports Car,no,1
+Pickup,no,1
+Van,yes,1
+SUV,no,7
+Minivan,no,9
+Van,no,10
+Pickup,yes,8
+Minivan,yes,
+Van,no,16
+SUV,no,1
+Sports Car,no,1
+Minivan,no,14
+Van,no,1
+Sports Car,no,1
+Minivan,no,18
+Pickup,no,1
+Van,yes,8
+Minivan,no,5
+Pickup,yes,6
+SUV,no,16
+SUV,no,8
+SUV,no,7
+SUV,no,21
+Minivan,yes,10
+Panel Truck,yes,1
+Panel Truck,yes,17
+Pickup,no,10
+Minivan,no,9
+Van,yes,10
+Minivan,no,5
+Panel Truck,no,9
+SUV,no,19
+SUV,no,1
+SUV,no,7
+Minivan,no,5
+SUV,no,1
+Minivan,no,1
+Minivan,no,1
+Pickup,no,1
+Pickup,no,16
+Panel Truck,no,18
+Pickup,no,9
+Minivan,no,6
+SUV,no,6
+Minivan,no,15
+Sports Car,no,1
+SUV,no,11
+SUV,no,1
+Van,no,11
+Van,yes,1
+Panel Truck,yes,10
+Minivan,yes,
+Van,no,15
+Panel Truck,yes,1
+SUV,no,7
+Panel Truck,yes,4
+SUV,no,6
+Pickup,yes,17
+SUV,no,12
+Minivan,no,21
+Van,no,5
+SUV,no,16
+SUV,no,1
+Pickup,yes,14
+SUV,no,1
+Minivan,no,
+Minivan,no,15
+Minivan,yes,8
+Sports Car,no,1
+Sports Car,no,14
+Sports Car,no,13
+Panel Truck,yes,
+Pickup,no,8
+Pickup,yes,12
+Sports Car,no,1
+Minivan,yes,6
+Pickup,yes,1
+Minivan,no,20
+Minivan,yes,
+Pickup,no,13
+Pickup,yes,6
+Panel Truck,yes,19
+Sports Car,no,1
+Minivan,yes,9
+Minivan,no,17
+Van,yes,14
+Van,yes,1
+SUV,no,8
+Minivan,yes,14
+SUV,no,13
+Minivan,no,10
+Van,yes,12
+Sports Car,no,8
+Pickup,no,
+Panel Truck,no,
+Van,yes,14
+SUV,no,6
+Pickup,no,8
+SUV,no,1
+SUV,no,1
+Van,no,9
+Minivan,yes,7
+Minivan,yes,5
+Pickup,no,12
+Sports Car,no,1
+Panel Truck,yes,8
+SUV,no,
+Pickup,yes,
+Minivan,yes,15
+Van,no,11
+Van,no,
+Minivan,no,21
+Sports Car,no,9
+Minivan,no,9
+Panel Truck,no,10
+Panel Truck,yes,11
+Panel Truck,yes,6
+Pickup,yes,1
+SUV,no,1
+Pickup,no,17
+Pickup,yes,1
+Pickup,no,
+Pickup,yes,7
+Minivan,yes,7
+Van,yes,1
+Minivan,yes,11
+Minivan,yes,16
+Minivan,no,19
+SUV,no,9
+SUV,no,8
+SUV,no,1
+Pickup,no,1
+SUV,no,9
+SUV,no,1
+Minivan,yes,8
+SUV,yes,13
+Van,yes,1
+SUV,no,5
+SUV,no,7
+Sports Car,no,1
+Panel Truck,yes,12
+Pickup,no,13
+Minivan,no,14
+Pickup,no,13
+Pickup,yes,19
+SUV,no,7
+SUV,no,15
+SUV,no,9
+Sports Car,no,1
+Minivan,no,1
+SUV,no,11
+Panel Truck,no,14
+Pickup,yes,1
+SUV,no,10
+Minivan,no,13
+Minivan,yes,11
+SUV,no,9
+Minivan,no,8
+SUV,no,12
+Pickup,no,1
+Pickup,no,10
+Sports Car,no,9
+Minivan,no,16
+SUV,no,6
+SUV,no,8
+Minivan,yes,5
+SUV,no,10
+Van,yes,
+Van,no,6
+SUV,no,8
+SUV,no,9
+Pickup,yes,8
+Minivan,no,4
+Minivan,no,10
+Pickup,yes,6
+Van,no,11
+SUV,yes,7
+Minivan,no,1
+SUV,no,10
+Van,no,9
+Minivan,no,13
+SUV,no,1
+Minivan,yes,1
+Minivan,yes,10
+SUV,no,11
+Minivan,yes,6
+SUV,no,1
+Minivan,yes,1
+Pickup,no,8
+Minivan,no,16
+Pickup,no,1
+SUV,no,7
+Pickup,no,17
+Sports Car,no,1
+Minivan,yes,6
+Minivan,yes,1
+Van,no,1
+Sports Car,no,12
+Minivan,yes,
+Pickup,yes,12
+SUV,no,
+Pickup,yes,4
+SUV,no,8
+SUV,no,20
+SUV,no,16
+Van,no,4
+Minivan,yes,11
+Minivan,yes,13
+Minivan,no,16
+Panel Truck,yes,15
+Panel Truck,yes,9
+Minivan,no,10
+Pickup,no,19
+Van,no,
+Pickup,no,
+Sports Car,no,5
+Pickup,no,
+SUV,no,10
+SUV,no,8
+Minivan,yes,13
+Minivan,no,1
+SUV,no,11
+Minivan,yes,12
+SUV,no,12
+Minivan,yes,11
+Minivan,no,5
+SUV,no,8
+Minivan,no,1
+SUV,no,6
+Sports Car,no,1
+Minivan,yes,9
+Pickup,yes,5
+Pickup,yes,6
+Van,yes,1
+Minivan,no,10
+Pickup,no,
+Pickup,no,8
+Sports Car,no,8
+Sports Car,no,6
+SUV,no,5
+SUV,no,11
+Van,no,11
+Van,yes,17
+Pickup,no,4
+SUV,no,1
+Sports Car,no,8
+Pickup,yes,1
+Pickup,yes,1
+SUV,no,
+Minivan,yes,1
+SUV,no,5
+SUV,no,9
+Pickup,no,13
+Pickup,yes,13
+Minivan,no,25
+Sports Car,no,5
+Minivan,yes,8
+Van,yes,9
+SUV,no,6
+Sports Car,no,9
+Van,no,13
+SUV,no,4
+Panel Truck,no,12
+Minivan,no,10
+Minivan,no,11
+SUV,no,11
+Pickup,no,5
+SUV,no,9
+Minivan,yes,1
+Sports Car,no,1
+Pickup,no,8
+Minivan,no,6
+Pickup,yes,12
+SUV,no,9
+Van,no,1
+SUV,no,10
+Pickup,yes,10
+Minivan,no,5
+SUV,no,1
+Sports Car,no,11
+Minivan,no,1
+Minivan,no,
+Minivan,yes,11
+Minivan,no,7
+SUV,no,1
+SUV,no,13
+SUV,no,1
+SUV,no,1
+SUV,no,1
+Minivan,no,20
+Minivan,no,10
+Minivan,no,4
+SUV,no,13
+Van,yes,
+Panel Truck,no,17
+Panel Truck,no,12
+SUV,no,1
+Pickup,yes,18
+Panel Truck,yes,10
+Panel Truck,no,
+SUV,no,6
+SUV,no,10
+SUV,no,11
+Panel Truck,yes,1
+Minivan,no,1
+SUV,no,1
+SUV,no,6
+Van,yes,15
+Minivan,yes,9
+Minivan,yes,15
+Van,yes,1
+SUV,no,4
+Minivan,yes,10
+Minivan,yes,10
+Pickup,no,5
+SUV,no,11
+Van,no,9
+Minivan,no,8
+SUV,no,6
+SUV,no,12
+Pickup,yes,8
+Panel Truck,yes,14
+Minivan,yes,9
+Sports Car,no,11
+Sports Car,no,1
+Van,no,11
+Sports Car,no,11
+Sports Car,no,15
+SUV,no,1
+SUV,no,
+Pickup,no,1
+Van,yes,12
+Panel Truck,yes,8
+Minivan,no,16
+Minivan,no,1
+Sports Car,no,7
+Van,no,10
+Pickup,no,1
+SUV,no,1
+SUV,no,1
+Pickup,no,9
+SUV,no,1
+Pickup,yes,1
+Pickup,no,18
+SUV,no,1
+Sports Car,no,1
+SUV,yes,1
+SUV,no,16
+SUV,no,7
+Minivan,no,
+Sports Car,no,1
+SUV,no,1
+SUV,no,8
+Pickup,yes,1
+Panel Truck,no,19
+SUV,yes,1
+Panel Truck,yes,18
+Minivan,no,11
+Van,no,14
+Pickup,yes,11
+Pickup,yes,6
+SUV,no,1
+Sports Car,no,16
+SUV,no,15
+SUV,no,
+Minivan,no,11
+Minivan,yes,6
+Sports Car,no,1
+Sports Car,no,1
+Minivan,no,14
+Sports Car,no,16
+SUV,no,7
+Minivan,no,18
+SUV,no,6
+Minivan,no,6
+Van,no,1
+Pickup,no,1
+Minivan,yes,10
+Minivan,no,6
+Van,yes,10
+SUV,no,5
+Minivan,yes,1
+SUV,no,17
+Sports Car,yes,7
+Van,yes,1
+Minivan,no,1
+SUV,no,
+Van,no,9
+Van,yes,1
+SUV,no,
+Pickup,no,8
+SUV,no,6
+Van,no,15
+Pickup,no,18
+SUV,no,5
+Minivan,no,7
+SUV,no,
+Sports Car,no,10
+Minivan,no,5
+SUV,no,11
+Minivan,yes,20
+SUV,no,6
+Minivan,no,1
+Sports Car,no,9
+SUV,no,10
+Minivan,no,13
+Minivan,yes,1
+SUV,no,1
+Van,yes,12
+Pickup,no,1
+SUV,no,9
+SUV,no,13
+Sports Car,no,1
+SUV,no,14
+Van,no,16
+Minivan,yes,5
+Minivan,no,10
+Minivan,no,1
+Minivan,yes,18
+Minivan,yes,1
+Minivan,no,6
+SUV,no,1
+Minivan,yes,13
+Minivan,no,
+Sports Car,no,8
+SUV,no,8
+Minivan,yes,4
+Minivan,yes,8
+SUV,no,1
+SUV,no,1
+Panel Truck,no,1
+Van,yes,8
+Minivan,yes,13
+Minivan,yes,
+SUV,no,10
+Van,yes,7
+Minivan,yes,16
+Van,no,9
+Panel Truck,yes,7
+Pickup,no,1
+Pickup,yes,15
+SUV,no,7
+Sports Car,no,8
+Panel Truck,yes,8
+Pickup,yes,1
+SUV,no,1
+Sports Car,no,20
+Panel Truck,no,1
+SUV,no,13
+Sports Car,no,7
+Panel Truck,yes,16
+Panel Truck,yes,8
+Sports Car,no,8
+SUV,no,11
+Sports Car,no,10
+Minivan,yes,10
+SUV,no,6
+Pickup,yes,1
+Minivan,no,1
+Minivan,no,11
+Pickup,yes,1
+Pickup,no,1
+Pickup,no,9
+Sports Car,no,5
+Minivan,no,8
+SUV,no,10
+Panel Truck,no,15
+SUV,no,6
+Van,yes,6
+Minivan,no,1
+Sports Car,no,19
+Minivan,no,13
+Minivan,yes,16
+Minivan,no,1
+Panel Truck,yes,15
+Minivan,yes,15
+Van,yes,12
+SUV,no,5
+Pickup,yes,11
+SUV,no,6
+Pickup,no,8
+Pickup,yes,8
+Minivan,yes,1
+Minivan,yes,7
+Minivan,no,25
+Minivan,yes,17
+Minivan,no,14
+Minivan,yes,8
+SUV,no,14
+SUV,no,1
+Panel Truck,yes,8
+Minivan,no,
+SUV,no,9
+Van,yes,13
+SUV,no,7
+Pickup,yes,
+SUV,no,4
+Minivan,no,13
+SUV,no,13
+Panel Truck,yes,12
+Sports Car,no,14
+Sports Car,no,21
+SUV,no,1
+SUV,no,16
+SUV,no,1
+Panel Truck,yes,11
+Sports Car,no,13
+Sports Car,no,6
+SUV,no,1
+SUV,no,7
+Sports Car,no,17
+Pickup,yes,6
+Pickup,no,8
+Panel Truck,no,17
+SUV,no,1
+Pickup,yes,1
+SUV,no,14
+Van,yes,10
+Minivan,no,15
+Sports Car,no,1
+Sports Car,no,7
+Minivan,yes,1
+SUV,no,11
+Pickup,yes,6
+Pickup,no,19
+Minivan,no,1
+Minivan,no,1
+Minivan,no,1
+Pickup,no,7
+Minivan,no,1
+Panel Truck,yes,7
+Sports Car,no,1
+SUV,no,9
+SUV,no,
+SUV,no,10
+Van,no,1
+Sports Car,no,8
+Sports Car,no,1
+SUV,no,14
+Sports Car,no,12
+Minivan,no,14
+Pickup,yes,
+Van,no,13
+Panel Truck,yes,12
+Sports Car,no,1
+SUV,no,7
+Panel Truck,no,21
+Pickup,yes,1
+SUV,no,8
+Minivan,yes,13
+Pickup,no,1
+SUV,no,18
+Pickup,no,8
+Sports Car,no,7
+Minivan,no,1
+SUV,no,1
+Sports Car,no,1
+SUV,no,7
+Minivan,no,16
+Sports Car,no,1
+Pickup,yes,10
+Pickup,yes,1
+Sports Car,no,9
+Minivan,no,5
+Sports Car,no,1
+Minivan,no,8
+SUV,no,
+Panel Truck,no,13
+Pickup,yes,1
+Sports Car,no,8
+Pickup,no,1
+Minivan,yes,13
+Pickup,no,8
+Sports Car,yes,1
+Pickup,no,1
+Panel Truck,yes,10
+SUV,no,6
+SUV,no,8
+Pickup,no,1
+Minivan,yes,11
+SUV,no,
+Panel Truck,yes,12
+SUV,no,24
+Sports Car,no,16
+SUV,no,10
+Van,no,20
+Panel Truck,yes,1
+Van,no,18
+Minivan,no,13
+Minivan,no,15
+Sports Car,no,12
+Panel Truck,yes,14
+Pickup,no,10
+Panel Truck,yes,9
+Pickup,yes,9
+SUV,no,12
+SUV,no,7
+Pickup,no,1
+SUV,no,13
+Minivan,no,11
+Minivan,yes,12
+Minivan,yes,16
+SUV,no,1
+Van,no,12
+Pickup,yes,16
+Pickup,yes,1
+Minivan,no,0
+Sports Car,no,15
+SUV,no,9
+SUV,no,18
+Minivan,no,10
+Sports Car,no,1
+SUV,no,11
+SUV,no,11
+Pickup,yes,1
+Sports Car,no,18
+Minivan,yes,8
+Sports Car,no,9
+Pickup,no,1
+Van,yes,1
+SUV,no,12
+Minivan,yes,9
+Van,yes,10
+Van,no,19
+Minivan,no,8
+SUV,no,8
+SUV,no,1
+Sports Car,no,6
+Minivan,no,13
+SUV,no,1
+Pickup,no,
+Pickup,no,1
+Minivan,yes,1
+Van,no,15
+Sports Car,no,16
+Van,no,13
+SUV,no,14
+Minivan,no,16
+Van,yes,20
+Sports Car,no,12
+Sports Car,no,11
+Pickup,no,4
+SUV,no,16
+Sports Car,no,12
+SUV,no,5
+SUV,no,7
+Panel Truck,no,6
+Minivan,yes,7
+Van,no,
+Pickup,no,1
+SUV,no,1
+SUV,no,1
+Sports Car,no,5
+SUV,no,11
+Minivan,yes,1
+Minivan,no,8
+Panel Truck,yes,1
+Minivan,no,15
+Sports Car,no,14
+Van,no,21
+Pickup,no,8
+Minivan,no,11
+Panel Truck,yes,5
+Minivan,no,1
+Pickup,yes,8
+SUV,no,1
+SUV,no,14
+Minivan,yes,17
+Minivan,yes,1
+Van,yes,10
+Minivan,no,8
+Sports Car,no,7
+Panel Truck,yes,
+Panel Truck,yes,11
+Van,yes,9
+Minivan,yes,
+Sports Car,no,
+SUV,no,1
+Pickup,no,1
+Pickup,yes,1
+SUV,no,16
+Minivan,no,24
+Van,yes,14
+Panel Truck,no,12
+SUV,no,6
+Pickup,yes,11
+SUV,no,12
+Pickup,yes,7
+Minivan,yes,6
+SUV,no,1
+Panel Truck,yes,7
+Van,no,8
+Panel Truck,no,1
+Pickup,no,12
+Panel Truck,yes,8
+Minivan,no,1
+Minivan,yes,
+Minivan,no,21
+Panel Truck,no,1
+Minivan,yes,1
+Minivan,yes,8
+Minivan,no,1
+Panel Truck,yes,1
+Van,no,10
+Sports Car,no,10
+Minivan,yes,6
+Minivan,yes,7
+Sports Car,no,11
+Panel Truck,no,
+Van,no,1
+Sports Car,no,6
+Sports Car,no,15
+Van,no,15
+Minivan,no,9
+Sports Car,no,8
+Minivan,no,
+SUV,no,1
+Minivan,yes,10
+Sports Car,no,6
+Sports Car,no,20
+Sports Car,no,12
+SUV,no,1
+Panel Truck,yes,11
+Sports Car,no,8
+Sports Car,no,10
+Pickup,no,1
+Minivan,no,1
+SUV,no,
+Pickup,no,9
+Minivan,yes,22
+Minivan,yes,12
+Minivan,yes,9
+Pickup,yes,12
+Minivan,yes,9
+SUV,no,10
+Minivan,no,1
+Panel Truck,yes,10
+SUV,no,
+Panel Truck,yes,10
+Van,no,7
+SUV,no,6
+Minivan,no,
+SUV,no,8
+SUV,no,7
+Sports Car,no,1
+Sports Car,no,5
+Pickup,yes,1
+Pickup,yes,8
+Minivan,no,4
+Van,yes,1
+Panel Truck,no,18
+Panel Truck,yes,5
+Minivan,no,12
+Pickup,no,1
+Sports Car,no,
+SUV,no,15
+Minivan,no,
+SUV,no,19
+Panel Truck,yes,21
+Van,yes,1
+Pickup,no,1
+Sports Car,no,1
+SUV,no,7
+Minivan,yes,1
+Pickup,no,1
+SUV,no,6
+Minivan,yes,1
+Pickup,no,4
+Pickup,yes,4
+SUV,no,1
+SUV,no,1
+SUV,no,1
+Pickup,no,12
+Minivan,yes,1
+Minivan,no,5
+Pickup,yes,13
+Pickup,yes,6
+Sports Car,no,11
+Sports Car,no,16
+SUV,no,1
+Minivan,yes,12
+Van,no,1
+Minivan,no,17
+Minivan,no,6
+Minivan,no,19
+Minivan,no,8
+Van,no,10
+Minivan,yes,
+Minivan,yes,14
+SUV,no,13
+Minivan,no,17
+SUV,no,1
+Pickup,no,7
+Pickup,yes,7
+Sports Car,no,
+SUV,no,14
+SUV,no,
+Minivan,no,9
+Pickup,yes,1
+Pickup,no,13
+Pickup,no,
+Van,yes,10
+Minivan,no,6
+SUV,no,9
+Panel Truck,yes,1
+Panel Truck,yes,1
+Pickup,no,5
+Pickup,yes,8
+SUV,no,7
+SUV,no,1
+Sports Car,no,1
+SUV,no,1
+Pickup,yes,6
+Minivan,yes,10
+Van,no,1
+Van,no,14
+SUV,no,1
+SUV,no,1
+SUV,no,7
+Sports Car,no,5
+SUV,no,6
+Panel Truck,yes,6
+Pickup,no,6
+Minivan,no,12
+Minivan,yes,7
+Minivan,yes,6
+Minivan,yes,17
+Minivan,no,11
+Minivan,no,
+SUV,no,8
+Pickup,no,1
+SUV,no,12
+Pickup,yes,1
+Pickup,yes,5
+Pickup,yes,1
+Pickup,yes,13
+Pickup,no,16
+SUV,no,8
+Van,no,9
+Minivan,no,15
+Minivan,yes,11
+Minivan,no,7
+Minivan,yes,1
+SUV,no,
+Sports Car,no,8
+Van,yes,15
+SUV,no,1
+Pickup,yes,9
+SUV,no,1
+Minivan,yes,19
+SUV,no,20
+Panel Truck,no,19
+Minivan,yes,17
+Sports Car,no,6
+Minivan,yes,
+Minivan,no,1
+SUV,no,8
+SUV,no,20
+Panel Truck,no,4
+SUV,no,18
+Van,no,1
+Minivan,yes,1
+Minivan,no,10
+Pickup,yes,6
+Sports Car,no,5
+Panel Truck,yes,12
+Pickup,yes,7
+SUV,no,13
+Minivan,no,12
+Sports Car,no,7
+SUV,no,19
+SUV,no,1
+Pickup,yes,5
+Minivan,yes,5
+Pickup,no,10
+Sports Car,no,8
+Minivan,no,18
+SUV,no,6
+Pickup,yes,6
+SUV,no,14
+Minivan,yes,1
+SUV,no,7
+Minivan,no,7
+SUV,no,1
+Minivan,yes,8
+SUV,no,7
+Pickup,no,5
+Van,yes,19
+SUV,no,1
+Sports Car,yes,7
+Pickup,yes,1
+Minivan,yes,7
+Panel Truck,yes,10
+SUV,no,11
+SUV,no,6
+Pickup,no,15
+SUV,no,4
+Panel Truck,no,11
+Sports Car,no,10
+Sports Car,no,18
+Minivan,no,22
+SUV,no,1
+Minivan,yes,
+SUV,no,1
+Sports Car,no,10
+Sports Car,no,8
+SUV,no,1
+Minivan,no,12
+Sports Car,no,10
+SUV,no,
+Minivan,yes,17
+Sports Car,no,1
+Pickup,yes,9
+Minivan,yes,4
+Panel Truck,no,7
+Pickup,no,8
+Minivan,no,
+SUV,no,15
+SUV,no,20
+Panel Truck,yes,14
+Pickup,no,10
+Panel Truck,yes,12
+Panel Truck,yes,14
+Van,yes,9
+SUV,no,1
+Pickup,no,1
+Pickup,yes,5
+Panel Truck,yes,13
+Minivan,yes,1
+Pickup,no,9
+SUV,no,2
+Sports Car,no,1
+Sports Car,no,9
+Sports Car,no,1
+Pickup,yes,14
+SUV,no,6
+Pickup,yes,11
+SUV,no,17
+Minivan,yes,8
+Minivan,no,1
+Pickup,yes,7
+Minivan,no,11
+SUV,no,1
+Panel Truck,yes,9
+SUV,no,6
+SUV,no,1
+SUV,no,7
+Panel Truck,no,9
+Minivan,yes,7
+SUV,no,1
+Minivan,yes,8
+SUV,no,1
+SUV,no,11
+Sports Car,no,7
+Minivan,yes,1
+SUV,no,3
+Pickup,no,17
+Sports Car,no,9
+Minivan,no,
+Minivan,no,8
+SUV,no,12
+Pickup,yes,11
+Sports Car,no,
+Pickup,yes,7
+SUV,no,17
+Pickup,yes,6
+Minivan,yes,1
+Minivan,yes,14
+Pickup,no,7
+Minivan,yes,13
+SUV,no,18
+SUV,no,1
+SUV,no,12
+SUV,no,10
+Minivan,yes,8
+Sports Car,no,8
+SUV,no,1
+SUV,no,7
+SUV,no,11
+Van,no,1
+SUV,no,1
+Minivan,no,15
+Pickup,yes,15
+SUV,no,1
+Minivan,no,12
+Sports Car,no,20
+Sports Car,no,18
+SUV,no,5
+Minivan,no,14
+Minivan,no,6
+Minivan,yes,9
+Van,no,13
+SUV,no,7
+SUV,no,9
+SUV,no,1
+SUV,no,11
+Sports Car,no,15
+SUV,no,10
+SUV,no,5
+Van,yes,8
+SUV,no,9
+Minivan,yes,
+Panel Truck,yes,7
+Minivan,yes,14
+SUV,no,17
+Minivan,no,17
+SUV,no,9
+Sports Car,no,8
+Minivan,yes,12
+Panel Truck,yes,16
+Pickup,no,7
+Sports Car,no,1
+Pickup,yes,1
+Van,no,
+Panel Truck,no,
+Minivan,yes,11
+Minivan,no,
+SUV,no,19
+Panel Truck,yes,1
+Pickup,yes,9
+Pickup,no,9
+Sports Car,no,16
+Minivan,yes,11
+SUV,no,10
+Minivan,yes,10
+Pickup,no,
+SUV,no,1
+Minivan,no,18
+Van,no,11
+Sports Car,no,1
+Sports Car,no,12
+Pickup,no,12
+Pickup,no,14
+Minivan,no,1
+Sports Car,no,13
+Minivan,no,
+Minivan,no,
+Panel Truck,yes,
+Van,no,10
+SUV,no,17
+Pickup,yes,1
+Pickup,no,9
+Sports Car,no,1
+Van,no,11
+SUV,no,8
+Sports Car,no,
+Minivan,no,1
+Minivan,yes,19
+Sports Car,no,10
+Minivan,yes,13
+Panel Truck,no,9
+Sports Car,no,1
+Sports Car,no,8
+SUV,no,10
+Van,yes,18
+Pickup,no,21
+Minivan,no,14
+Pickup,no,1
+Panel Truck,yes,1
+Pickup,yes,1
+Minivan,no,1
+SUV,no,10
+SUV,no,1
+SUV,no,5
+Pickup,yes,1
+SUV,no,1
+Panel Truck,no,9
+SUV,no,1
+Panel Truck,no,14
+Minivan,no,10
+Panel Truck,no,9
+Minivan,yes,7
+Pickup,no,9
+SUV,no,11
+Van,no,1
+SUV,no,16
+SUV,no,15
+SUV,no,9
+Pickup,no,7
+Panel Truck,no,2
+SUV,no,
+Pickup,yes,11
+Minivan,yes,
+Pickup,yes,1
+Van,yes,10
+Pickup,no,9
+SUV,no,
+Minivan,no,19
+Minivan,yes,14
+Pickup,no,13
+Pickup,no,6
+Pickup,no,
+SUV,no,5
+Van,yes,
+Panel Truck,no,13
+Minivan,no,9
+Van,no,12
+Panel Truck,yes,19
+Pickup,yes,1
+Van,yes,11
+Pickup,no,15
+SUV,no,8
+SUV,no,1
+SUV,no,5
+Minivan,yes,
+SUV,no,10
+Pickup,no,15
+SUV,no,6
+Minivan,yes,
+Minivan,yes,12
+SUV,no,
+SUV,no,5
+SUV,no,8
+SUV,no,20
+SUV,no,18
+Pickup,no,1
+Sports Car,no,1
+SUV,no,13
+SUV,no,9
+Pickup,yes,1
+Minivan,no,8
+SUV,no,
+Sports Car,no,6
+SUV,no,7
+SUV,no,8
+SUV,no,5
+Minivan,yes,14
+SUV,no,7
+SUV,no,1
+SUV,no,20
+Panel Truck,no,15
+Minivan,no,1
+SUV,no,12
+Minivan,no,1
+Minivan,no,14
+Panel Truck,no,1
+Panel Truck,yes,24
+Minivan,no,26
+SUV,no,6
+Sports Car,no,1
+Van,yes,8
+Pickup,no,5
+Minivan,no,9
+Panel Truck,no,8
+Pickup,no,11
+Pickup,no,10
+Minivan,no,1
+Van,yes,15
+Panel Truck,yes,15
+SUV,no,8
+Van,no,15
+SUV,no,1
+SUV,no,13
+Minivan,no,1
+Pickup,yes,17
+SUV,yes,1
+SUV,no,6
+SUV,no,5
+SUV,no,13
+SUV,yes,5
+SUV,no,9
+SUV,no,14
+Sports Car,no,1
+SUV,no,11
+SUV,no,15
+Van,yes,8
+SUV,no,6
+Minivan,no,5
+Pickup,no,5
+Pickup,yes,15
+SUV,no,19
+Minivan,no,10
+Sports Car,no,14
+Pickup,yes,1
+Van,no,7
+Minivan,yes,8
+SUV,no,16
+Minivan,yes,1
+SUV,no,6
+SUV,no,1
+Pickup,yes,13
+SUV,no,1
+Minivan,yes,23
+Minivan,yes,11
+SUV,no,8
+SUV,no,11
+SUV,no,7
+Sports Car,no,16
+Sports Car,no,1
+SUV,no,12
+Minivan,yes,1
+SUV,no,7
+Minivan,no,11
+SUV,no,7
+Minivan,yes,1
+Panel Truck,no,10
+Minivan,no,10
+Minivan,no,5
+Minivan,no,17
+Minivan,no,9
+Minivan,yes,1
+Minivan,yes,6
+Van,yes,1
+Minivan,no,1
+SUV,no,1
+Minivan,no,10
+Sports Car,no,1
+Sports Car,no,11
+Minivan,yes,1
+Pickup,no,13
+Minivan,no,15
+Panel Truck,yes,10
+Panel Truck,no,3
+SUV,no,6
+Panel Truck,no,10
+Minivan,no,5
+Van,yes,1
+Minivan,no,1
+Pickup,yes,6
+Van,no,10
+SUV,no,5
+Minivan,yes,13
+Pickup,no,7
+Panel Truck,no,1
+Pickup,yes,16
+Minivan,no,8
+Pickup,no,9
+SUV,no,1
+Pickup,no,6
+Minivan,yes,7
+Minivan,no,19
+Pickup,yes,1
+Minivan,no,
+Sports Car,no,1
+SUV,no,19
+Panel Truck,yes,16
+Minivan,no,1
+Pickup,yes,1
+Sports Car,no,11
+Van,yes,14
+Pickup,yes,10
+Minivan,yes,4
+SUV,no,1
+SUV,no,9
+SUV,no,12
+SUV,no,12
+SUV,yes,1
+Minivan,yes,15
+Sports Car,no,1
+Minivan,yes,10
+Minivan,no,15
+SUV,no,8
+Minivan,no,9
+Van,yes,15
+Sports Car,no,11
+SUV,no,11
+SUV,no,8
+Pickup,no,
+Minivan,yes,
+SUV,no,12
+Pickup,no,1
+Panel Truck,no,1
+Minivan,no,5
+SUV,yes,17
+Pickup,no,1
+Panel Truck,no,7
+Van,no,1
+SUV,no,1
+Minivan,no,13
+Pickup,yes,9
+Pickup,no,11
+Pickup,no,1
+Minivan,yes,15
+Sports Car,no,22
+Minivan,yes,
+SUV,no,8
+Panel Truck,yes,5
+Panel Truck,yes,13
+SUV,no,5
+Minivan,no,11
+Minivan,yes,19
+SUV,no,8
+Sports Car,no,1
+Sports Car,no,1
+SUV,no,
+Panel Truck,yes,11
+Minivan,no,1
+Van,no,8
+Panel Truck,no,15
+Sports Car,no,11
+Minivan,yes,13
+Sports Car,no,1
+SUV,no,14
+Van,no,9
+Pickup,no,1
+Minivan,yes,10
+Van,yes,22
+SUV,no,10
+Pickup,no,1
+SUV,no,3
+Minivan,no,13
+Minivan,yes,1
+Minivan,no,5
+SUV,no,1
+SUV,no,1
+Pickup,yes,1
+Panel Truck,yes,10
+Van,yes,
+Minivan,no,5
+SUV,no,14
+Sports Car,no,
+Van,yes,18
+SUV,no,6
+Minivan,no,9
+Sports Car,no,1
+Pickup,no,1
+Pickup,no,8
+SUV,no,1
+Pickup,yes,13
+SUV,no,
+Sports Car,no,19
+Pickup,yes,
+Van,yes,17
+Van,yes,1
+Pickup,yes,13
+Minivan,no,10
+Van,yes,11
+SUV,no,9
+Minivan,no,1
+Van,no,1
+SUV,no,5
+Pickup,no,9
+Pickup,yes,9
+Van,yes,10
+Minivan,yes,15
+Minivan,yes,6
+Pickup,no,6
+Minivan,no,17
+Minivan,no,23
+SUV,no,19
+Minivan,yes,14
+SUV,no,1
+SUV,no,12
+Minivan,no,17
+Van,yes,12
+Minivan,no,15
+Van,no,9
+Sports Car,no,20
+Minivan,no,10
+Van,yes,15
+Minivan,yes,12
+Panel Truck,no,8
+Minivan,yes,8
+Pickup,yes,7
+Panel Truck,yes,17
+SUV,no,12
+SUV,no,6
+Pickup,no,9
+Sports Car,no,10
+SUV,no,6
+Van,yes,13
+Sports Car,no,1
+Pickup,yes,1
+Pickup,yes,1
+SUV,no,
+SUV,no,8
+Minivan,yes,1
+SUV,no,1
+SUV,no,6
+Minivan,no,8
+Minivan,no,7
+SUV,no,4
+SUV,no,9
+Pickup,no,15
+Van,no,4
+Minivan,no,1
+Minivan,no,
+Pickup,no,1
+Minivan,no,17
+Minivan,yes,8
+Sports Car,no,17
+Pickup,yes,1
+Minivan,yes,5
+SUV,no,9
+Minivan,yes,13
+Sports Car,no,1
+Sports Car,no,1
+Minivan,no,6
+SUV,no,4
+Minivan,yes,8
+Sports Car,no,10
+SUV,no,1
+Van,yes,8
+Minivan,yes,11
+Van,no,18
+Minivan,no,1
+Van,no,1
+SUV,no,13
+SUV,no,1
+Van,no,8
+Panel Truck,no,6
+Minivan,no,13
+SUV,no,13
+Pickup,no,5
+SUV,no,10
+Minivan,no,4
+Minivan,yes,9
+SUV,no,15
+SUV,no,1
+Minivan,no,4
+Panel Truck,yes,1
+Minivan,no,8
+Sports Car,no,1
+Van,yes,14
+Sports Car,no,5
+Minivan,yes,1
+Pickup,yes,1
+Sports Car,no,11
+Panel Truck,yes,6
+SUV,no,8
+SUV,no,13
+Minivan,no,7
+Panel Truck,no,1
+SUV,no,18
+SUV,no,13
+Minivan,no,1
+Van,yes,5
+Minivan,no,9
+Van,no,12
+Sports Car,no,
+SUV,no,10
+Minivan,no,12
+Van,no,14
+Panel Truck,yes,11
+SUV,no,15
+Pickup,no,5
+Minivan,no,1
+SUV,no,4
+Minivan,no,1
+SUV,no,12
+Sports Car,no,13
+Minivan,yes,7
+Pickup,yes,7
+SUV,no,10
+Panel Truck,no,
+Van,no,16
+Sports Car,no,9
+Pickup,no,1
+SUV,no,19
+SUV,no,
+Minivan,no,14
+SUV,no,9
+SUV,no,1
+Pickup,yes,1
+Pickup,yes,16
+Minivan,no,21
+Minivan,yes,10
+Pickup,yes,15
+SUV,no,12
+SUV,no,11
+Pickup,no,1
+Minivan,no,20
+Minivan,no,14
+Minivan,no,1
+SUV,no,
+SUV,no,1
+SUV,no,8
+SUV,no,16
+Panel Truck,yes,17
+SUV,no,7
+SUV,no,6
+Minivan,yes,
+Sports Car,no,1
+SUV,no,
+Panel Truck,no,6
+Minivan,no,1
+SUV,no,11
+Minivan,no,9
+Pickup,no,20
+Minivan,yes,8
+SUV,no,1
+Sports Car,no,7
+Panel Truck,no,1
+Minivan,no,1
+Panel Truck,yes,7
+SUV,no,11
+Sports Car,no,5
+SUV,no,
+Minivan,no,10
+Pickup,yes,11
+SUV,no,17
+SUV,no,12
+Panel Truck,yes,1
+Minivan,no,19
+SUV,no,3
+Minivan,no,9
+SUV,no,18
+SUV,no,13
+Minivan,yes,15
+Minivan,no,10
+Van,no,1
+Panel Truck,yes,9
+SUV,no,14
+SUV,no,1
+Minivan,no,1
+Minivan,yes,5
+Pickup,yes,9
+Van,yes,13
+SUV,no,1
+SUV,no,1
+Pickup,yes,1
+Pickup,no,5
+Panel Truck,yes,
+Minivan,no,7
+Sports Car,no,1
+SUV,no,9
+SUV,no,15
+Pickup,no,1
+Minivan,yes,10
+Minivan,yes,13
+SUV,no,9
+Minivan,no,1
+Van,no,10
+Minivan,no,13
+SUV,no,1
+Panel Truck,yes,1
+SUV,no,
+SUV,no,1
+SUV,no,1
+Minivan,no,7
+Van,yes,1
+Panel Truck,no,23
+Minivan,yes,16
+SUV,no,8
+Minivan,yes,16
+Van,yes,20
+SUV,no,7
+Sports Car,no,13
+Minivan,no,5
+Van,no,1
+SUV,no,1
+Van,no,1
+Minivan,no,15
+Minivan,yes,11
+SUV,no,10
+Minivan,no,4
+Pickup,no,
+Minivan,no,8
+SUV,no,7
+Minivan,no,7
+SUV,no,10
+SUV,no,1
+SUV,no,
+Sports Car,no,
+SUV,no,1
+SUV,no,8
+Minivan,no,13
+SUV,no,19
+SUV,no,10
+SUV,no,13
+Pickup,no,13
+Panel Truck,yes,1
+Pickup,yes,6
+Pickup,yes,1
+Pickup,yes,10
+Pickup,no,10
+Sports Car,no,10
+Minivan,yes,1
+Van,yes,10
+SUV,no,7
+SUV,no,6
+Minivan,yes,16
+SUV,no,1
+SUV,no,17
+SUV,no,15
+SUV,no,
+Pickup,no,10
+SUV,no,7
+Sports Car,no,12
+Minivan,yes,8
+Panel Truck,yes,8
+Minivan,no,6
+Minivan,no,10
+Sports Car,no,1
+Sports Car,no,5
+Minivan,no,7
+SUV,no,12
+Pickup,no,13
+Van,yes,18
+Pickup,yes,10
+SUV,no,
+Van,no,1
+Minivan,yes,1
+Pickup,no,9
+SUV,no,7
+Pickup,no,6
+SUV,no,1
+Minivan,yes,9
+SUV,no,15
+SUV,no,7
+Pickup,no,11
+Van,yes,1
+Sports Car,no,21
+SUV,no,13
+Sports Car,no,11
+Minivan,yes,1
+Minivan,no,10
+SUV,no,8
+SUV,no,7
+Sports Car,no,
+Panel Truck,no,3
+Minivan,yes,1
+SUV,no,13
+Minivan,no,10
+Sports Car,no,9
+Panel Truck,yes,
+Minivan,no,1
+Minivan,yes,11
+Sports Car,no,9
+Minivan,no,14
+Pickup,no,14
+SUV,no,17
+Minivan,no,16
+SUV,no,
+Pickup,no,1
+Minivan,yes,9
+Minivan,yes,8
+SUV,no,12
+Pickup,yes,6
+SUV,no,16
+Van,yes,9
+Sports Car,no,
+Minivan,yes,1
+Minivan,yes,
+Pickup,no,1
+Minivan,yes,5
+Minivan,yes,1
+SUV,yes,18
+Minivan,no,11
+Panel Truck,yes,17
+Pickup,no,4
+Minivan,no,9
+Minivan,no,13
+Minivan,no,1
+SUV,no,12
+Minivan,yes,20
+SUV,no,16
+Minivan,yes,1
+Sports Car,no,1
+SUV,no,17
+Minivan,no,
+Sports Car,no,14
+Minivan,yes,6
+SUV,no,10
+Pickup,yes,1
+SUV,no,4
+SUV,no,13
+Van,yes,10
+Pickup,no,14
+Panel Truck,no,1
+Van,yes,14
+Pickup,no,7
+Sports Car,no,10
+SUV,no,1
+Panel Truck,yes,10
+SUV,no,1
+SUV,no,1
+Pickup,no,10
+SUV,no,11
+Minivan,no,1
+Panel Truck,no,1
+Van,yes,10
+Pickup,no,19
+Minivan,yes,9
+SUV,no,7
+Pickup,no,
+Sports Car,no,7
+Minivan,yes,9
+Pickup,no,1
+Pickup,yes,2
+Van,yes,1
+Sports Car,no,1
+Pickup,no,5
+SUV,no,9
+SUV,no,10
+Van,no,1
+Sports Car,no,1
+Minivan,no,1
+SUV,no,1
+Pickup,no,1
+Sports Car,no,1
+Van,no,1
+Sports Car,no,11
+Van,no,18
+Pickup,no,16
+SUV,no,16
+Pickup,no,12
+Pickup,no,1
+SUV,no,10
+Minivan,no,17
+Minivan,no,8
+Sports Car,no,1
+Minivan,no,11
+SUV,no,15
+Minivan,no,10
+Sports Car,no,1
+Minivan,no,1
+Minivan,no,13
+Sports Car,no,5
+Minivan,yes,6
+SUV,no,8
+Minivan,yes,9
+Sports Car,no,11
+Sports Car,no,1
+Minivan,no,1
+SUV,no,1
+Minivan,no,10
+Van,yes,5
+Minivan,no,21
+Sports Car,no,7
+Van,no,8
+SUV,no,11
+Minivan,no,9
+SUV,no,4
+Sports Car,no,4
+SUV,no,1
+SUV,no,18
+Panel Truck,yes,23
+SUV,no,16
+SUV,no,8
+Sports Car,no,11
+Minivan,no,13
+SUV,no,1
+Sports Car,no,11
+Minivan,yes,10
+Minivan,no,10
+Pickup,yes,8
+Panel Truck,yes,9
+Pickup,no,12
+SUV,no,11
+Van,yes,7
+Panel Truck,no,18
+Sports Car,no,8
+Sports Car,no,9
+Van,no,
+Panel Truck,yes,9
+SUV,no,17
+Pickup,no,3
+Sports Car,no,
+SUV,no,12
+Van,no,15
+Pickup,yes,12
+SUV,no,7
+Sports Car,no,7
+Minivan,yes,15
+SUV,no,1
+Minivan,yes,7
+Van,no,1
+Pickup,yes,3
+Minivan,no,1
+Sports Car,no,3
+Van,yes,1
+Pickup,yes,1
+SUV,no,1
+Sports Car,no,11
+Minivan,yes,15
+SUV,no,9
+SUV,no,8
+SUV,no,7
+SUV,no,11
+SUV,no,14
+Pickup,no,14
+SUV,no,1
+Van,yes,10
+Sports Car,no,8
+Pickup,no,1
+Minivan,yes,5
+SUV,no,1
+Van,no,7
+Minivan,yes,1
+Van,yes,1
+Pickup,yes,13
+Pickup,no,10
+Minivan,yes,
+Minivan,no,20
+Pickup,no,6
+Minivan,no,9
+Pickup,no,15
+Sports Car,no,13
+Panel Truck,no,
+Van,no,12
+Pickup,yes,14
+Minivan,no,14
+SUV,no,8
+Van,no,9
+Sports Car,no,
+SUV,no,1
+Pickup,no,1
+SUV,no,1
+Sports Car,no,1
+Panel Truck,no,
+Pickup,yes,1
+SUV,no,15
+Panel Truck,no,
+Sports Car,no,5
+Minivan,no,1
+SUV,no,1
+Minivan,no,
+SUV,no,9
+Minivan,yes,7
+Minivan,yes,
+SUV,no,6
+Pickup,yes,17
+Pickup,no,1
+SUV,no,9
+Sports Car,no,1
+SUV,no,8
+Minivan,no,1
+Van,no,1
+Minivan,no,19
+Pickup,no,16
+SUV,no,2
+Minivan,yes,7
+Pickup,yes,8
+SUV,no,1
+Sports Car,no,8
+SUV,no,1
+Minivan,no,7
+Minivan,yes,7
+Van,yes,11
+Panel Truck,no,11
+Sports Car,no,8
+Minivan,no,12
+Minivan,yes,12
+SUV,no,16
+Pickup,yes,1
+SUV,no,1
+Panel Truck,yes,12
+Minivan,no,17
+Panel Truck,yes,1
+Minivan,yes,1
+Panel Truck,yes,7
+SUV,no,1
+Panel Truck,yes,1
+Minivan,yes,12
+Pickup,yes,7
+Minivan,no,1
+Minivan,no,17
+Sports Car,no,3
+Minivan,yes,9
+SUV,no,6
+SUV,no,5
+SUV,no,
+Sports Car,no,6
+SUV,no,1
+Minivan,no,17
+Minivan,yes,1
+Minivan,no,17
+Minivan,no,1
+Pickup,yes,11
+Minivan,no,
+SUV,no,1
+Pickup,no,9
+Sports Car,no,8
+Minivan,yes,11
+Panel Truck,yes,14
+Pickup,no,6
+Minivan,yes,1
+Van,yes,14
+Minivan,yes,7
+SUV,no,3
+Van,yes,16
+Sports Car,no,1
+Sports Car,no,1
+Minivan,no,25
+Minivan,no,9
+Pickup,no,14
+SUV,no,17
+Minivan,yes,7
+SUV,no,12
+Sports Car,no,9
+SUV,no,
+SUV,no,5
+SUV,no,6
+Sports Car,no,1
+SUV,no,1
+Minivan,yes,7
+Pickup,yes,
+Sports Car,no,13
+SUV,no,17
+Pickup,no,
+Pickup,no,1
+Sports Car,no,3
+Minivan,no,1
+Minivan,no,9
+Pickup,no,16
+SUV,no,1
+Pickup,no,7
+SUV,no,12
+Minivan,no,1
+SUV,no,5
+SUV,no,1
+SUV,no,6
+SUV,no,1
+SUV,no,6
+Sports Car,no,
+SUV,no,
+SUV,no,8
+SUV,no,8
+Sports Car,no,5
+SUV,yes,
+SUV,no,8
+Minivan,yes,7
+SUV,no,
+Minivan,no,
+SUV,no,17
+SUV,no,1
+Minivan,no,1
+SUV,yes,10
+Pickup,no,6
+Minivan,yes,1
+Pickup,yes,9
+SUV,no,9
+Sports Car,no,1
+SUV,no,8
+Pickup,no,8
+SUV,no,1
+Minivan,no,1
+SUV,no,1
+Minivan,no,
+SUV,no,14
+Van,no,8
+Panel Truck,yes,7
+Van,no,16
+Minivan,no,1
+Pickup,no,1
+Minivan,no,1
+Pickup,no,20
+Panel Truck,no,18
+Van,yes,5
+SUV,no,10
+Minivan,yes,8
+SUV,no,1
+Minivan,yes,1
+SUV,no,1
+Minivan,no,17
+SUV,no,1
+Minivan,yes,1
+SUV,no,6
+SUV,no,9
+Pickup,no,7
+Minivan,no,10
+Minivan,no,7
+Minivan,yes,4
+SUV,no,8
+Sports Car,no,19
+SUV,no,1
+Pickup,yes,1
+Van,yes,1
+Minivan,yes,17
+SUV,no,1
+Pickup,yes,12
+Sports Car,no,14
+Minivan,yes,1
+Van,yes,13
+SUV,no,6
+Minivan,no,11
+Minivan,no,
+Minivan,yes,11
+SUV,no,
+Pickup,no,4
+Sports Car,no,10
+Minivan,no,10
+Panel Truck,no,12
+Pickup,yes,14
+Van,no,1
+SUV,no,16
+SUV,no,1
+SUV,no,14
+Van,yes,19
+Pickup,yes,
+Pickup,yes,1
+Pickup,no,19
+Van,no,22
+SUV,no,8
+Minivan,no,11
+Minivan,no,1
+Pickup,yes,8
+Minivan,no,16
+SUV,no,6
+Sports Car,no,6
+SUV,no,1
+Van,no,14
+Minivan,yes,11
+Minivan,no,
+Pickup,yes,16
+Minivan,no,9
+Minivan,no,12
+Minivan,yes,1
+Sports Car,no,5
+Sports Car,no,9
+Minivan,no,15
+SUV,no,1
+SUV,no,5
+Pickup,yes,18
+SUV,no,1
+Minivan,yes,1
+Sports Car,no,9
+Sports Car,no,14
+Sports Car,no,
+Minivan,yes,9
+Pickup,no,7
+SUV,no,1
+Sports Car,yes,1
+Sports Car,no,13
+Minivan,no,15
+SUV,no,1
+SUV,no,11
+Minivan,no,8
+Minivan,no,3
+Pickup,no,9
+Minivan,no,7
+Minivan,no,1
+SUV,no,1
+Minivan,yes,11
+Pickup,no,18
+Sports Car,no,14
+SUV,no,1
+Van,yes,9
+Pickup,no,1
+Minivan,no,18
+Minivan,no,6
+Pickup,yes,7
+SUV,no,11
+Minivan,no,8
+SUV,no,
+Panel Truck,no,20
+SUV,no,12
+Pickup,yes,1
+Pickup,yes,6
+Sports Car,no,9
+SUV,no,8
+SUV,no,1
+SUV,no,12
+Panel Truck,yes,5
+Minivan,no,1
+Van,no,11
+SUV,no,7
+SUV,no,1
+Minivan,yes,7
+Minivan,yes,12
+SUV,no,11
+Pickup,no,21
+Sports Car,no,20
+Minivan,no,13
+Minivan,yes,1
+SUV,no,20
+SUV,no,1
+Pickup,yes,1
+Van,yes,11
+Minivan,no,17
+Pickup,yes,1
+Minivan,yes,7
+Van,yes,18
+Minivan,no,9
+SUV,no,15
+Pickup,no,14
+Pickup,yes,6
+SUV,no,10
+Sports Car,no,1
+SUV,no,8
+Minivan,no,
+Pickup,no,1
+SUV,no,13
+Pickup,no,9
+Minivan,yes,6
+SUV,no,1
+SUV,no,10
+Minivan,yes,12
+Panel Truck,no,14
+SUV,no,11
+Sports Car,no,
+SUV,no,1
+Pickup,no,6
+Minivan,no,8
+SUV,no,17
+SUV,no,
+Van,yes,17
+Panel Truck,yes,1
+SUV,no,1
+SUV,no,6
+Panel Truck,no,7
+Minivan,no,9
+SUV,no,8
+SUV,no,11
+Pickup,yes,1
+SUV,no,
+Pickup,no,15
+Minivan,yes,13
+Minivan,no,12
+Minivan,no,16
+Minivan,no,11
+Pickup,yes,11
+Pickup,yes,6
+Sports Car,no,15
+SUV,no,1
+Minivan,yes,
+Minivan,no,4
+Pickup,no,1
+Sports Car,no,21
+Sports Car,no,8
+SUV,no,9
+Van,no,1
+Pickup,no,6
+SUV,no,7
+Minivan,yes,1
+Pickup,no,16
+Sports Car,no,8
+Panel Truck,no,17
+SUV,no,17
+Sports Car,no,14
+Van,no,8
+SUV,no,
+SUV,no,11
+Pickup,yes,11
+SUV,no,8
+SUV,no,10
+Panel Truck,no,15
+Sports Car,no,11
+Minivan,yes,15
+SUV,no,15
+Minivan,yes,11
+SUV,no,5
+SUV,no,1
+Minivan,yes,9
+SUV,no,1
+Sports Car,no,14
+Minivan,yes,9
+Van,yes,1
+Pickup,no,20
+Minivan,yes,1
+Minivan,no,15
+Van,no,5
+Pickup,no,1
+Panel Truck,yes,11
+SUV,no,20
+Sports Car,no,6
+Pickup,no,9
+Pickup,no,
+Pickup,yes,1
+Minivan,no,8
+Pickup,no,6
+Pickup,yes,1
+Minivan,yes,1
+Minivan,no,18
+Minivan,yes,6
+Sports Car,no,1
+Sports Car,no,14
+Minivan,yes,1
+SUV,no,8
+Pickup,yes,8
+Pickup,no,7
+Minivan,no,14
+Pickup,no,4
+Minivan,no,1
+Minivan,yes,12
+SUV,no,1
+Minivan,yes,1
+Minivan,yes,9
+Pickup,yes,1
+Sports Car,no,19
+Panel Truck,no,14
+SUV,no,8
+Pickup,no,9
+Van,yes,5
+SUV,no,13
+SUV,no,8
+Minivan,yes,1
+Pickup,yes,6
+Minivan,no,1
+Minivan,no,9
+SUV,no,
+Pickup,no,7
+Minivan,yes,1
+Panel Truck,no,13
+SUV,no,19
+Panel Truck,yes,1
+Pickup,no,7
+Minivan,yes,7
+SUV,no,10
+SUV,no,1
+Van,yes,1
+Van,no,14
+SUV,yes,1
+SUV,no,15
+Sports Car,no,8
+SUV,no,19
+Van,yes,15
+SUV,no,1
+SUV,no,7
+Sports Car,no,1
+Minivan,yes,1
+SUV,no,1
+Minivan,no,15
+Sports Car,no,11
+Pickup,yes,13
+Panel Truck,no,6
+Minivan,no,1
+Minivan,yes,16
+SUV,no,13
+Sports Car,no,5
+SUV,no,
+Sports Car,no,12
+SUV,no,12
+SUV,no,
+Pickup,no,
+Minivan,yes,12
+Van,no,11
+Sports Car,no,10
+Minivan,no,18
+Panel Truck,no,9
+SUV,no,7
+SUV,no,4
+Van,no,1
+SUV,no,6
+Minivan,no,12
+Minivan,yes,20
+Sports Car,no,14
+Pickup,no,21
+Pickup,no,8
+Minivan,no,1
+Pickup,no,5
+SUV,no,20
+Minivan,no,5
+SUV,no,7
+Minivan,no,10
+SUV,no,4
+Pickup,no,7
+Panel Truck,yes,1
+Pickup,yes,
+Pickup,yes,
+Sports Car,no,10
+Pickup,yes,7
+SUV,no,
+SUV,no,11
+Minivan,yes,1
+Sports Car,no,15
+SUV,no,3
+SUV,no,12
+Minivan,no,
+Pickup,no,5
+Sports Car,no,17
+Pickup,no,9
+Minivan,yes,7
+Pickup,no,7
+Minivan,no,1
+Sports Car,no,14
+Van,no,17
+Panel Truck,yes,5
+Van,no,
+Van,yes,8
+Panel Truck,no,
+Minivan,no,3
+SUV,no,1
+Minivan,no,11
+SUV,no,12
+Sports Car,no,1
+Minivan,yes,9
+Van,yes,6
+Sports Car,no,14
+Minivan,no,15
+Pickup,no,1
+SUV,no,15
+SUV,no,12
+Minivan,yes,1
+Minivan,yes,1
+Van,yes,1
+Minivan,yes,5
+Minivan,yes,10
+Minivan,yes,9
+Pickup,no,1
+Pickup,yes,5
+SUV,no,15
+Minivan,no,15
+Panel Truck,yes,13
+Van,yes,1
+SUV,no,5
+Minivan,no,20
+Panel Truck,yes,13
+SUV,no,6
+SUV,no,23
+SUV,no,
+Pickup,yes,1
+Minivan,yes,5
+SUV,no,12
+SUV,no,11
+SUV,no,12
+Minivan,no,11
+Pickup,yes,8
+Minivan,yes,12
+Minivan,yes,15
+Van,no,20
+Panel Truck,no,1
+Pickup,yes,6
+Van,yes,8
+SUV,no,8
+Pickup,no,1
+Sports Car,no,1
+Van,yes,1
+SUV,no,7
+SUV,no,6
+Minivan,no,8
+Minivan,no,6
+Sports Car,no,22
+Sports Car,no,1
+SUV,no,1
+Pickup,yes,1
+Sports Car,no,6
+SUV,no,4
+Pickup,yes,1
+SUV,no,13
+SUV,no,7
+Minivan,no,12
+Sports Car,no,3
+Pickup,yes,9
+Minivan,yes,11
+Panel Truck,no,14
+Sports Car,no,7
+Panel Truck,yes,9
+Minivan,yes,19
+SUV,no,9
+Van,no,20
+Minivan,yes,21
+Sports Car,no,15
+Pickup,no,
+Sports Car,no,10
+Minivan,yes,
+Panel Truck,yes,11
+Sports Car,no,1
+Minivan,yes,6
+Minivan,no,1
+Sports Car,no,1
+Pickup,yes,
+Minivan,no,10
+Pickup,yes,11
+Minivan,yes,7
+Panel Truck,yes,18
+SUV,no,5
+Sports Car,no,
+SUV,no,1
+SUV,no,11
+SUV,no,12
+Pickup,no,12
+Sports Car,no,1
+SUV,no,6
+Pickup,no,5
+Sports Car,no,1
+Pickup,yes,1
+Minivan,no,1
+Pickup,no,1
+Van,no,13
+Pickup,no,1
+Van,no,6
+SUV,no,5
+Sports Car,no,7
+Minivan,yes,10
+Pickup,no,1
+Panel Truck,yes,6
+SUV,no,1
+Minivan,yes,10
+Minivan,no,
+SUV,no,10
+Pickup,no,8
+Sports Car,no,1
+Van,no,1
+Panel Truck,yes,13
+Minivan,yes,9
+Sports Car,no,8
+SUV,no,1
+Van,no,8
+SUV,no,
+SUV,no,6
+Pickup,no,1
+Minivan,yes,12
+Minivan,no,15
+Panel Truck,no,5
+SUV,no,9
+Panel Truck,no,16
+Van,yes,1
+Minivan,no,7
+SUV,no,21
+SUV,no,7
+Minivan,yes,9
+Minivan,no,16
+Van,yes,7
+Van,yes,13
+SUV,no,15
+SUV,no,
+Pickup,yes,1
+SUV,no,9
+SUV,no,5
+Pickup,yes,3
+Van,yes,17
+Pickup,no,10
+Minivan,yes,1
+SUV,no,
+SUV,no,6
+Sports Car,no,7
+Minivan,yes,7
+Minivan,yes,8
+Sports Car,no,1
+SUV,no,
+Van,yes,
+Minivan,no,1
+Minivan,yes,8
+Sports Car,yes,14
+SUV,no,1
+Pickup,no,12
+Pickup,no,5
+Pickup,yes,1
+Van,no,7
+Panel Truck,yes,8
+SUV,no,6
+Minivan,no,15
+SUV,no,7
+Panel Truck,yes,16
+Sports Car,no,13
+Panel Truck,yes,12
+SUV,no,13
+SUV,no,1
+SUV,yes,12
+Minivan,no,12
+SUV,no,9
+SUV,no,15
+Van,no,7
+Pickup,no,1
+Minivan,yes,8
+Minivan,no,1
+Van,yes,
+Minivan,no,1
+Minivan,no,5
+Sports Car,no,1
+Minivan,yes,1
+Panel Truck,no,8
+Minivan,no,9
+SUV,no,14
+SUV,no,12
+Sports Car,no,11
+Panel Truck,yes,19
+Minivan,no,1
+SUV,no,7
+Sports Car,no,
+SUV,yes,15
+Van,yes,21
+Minivan,no,18
+SUV,no,1
+Sports Car,no,10
+Minivan,yes,18
+Van,no,13
+Minivan,yes,10
+Panel Truck,yes,
+Panel Truck,yes,21
+Minivan,no,14
+Minivan,no,13
+Pickup,yes,9
+SUV,no,1
+Minivan,no,1
+Minivan,no,6
+Minivan,yes,17
+Van,no,10
+SUV,no,4
+Minivan,no,4
+Minivan,no,10
+SUV,no,7
+Minivan,no,1
+SUV,no,8
+Sports Car,no,1
+Minivan,yes,1
+Van,no,1
+Minivan,no,11
+Pickup,yes,6
+Sports Car,no,1
+SUV,no,5
+Pickup,no,10
+SUV,no,1
+Panel Truck,no,
+Sports Car,no,1
+Pickup,no,10
+SUV,no,7
+SUV,no,1
+SUV,no,11
+SUV,no,1
+Sports Car,no,13
+SUV,no,
+Pickup,no,6
+Pickup,yes,9
+Pickup,no,17
+Minivan,yes,1
+Panel Truck,yes,1
+Panel Truck,no,9
+Van,no,16
+SUV,no,1
+Panel Truck,yes,14
+Minivan,no,1
+Pickup,no,1
+Pickup,no,7
+Van,yes,11
+SUV,no,4
+Panel Truck,no,7
+Pickup,no,13
+Pickup,yes,7
+Sports Car,no,25
+Minivan,yes,17
+SUV,no,1
+SUV,no,15
+SUV,no,15
+Minivan,yes,11
+Sports Car,no,11
+Sports Car,yes,8
+SUV,no,1
+Minivan,no,14
+Pickup,yes,18
+Sports Car,no,21
+Minivan,no,12
+Minivan,yes,1
+Minivan,no,11
+Pickup,no,10
+SUV,no,9
+Minivan,no,11
+Panel Truck,yes,11
+Minivan,no,15
+Sports Car,no,1
+Pickup,no,17
+Minivan,no,9
+Sports Car,no,7
+Pickup,no,18
+SUV,no,5
+SUV,yes,13
+Minivan,yes,1
+Minivan,yes,11
+SUV,no,1
+Minivan,yes,12
+Minivan,no,1
+Sports Car,no,12
+Panel Truck,no,15
+Van,yes,7
+Pickup,yes,14
+Minivan,yes,12
+Pickup,yes,7
+Pickup,no,7
+SUV,no,15
+SUV,no,1
+Minivan,yes,7
+Sports Car,no,1
+Sports Car,no,16
+Minivan,yes,5
+Minivan,no,9
+Pickup,no,1
+SUV,no,7
+Pickup,no,20
+Minivan,no,12
+Van,no,11
+Minivan,no,1
+Minivan,yes,10
+SUV,no,15
+Minivan,no,17
+Panel Truck,no,15
+Sports Car,no,
+Minivan,no,12
+Minivan,yes,6
+Panel Truck,no,
+Minivan,yes,1
+SUV,no,13
+Pickup,no,6
+Van,no,9
+Panel Truck,yes,9
+Minivan,no,7
+Panel Truck,no,1
+Sports Car,no,11
+Panel Truck,yes,18
+Pickup,yes,11
+Minivan,no,5
+Minivan,yes,1
+Minivan,no,20
+Van,yes,14
+Minivan,no,15
+Panel Truck,no,8
+SUV,no,11
+SUV,no,4
+SUV,no,19
+Pickup,no,15
+SUV,no,1
+Pickup,no,6
+Pickup,no,7
+SUV,no,13
+Minivan,no,7
+Van,yes,1
+Minivan,yes,6
+SUV,no,13
+Panel Truck,no,11
+SUV,no,6
+Van,no,3
+SUV,no,10
+Pickup,no,17
+Sports Car,no,9
+SUV,no,1
+Minivan,no,1
+SUV,no,4
+Pickup,no,3
+Sports Car,no,1
+Pickup,yes,
+Sports Car,no,14
+Panel Truck,no,13
+SUV,no,7
+SUV,no,5
+SUV,no,1
+SUV,no,1
+Minivan,yes,
+SUV,no,15
+SUV,no,7
+Pickup,no,6
+Minivan,no,15
+Minivan,yes,11
+Minivan,no,
+Minivan,no,1
+SUV,no,6
+Minivan,yes,11
+Minivan,no,23
+Pickup,no,10
+Panel Truck,yes,5
+SUV,no,8
+SUV,no,1
+Sports Car,yes,12
+Panel Truck,no,11
+Van,no,1
+Pickup,no,1
+Minivan,yes,7
+Pickup,no,1
+Pickup,yes,1
+Pickup,yes,11
+Pickup,no,10
+Sports Car,no,24
+SUV,no,1
+Minivan,no,13
+Pickup,yes,1
+Pickup,yes,1
+SUV,no,1
+SUV,no,14
+Minivan,yes,13
+Pickup,yes,1
+Minivan,no,
+Sports Car,no,13
+Panel Truck,yes,1
+Sports Car,no,7
+SUV,no,1
+SUV,no,7
+SUV,no,19
+SUV,no,1
+Van,no,10
+Minivan,no,4
+Minivan,no,6
+Minivan,yes,15
+SUV,no,15
+Panel Truck,yes,15
+Minivan,yes,1
+Van,yes,10
+Minivan,yes,6
+Minivan,no,1
+Sports Car,no,1
+Van,yes,5
+SUV,no,5
+Sports Car,no,
+Pickup,no,1
+Minivan,yes,8
+Minivan,yes,17
+SUV,no,9
+Minivan,yes,1
+SUV,no,1
+SUV,no,10
+SUV,no,
+Van,no,9
+Minivan,yes,6
+Sports Car,no,11
+Pickup,yes,8
+Minivan,yes,10
+Panel Truck,yes,1
+Pickup,no,16
+SUV,no,1
+Minivan,yes,13
+SUV,no,9
+SUV,no,
+Minivan,yes,6
+Panel Truck,yes,19
+Minivan,yes,6
+Minivan,no,19
+Sports Car,no,15
+Minivan,yes,1
+Minivan,no,13
+Sports Car,no,9
+Sports Car,no,
+Van,no,20
+Van,yes,6
+Pickup,no,10
+SUV,no,14
+Panel Truck,yes,12
+Panel Truck,no,13
+Pickup,yes,1
+SUV,no,15
+Van,yes,9
+Pickup,no,13
+SUV,no,6
+Panel Truck,yes,8
+SUV,no,7
+SUV,no,1
+Van,yes,15
+SUV,no,17
+Minivan,no,11
+Minivan,yes,19
+Pickup,yes,1
+SUV,no,7
+Minivan,no,11
+Pickup,yes,7
+Van,no,10
+Pickup,yes,1
+SUV,no,10
+Pickup,no,6
+Minivan,no,11
+Minivan,no,9
+Minivan,yes,1
+Pickup,yes,16
+Minivan,no,11
+SUV,no,9
+SUV,no,1
+Minivan,no,1
+Sports Car,no,7
+SUV,no,1
+Minivan,no,11
+SUV,no,1
+Minivan,yes,1
+SUV,no,8
+SUV,no,1
+Van,yes,8
+SUV,no,1
+Sports Car,no,12
+Pickup,no,1
+SUV,no,12
+Minivan,no,
+Pickup,yes,1
+Minivan,yes,13
+Van,yes,16
+Minivan,no,1
+SUV,no,7
+SUV,no,8
+Pickup,yes,1
+Minivan,yes,13
+Minivan,no,4
+Minivan,no,5
+Minivan,no,11
+Van,no,10
+Minivan,yes,8
+SUV,no,1
+Pickup,yes,13
+Panel Truck,yes,11
+Pickup,yes,21
+SUV,no,12
+Panel Truck,yes,14
+Sports Car,no,15
+Minivan,yes,8
+SUV,no,1
+Pickup,no,10
+Pickup,yes,6
+Minivan,yes,8
+Minivan,yes,4
+Minivan,no,14
+Minivan,no,1
+SUV,no,5
+Minivan,yes,9
+Pickup,yes,8
+Sports Car,no,1
+Minivan,no,1
+SUV,no,9
+Pickup,yes,1
+Sports Car,no,21
+Sports Car,no,3
+Pickup,no,
+SUV,no,16
+Sports Car,no,20
+SUV,no,16
+Pickup,yes,18
+Panel Truck,no,17
+Pickup,yes,1
+Sports Car,no,1
+SUV,no,8
+Minivan,no,1
+Minivan,no,1
+SUV,no,12
+Pickup,no,9
+Sports Car,no,1
+Van,no,15
+Panel Truck,no,6
+Pickup,no,9
+Pickup,no,11
+Pickup,yes,1
+Minivan,yes,
+Minivan,no,7
+Minivan,no,7
+SUV,no,8
+Sports Car,no,1
+Sports Car,no,6
+Pickup,no,5
+Van,yes,14
+Van,no,1
+SUV,no,8
+Minivan,no,1
+Pickup,no,7
+Van,yes,8
+Van,no,1
+Pickup,no,
+SUV,no,13
+SUV,no,3
+Minivan,no,9
+Sports Car,no,7
+Van,yes,19
+Minivan,yes,1
+Sports Car,no,3
+Sports Car,no,1
+Minivan,no,10
+Minivan,yes,20
+Sports Car,no,9
+Panel Truck,yes,11
+Minivan,no,5
+Minivan,yes,1
+Sports Car,no,1
+Minivan,yes,8
+Minivan,no,10
+Minivan,no,1
+Panel Truck,yes,9
+SUV,no,1
+Minivan,yes,9
+SUV,no,14
+Minivan,no,
+SUV,no,11
+Panel Truck,yes,1
+SUV,no,7
+SUV,no,8
+Minivan,yes,10
+Minivan,no,10
+Minivan,no,1
+SUV,no,1
+Pickup,no,6
+Panel Truck,no,4
+SUV,no,5
+Pickup,no,1
+SUV,no,8
+Minivan,yes,1
+Minivan,no,15
+Minivan,no,10
+Sports Car,no,8
+Sports Car,no,8
+Pickup,no,11
+Minivan,no,6
+Panel Truck,yes,5
+Sports Car,yes,10
+SUV,no,7
+SUV,no,1
+SUV,no,6
+Van,no,9
+Minivan,no,16
+SUV,no,4
+Minivan,no,9
+Minivan,no,10
+Sports Car,yes,9
+SUV,no,11
+SUV,yes,17
+SUV,no,9
+Minivan,yes,23
+Pickup,yes,7
+Minivan,yes,19
+Minivan,no,16
+Van,no,16
+SUV,no,8
+Van,no,10
+SUV,no,7
+Pickup,no,16
+SUV,no,7
+Van,yes,20
+SUV,no,1
+Minivan,yes,
+Minivan,yes,7
+SUV,no,18
+Pickup,yes,1
+Pickup,yes,1
+Sports Car,no,11
+Sports Car,no,9
+Van,yes,9
+Pickup,yes,1
+Sports Car,no,
+Van,yes,18
+Minivan,yes,8
+Pickup,no,15
+Minivan,yes,7
+SUV,no,1
+Pickup,yes,10
+Pickup,no,10
+SUV,no,8
+Minivan,no,8
+Van,yes,10
+Pickup,no,9
+Pickup,no,14
+Minivan,no,9
+Pickup,yes,1
+Pickup,yes,13
+Minivan,no,6
+SUV,no,15
+Minivan,no,14
+Pickup,yes,
+Minivan,no,12
+SUV,no,1
+SUV,no,9
+Minivan,yes,1
+Pickup,no,7
+Pickup,yes,1
+Pickup,yes,7
+Sports Car,no,
+Sports Car,yes,15
+Pickup,no,10
+Sports Car,no,1
+Panel Truck,yes,12
+SUV,no,11
+Van,no,1
+Van,no,10
+SUV,no,9
+SUV,no,1
+Panel Truck,yes,
+Pickup,yes,5
+SUV,no,17
+Pickup,no,6
+Minivan,no,1
+Van,yes,8
+Van,yes,9
+Pickup,no,4
+Panel Truck,yes,7
+Pickup,no,
+Minivan,yes,10
+SUV,no,6
+Minivan,no,9
+Pickup,no,1
+Minivan,no,7
+Pickup,no,7
+Pickup,yes,6
+SUV,no,4
+SUV,no,17
+Pickup,no,7
+Van,yes,7
+Van,no,13
+SUV,no,7
+SUV,no,5
+SUV,yes,9
+Minivan,no,13
+SUV,no,9
+Minivan,yes,14
+Panel Truck,no,1
+Sports Car,no,17
+Sports Car,no,20
+SUV,no,5
+Minivan,yes,4
+Panel Truck,yes,21
+Pickup,yes,7
+Minivan,no,8
+Pickup,no,8
+Van,yes,14
+Sports Car,no,18
+SUV,no,17
+Panel Truck,no,12
+Pickup,yes,11
+Minivan,no,
+Panel Truck,no,12
+Pickup,yes,
+Panel Truck,yes,1
+Minivan,no,1
+Minivan,yes,1
+Van,no,12
+Minivan,yes,1
+Panel Truck,no,14
+Van,yes,16
+Panel Truck,yes,10
+Pickup,yes,1
+Minivan,yes,9
+Sports Car,no,14
+SUV,no,1
+SUV,no,
+Minivan,no,13
+Minivan,yes,8
+Panel Truck,yes,13
+Sports Car,no,6
+Pickup,yes,
+SUV,no,17
+Pickup,no,16
+Pickup,no,7
+SUV,no,5
+SUV,no,10
+Sports Car,no,16
+Van,no,6
+SUV,no,13
+Pickup,no,13
+SUV,no,1
+Van,yes,9
+Minivan,no,1
+Minivan,no,5
+SUV,no,
+Minivan,no,1
+SUV,no,16
+Sports Car,no,10
+SUV,no,1
+Sports Car,no,9
+Minivan,no,12
+SUV,no,1
+Panel Truck,yes,8
+Minivan,yes,1
+SUV,no,1
+Panel Truck,yes,9
+Pickup,no,19
+Pickup,no,4
+SUV,no,9
+Panel Truck,yes,1
+Pickup,no,6
+Panel Truck,no,6
+Van,yes,7
+Van,yes,
+Minivan,no,1
+Panel Truck,no,17
+SUV,no,1
+Panel Truck,no,12
+SUV,no,6
+Minivan,no,11
+Van,yes,1
+Van,no,
+Minivan,no,8
+SUV,yes,19
+Van,yes,12
+Sports Car,no,5
+Panel Truck,no,10
+Panel Truck,yes,9
+SUV,no,1
+Panel Truck,yes,1
+Van,yes,9
+Pickup,no,1
+Minivan,no,11
+Minivan,no,1
+Van,no,13
+Minivan,yes,14
+Van,no,8
+Van,no,1
+Minivan,no,14
+Pickup,no,11
+SUV,no,1
+Minivan,yes,1
+Minivan,yes,
+Sports Car,no,18
+Minivan,yes,11
+Pickup,no,8
+SUV,no,13
+SUV,no,1
+Panel Truck,yes,17
+Minivan,yes,9
+SUV,no,17
+Panel Truck,no,1
+Sports Car,yes,14
+Panel Truck,no,1
+Van,no,18
+SUV,no,16
+SUV,no,5
+Sports Car,no,
+Sports Car,no,1
+Minivan,no,16
+SUV,no,9
+SUV,no,7
+SUV,no,22
+Minivan,no,10
+Minivan,yes,12
+Van,yes,12
+SUV,no,11
+SUV,no,8
+Van,yes,1
+SUV,no,6
+Van,no,8
+Minivan,no,15
+Pickup,yes,7
+Minivan,no,15
+Pickup,no,1
+Van,no,11
+SUV,no,9
+Pickup,no,11
+SUV,no,12
+Minivan,no,1
+Minivan,yes,10
+Van,no,11
+Pickup,yes,15
+Panel Truck,yes,16
+SUV,no,1
+Panel Truck,no,13
+Pickup,no,13
+SUV,no,1
+Minivan,yes,12
+Minivan,yes,8
+Minivan,no,19
+Pickup,yes,13
+SUV,no,12
+Panel Truck,yes,9
+Minivan,no,10
+Pickup,no,5
+Pickup,no,15
+SUV,no,1
+Sports Car,no,1
+Pickup,yes,1
+Minivan,no,1
+Minivan,no,1
+Minivan,no,16
+SUV,no,11
+SUV,no,10
+Panel Truck,yes,13
+Pickup,no,1
+SUV,no,14
+SUV,no,5
+SUV,no,8
+SUV,no,9
+Minivan,no,15
+Sports Car,no,6
+Sports Car,no,1
+SUV,no,7
+Sports Car,no,5
+Panel Truck,no,1
+Pickup,yes,8
+Minivan,no,7
+Panel Truck,no,18
+SUV,no,13
+Minivan,no,16
+Minivan,no,17
+Minivan,yes,1
+Sports Car,no,10
+SUV,no,1
+Pickup,no,
+Pickup,yes,3
+SUV,no,1
+SUV,no,9
+Minivan,yes,16
+SUV,no,1
+Pickup,no,9
+Sports Car,no,12
+Minivan,no,1
+Pickup,no,17
+Minivan,no,18
+SUV,no,1
+Van,yes,17
+SUV,no,12
+SUV,no,1
+Van,yes,13
+SUV,no,1
+Panel Truck,yes,11
+Van,no,12
+Panel Truck,yes,8
+Panel Truck,yes,10
+SUV,no,21
+SUV,no,7
+Panel Truck,no,9
+Pickup,yes,10
+Minivan,no,13
+SUV,no,11
+Minivan,no,16
+Sports Car,no,1
+Pickup,yes,7
+SUV,no,10
+Sports Car,no,8
+Panel Truck,yes,13
+SUV,no,18
+Minivan,no,12
+SUV,no,7
+Minivan,yes,1
+Sports Car,no,10
+Minivan,no,6
+SUV,no,9
+Minivan,no,7
+Sports Car,no,1
+SUV,no,
+SUV,no,10
+SUV,no,19
+SUV,no,10
+Pickup,yes,7
+Pickup,no,19
+Pickup,yes,13
+Minivan,no,7
+Van,yes,8
+Pickup,yes,1
+SUV,no,17
+Sports Car,no,
+Pickup,yes,1
+SUV,no,14
+Sports Car,no,1
+Sports Car,no,1
+Panel Truck,no,11
+Pickup,no,8
+Panel Truck,yes,10
+Pickup,yes,12
+Minivan,yes,15
+Pickup,yes,15
+Sports Car,no,11
+Pickup,yes,12
+Panel Truck,yes,1
+Panel Truck,yes,15
+Pickup,yes,14
+Pickup,no,13
+Minivan,yes,10
+Minivan,yes,12
+Pickup,yes,9
+SUV,no,9
+Van,no,16
+Minivan,yes,
+Pickup,yes,1
+Minivan,no,1
+Pickup,no,5
+Van,no,16
+Panel Truck,yes,16
+SUV,no,11
+Minivan,no,10
+Panel Truck,yes,1
+Minivan,yes,15
+Minivan,no,7
+SUV,no,1
+SUV,no,10
+Pickup,no,13
+Van,no,13
+Minivan,yes,8
+Minivan,no,4
+Minivan,no,16
+Van,no,6
+SUV,no,6
+Pickup,yes,13
+Minivan,yes,9
+Minivan,yes,1
+SUV,no,8
+SUV,no,
+SUV,no,1
+Minivan,yes,1
+Minivan,yes,5
+SUV,no,
+Pickup,yes,7
+Sports Car,no,1
+SUV,no,1
+Minivan,no,11
+Sports Car,no,8
+SUV,no,1
+Van,no,1
+Van,yes,10
+Pickup,no,6
+Panel Truck,yes,7
+Pickup,no,1
+SUV,no,1
+Pickup,yes,4
+SUV,no,1
+Sports Car,no,11
+Pickup,no,1
+SUV,no,6
+Minivan,yes,1
+SUV,no,11
+Van,no,1
+Minivan,no,1
+Panel Truck,yes,14
+Pickup,no,7
+Minivan,no,8
+Minivan,no,11
+Panel Truck,no,18
+Minivan,no,8
+Pickup,yes,1
+Pickup,yes,11
+SUV,no,10
+Pickup,no,22
+Sports Car,no,1
+Van,no,15
+Panel Truck,no,1
+SUV,no,6
+SUV,no,13
+SUV,no,16
+SUV,no,17
+Pickup,no,
+Minivan,yes,9
+Minivan,yes,15
+Panel Truck,yes,11
+Van,yes,6
+Panel Truck,no,1
+SUV,no,1
+Minivan,yes,19
+SUV,no,10
+Pickup,yes,10
+Pickup,yes,1
+Van,no,5
+SUV,no,18
+Minivan,no,1
+Sports Car,no,14
+SUV,no,5
+Panel Truck,yes,1
+Minivan,no,13
+SUV,no,1
+SUV,no,13
+SUV,no,12
+Pickup,no,1
+Panel Truck,yes,15
+Minivan,yes,7
+Panel Truck,yes,9
+SUV,no,6
+Panel Truck,yes,1
+SUV,yes,8
+SUV,no,18
+Minivan,yes,5
+Minivan,no,3
+Sports Car,no,15
+SUV,no,9
+Panel Truck,yes,1
+Minivan,no,1
+SUV,no,9
+SUV,no,9
+SUV,no,1
+Panel Truck,no,5
+Pickup,yes,7
+Van,yes,7
+SUV,no,1
+Minivan,no,10
+Pickup,yes,6
+SUV,no,
+Pickup,no,5
+SUV,yes,11
+Minivan,yes,5
+Pickup,no,1
+Minivan,no,1
+SUV,no,8
+Minivan,yes,1
+SUV,no,4
+SUV,no,12
+SUV,no,14
+Panel Truck,yes,8
+Van,no,13
+SUV,no,4
+Panel Truck,no,11
+Sports Car,no,5
+Minivan,yes,17
+Minivan,no,11
+Minivan,yes,
+SUV,no,5
+Minivan,no,9
+SUV,no,1
+Sports Car,no,1
+SUV,no,11
+Minivan,yes,22
+Minivan,no,12
+Pickup,yes,11
+Minivan,no,12
+Sports Car,no,12
+SUV,no,13
+Minivan,yes,19
+Minivan,yes,1
+Sports Car,no,19
+Minivan,no,14
+Panel Truck,no,21
+Van,yes,1
+SUV,no,14
+Sports Car,no,13
+Minivan,yes,16
+SUV,no,6
+SUV,no,1
+Sports Car,no,11
+Pickup,no,21
+Pickup,no,7
+Van,yes,14
+Sports Car,no,8
+SUV,no,4
+Minivan,no,1
+SUV,no,1
+Pickup,no,1
+SUV,no,1
+Van,yes,12
+Pickup,no,13
+Minivan,yes,1
+Minivan,yes,10
+Pickup,yes,1
+Panel Truck,no,11
+Van,yes,1
+Van,no,11
+Sports Car,no,
+Minivan,yes,10
+Sports Car,no,1
+SUV,no,5
+Minivan,yes,18
+Minivan,no,16
+Minivan,yes,
+SUV,no,1
+Panel Truck,yes,
+SUV,no,1
+Sports Car,no,5
+Panel Truck,yes,1
+SUV,no,11
+Pickup,yes,1
+Pickup,no,10
+Sports Car,no,1
+SUV,no,16
+SUV,no,7
+Van,yes,8
+SUV,no,7
+Sports Car,no,12
+SUV,no,
+Van,no,10
+SUV,no,13
+Sports Car,no,1
+Minivan,no,15
+Van,yes,17
+Minivan,no,1
+Van,no,6
+SUV,no,24
+SUV,no,10
+SUV,no,10
+Pickup,no,1
+SUV,no,7
+Minivan,yes,11
+SUV,no,19
+Pickup,no,10
+Minivan,yes,17
+Sports Car,no,9
+Minivan,no,1
+SUV,no,1
+Pickup,yes,1
+Minivan,no,11
+Van,no,1
+Minivan,yes,17
+Pickup,no,7
+Pickup,yes,2
+Pickup,no,14
+Van,no,17
+Panel Truck,yes,9
+Minivan,no,1
+Minivan,no,1
+Minivan,yes,1
+Panel Truck,no,12
+Panel Truck,no,3
+Pickup,yes,15
+Minivan,yes,15
+SUV,no,17
+Minivan,yes,6
+Van,no,8
+SUV,no,15
+SUV,no,1
+Pickup,no,3
+Minivan,no,15
+Panel Truck,yes,10
+Van,no,10
+SUV,no,10
+SUV,no,1
+Minivan,no,20
+Pickup,yes,1
+Van,no,1
+Minivan,no,1
+Van,yes,10
+Pickup,no,7
+SUV,no,1
+SUV,no,1
+Panel Truck,yes,15
+Pickup,yes,7
+Minivan,yes,1
+Minivan,no,15
+Minivan,yes,16
+SUV,no,1
+SUV,no,1
+Sports Car,yes,1
+Minivan,no,15
+SUV,no,7
+Sports Car,no,1
+Sports Car,no,8
+Minivan,yes,10
+Minivan,no,11
+Minivan,no,10
+SUV,no,9
+Sports Car,no,
+Pickup,yes,6
+Sports Car,no,6
+Minivan,no,13
+Minivan,no,15
+Pickup,no,
+SUV,no,1
+Pickup,yes,11
+Minivan,no,5
+SUV,no,
+Pickup,no,12
+Van,yes,20
+Minivan,no,9
+Minivan,no,6
+Minivan,no,12
+SUV,no,7
+Panel Truck,yes,1
+Minivan,no,8
+Panel Truck,yes,1
+SUV,no,19
+SUV,no,8
+SUV,no,1
+Pickup,yes,9
+Sports Car,no,15
+SUV,no,9
+SUV,no,1
+SUV,no,9
+SUV,no,19
+SUV,no,12
+Van,yes,17
+Minivan,no,5
+Panel Truck,no,8
+SUV,no,7
+Sports Car,no,4
+Pickup,no,9
+SUV,no,1
+Sports Car,yes,4
+Pickup,no,1
+SUV,no,6
+Sports Car,no,12
+Sports Car,no,16
+Pickup,no,14
+Pickup,yes,
+Van,yes,10
+SUV,no,6
+Van,yes,
+Pickup,yes,7
+Minivan,no,7
+Minivan,no,6
+SUV,no,18
+Minivan,yes,6
+SUV,no,18
+Sports Car,no,8
+SUV,no,1
+Pickup,no,9
+Minivan,no,10
+Van,yes,1
+Pickup,no,13
+SUV,no,1
+Panel Truck,no,1
+Minivan,no,10
+SUV,no,5
+SUV,no,1
+Minivan,no,6
+Panel Truck,yes,13
+Panel Truck,yes,10
+SUV,no,9
+Panel Truck,yes,11
+SUV,no,9
+Sports Car,no,6
+Pickup,yes,
+SUV,no,8
+Panel Truck,yes,
+Pickup,no,7
+Minivan,no,4
+Minivan,no,14
+Van,no,1
+Minivan,yes,1
+Minivan,no,4
+Minivan,yes,5
+Pickup,yes,6
+SUV,no,17
+Pickup,no,12
+Minivan,yes,1
+SUV,no,1
+Van,yes,11
+SUV,no,5
+Minivan,no,5
+Minivan,no,1
+Minivan,no,14
+Minivan,no,8
+SUV,no,1
+Minivan,no,8
+Panel Truck,yes,16
+Panel Truck,yes,6
+SUV,no,11
+Pickup,no,7
+Minivan,no,1
+Van,no,5
+SUV,no,8
+Panel Truck,yes,11
+SUV,no,11
+Pickup,yes,8
+Pickup,no,1
+SUV,no,10
+Pickup,no,5
+Panel Truck,yes,12
+SUV,no,16
+Minivan,no,9
+Minivan,no,
+Van,no,6
+Pickup,yes,11
+SUV,no,
+Pickup,yes,9
+SUV,no,5
+Panel Truck,yes,12
+Van,yes,1
+SUV,no,16
+Minivan,no,1
+Minivan,no,1
+Panel Truck,yes,8
+SUV,no,12
+Minivan,yes,14
+SUV,no,12
+Minivan,no,1
+Pickup,no,7
+Minivan,yes,16
+Minivan,no,10
+Sports Car,no,12
+Minivan,no,10
+Minivan,no,18
+Pickup,yes,5
+Minivan,no,17
+Pickup,no,17
+Pickup,no,6
+Minivan,no,14
+Minivan,no,
+SUV,no,17
+Van,yes,6
+Pickup,no,1
+Minivan,no,14
+Sports Car,yes,1
+Minivan,no,9
+Van,yes,1
+Van,yes,1
+Pickup,yes,12
+Van,yes,4
+Minivan,yes,9
+SUV,no,13
+Minivan,no,10
+Pickup,no,10
+SUV,no,13
+Pickup,yes,7
+SUV,no,10
+Minivan,no,10
+Minivan,no,15
+SUV,no,19
+Minivan,yes,
+SUV,no,1
+SUV,no,13
+Pickup,yes,13
+Pickup,yes,7
+Sports Car,no,9
+SUV,no,3
+Pickup,yes,9
+SUV,no,7
+Sports Car,no,10
+Panel Truck,yes,11
+Minivan,no,6
+Pickup,yes,9
+Sports Car,no,1
+Sports Car,no,18
+Minivan,yes,15
+Minivan,no,1
+Minivan,no,1
+SUV,no,11
+Minivan,yes,16
+Sports Car,no,17
+Minivan,yes,1
+Pickup,yes,16
+Sports Car,no,6
+Minivan,no,17
+Pickup,no,16
+Pickup,no,9
+Pickup,no,12
+SUV,no,9
+SUV,no,3
+Van,no,1
+Van,no,8
+Pickup,no,15
+Sports Car,no,12
+Sports Car,no,6
+Sports Car,no,7
+Minivan,yes,8
+SUV,no,9
+Van,no,8
+Pickup,no,1
+SUV,no,
+Sports Car,no,1
+SUV,no,1
+SUV,no,
+SUV,no,
+Minivan,yes,1
+Van,yes,8
+SUV,no,6
+SUV,no,1
+Minivan,yes,7
+Minivan,no,17
+Pickup,no,
+Panel Truck,yes,8
+SUV,no,6
+Minivan,no,8
+Minivan,yes,8
+Sports Car,no,12
+Minivan,yes,6
+Minivan,yes,
+Minivan,no,1
+Minivan,no,1
+Pickup,no,8
+SUV,no,
+SUV,no,4
+Pickup,yes,1
+Pickup,yes,13
+Minivan,yes,15
+SUV,no,17
+SUV,no,4
+Panel Truck,yes,8
+Panel Truck,no,12
+SUV,no,1
+Van,no,
+Van,no,13
+SUV,no,1
+Pickup,no,7
+Pickup,yes,19
+SUV,no,8
+Minivan,yes,11
+Minivan,no,15
+Sports Car,no,16
+Minivan,no,11
+Panel Truck,yes,1
+SUV,no,5
+Pickup,no,9
+SUV,no,1
+Pickup,no,7
+SUV,no,1
+Pickup,no,1
+Sports Car,no,1
+Minivan,yes,16
+Pickup,yes,10
+Pickup,yes,9
+Van,yes,1
+Pickup,yes,13
+SUV,no,1
+Pickup,yes,6
+Van,yes,12
+SUV,no,8
+Van,yes,4
+SUV,no,13
+Minivan,no,1
+Van,yes,1
+Minivan,yes,20
+Sports Car,no,11
+Sports Car,no,8
+SUV,no,1
+SUV,no,
+Sports Car,no,17
+Pickup,yes,9
+Minivan,no,14
+Sports Car,no,13
+SUV,no,
+SUV,no,14
+Van,no,7
+Minivan,no,14
+SUV,no,5
+SUV,no,15
+SUV,no,1
+Sports Car,no,4
+Pickup,no,7
+SUV,no,7
+SUV,no,1
+Pickup,no,1
+Van,no,1
+Pickup,yes,6
+SUV,no,10
+SUV,no,
+Minivan,yes,1
+Minivan,yes,8
+Minivan,no,10
+Panel Truck,no,19
+Panel Truck,yes,14
+Sports Car,no,1
+Minivan,no,16
+Sports Car,no,1
+Panel Truck,no,10
+Pickup,yes,1
+Pickup,no,15
+Pickup,yes,1
+Minivan,no,10
+Pickup,no,15
+Minivan,no,1
+Pickup,no,6
+Van,yes,1
+Pickup,no,1
+Minivan,yes,8
+Sports Car,no,9
+SUV,no,7
+Minivan,yes,1
+Pickup,yes,18
+Minivan,no,9
+SUV,no,7
+Pickup,yes,19
+Sports Car,no,1
+Minivan,no,10
+SUV,yes,13
+Van,yes,7
+SUV,no,12
+Minivan,no,15
+Minivan,no,1
+Minivan,yes,1
+SUV,no,1
+Minivan,yes,12
+SUV,no,4
+Sports Car,no,8
+Pickup,no,4
+SUV,no,1
+Pickup,yes,9
+SUV,no,1
+Minivan,no,7
+Panel Truck,no,1
+SUV,no,14
+Minivan,no,22
+Sports Car,no,6
+Sports Car,no,1
+SUV,no,15
+Van,yes,
+Pickup,no,7
+Pickup,yes,18
+Pickup,no,10
+Van,yes,1
+Panel Truck,no,8
+SUV,no,1
+Sports Car,no,1
+Minivan,yes,12
+Van,no,7
+SUV,no,
+Sports Car,no,1
+Pickup,no,1
+Minivan,no,10
+Minivan,no,8
+SUV,no,10
+Sports Car,no,
+Pickup,no,16
+Sports Car,no,
+Van,yes,8
+SUV,no,1
+SUV,no,1
+Pickup,yes,1
+Minivan,yes,8
+SUV,yes,12
+Minivan,no,1
+Panel Truck,yes,1
+Minivan,no,21
+Pickup,no,4
+Sports Car,no,1
+SUV,no,9
+Pickup,no,14
+SUV,no,8
+Minivan,no,17
+Minivan,no,8
+Minivan,no,9
+Sports Car,no,11
+Minivan,no,1
+Pickup,yes,9
+SUV,no,18
+Sports Car,no,1
+Minivan,no,3
+SUV,no,8
+Minivan,yes,5
+Minivan,no,11
+Sports Car,no,1
+Pickup,yes,9
+Minivan,no,10
+Minivan,yes,9
+Van,no,6
+Van,no,
+Sports Car,no,6
+Sports Car,no,17
+SUV,no,12
+Minivan,no,11
+Pickup,yes,1
+SUV,no,9
+Minivan,yes,8
+Van,no,6
+Minivan,no,10
+Van,yes,12
+Minivan,no,6
+Panel Truck,yes,1
+Minivan,yes,8
+Minivan,yes,
+SUV,no,12
+Minivan,no,17
+SUV,no,10
+SUV,no,14
+Minivan,yes,13
+Minivan,yes,1
+SUV,no,1
+SUV,no,11
+Sports Car,no,1
+Minivan,no,6
+Minivan,no,6
+Pickup,yes,12
+Minivan,no,1
+Minivan,no,9
+Van,no,8
+Minivan,yes,9
+Sports Car,no,1
+Van,yes,1
+Minivan,yes,8
+SUV,no,3
+SUV,no,6
+SUV,no,1
+Sports Car,no,17
+Van,yes,1
+SUV,no,7
+SUV,no,16
+Pickup,no,1
+Minivan,yes,19
+Minivan,no,8
+Minivan,no,1
+Van,no,1
+Van,no,1
+SUV,no,9
+SUV,no,7
+SUV,no,1
+Minivan,no,1
+Panel Truck,yes,8
+Minivan,no,
+Minivan,yes,10
+Minivan,yes,9
+Van,yes,17
+SUV,no,12
+Pickup,no,15
+Sports Car,no,7
+Panel Truck,yes,1
+Pickup,no,7
+SUV,no,10
+SUV,no,5
+SUV,no,21
+SUV,no,1
+Sports Car,no,6
+Minivan,no,12
+Van,no,11
+Minivan,no,3
+Panel Truck,yes,8
+Minivan,yes,1
+Pickup,yes,12
+Pickup,no,12
+SUV,no,13
+Pickup,yes,11
+Pickup,no,15
+Sports Car,no,14
+Panel Truck,yes,17
+Pickup,yes,1
+Sports Car,no,16
+SUV,no,7
+SUV,no,7
+Pickup,no,8
+Minivan,no,15
+SUV,no,7
+Minivan,no,9
+Sports Car,no,6
+Van,no,17
+Sports Car,no,12
+Sports Car,yes,6
+Pickup,yes,11
+Pickup,yes,1
+Minivan,no,
+Pickup,yes,6
+Minivan,no,8
+SUV,no,13
+SUV,no,
+Minivan,no,7
+Minivan,yes,15
+Panel Truck,yes,
+Minivan,no,1
+SUV,no,1
+Minivan,no,11
+SUV,no,19
+Panel Truck,yes,
+Pickup,no,13
+Pickup,yes,6
+Minivan,no,5
+SUV,no,1
+Minivan,yes,8
+SUV,no,18
+Pickup,no,17
+Sports Car,no,12
+Pickup,no,9
+SUV,no,7
+Pickup,no,1
+Pickup,yes,1
+Minivan,yes,1
+SUV,no,1
+Minivan,no,14
+SUV,no,14
+Minivan,no,13
+SUV,no,10
+Minivan,no,11
+Pickup,no,1
+Panel Truck,no,12
+SUV,no,12
+Van,yes,1
+Panel Truck,yes,12
+Pickup,yes,7
+Van,no,
+Van,yes,11
+Minivan,yes,12
+Pickup,yes,1
+Minivan,yes,7
+SUV,yes,1
+Sports Car,no,9
+Panel Truck,yes,8
+Sports Car,no,13
+Minivan,no,9
+Minivan,no,11
+Panel Truck,no,1
+Sports Car,no,8
+SUV,no,1
+Minivan,no,6
+SUV,no,3
+Pickup,no,1
+Sports Car,no,1
+SUV,no,5
+Minivan,no,1
+Minivan,no,
+Pickup,no,19
+SUV,no,5
+Sports Car,no,9
+SUV,no,12
+Van,yes,1
+Minivan,no,16
+SUV,no,1
+Pickup,no,16
+SUV,no,19
+SUV,no,5
+Sports Car,no,13
+Minivan,no,1
+Pickup,yes,8
+Sports Car,no,1
+Sports Car,no,7
+Van,no,1
+SUV,no,9
+Minivan,no,9
+Panel Truck,no,15
+Pickup,yes,1
+Minivan,yes,9
+Panel Truck,no,15
+Sports Car,no,19
+Pickup,no,18
+Van,yes,10
+SUV,no,24
+Minivan,no,15
+SUV,no,9
+Pickup,no,15
+Van,no,17
+Minivan,yes,11
+Pickup,yes,10
+Pickup,no,13
+Panel Truck,yes,
+Pickup,no,8
+Pickup,no,11
+SUV,no,1
+Minivan,no,20
+SUV,no,1
+Pickup,no,7
+Minivan,yes,6
+Minivan,no,15
+Panel Truck,yes,1
+Pickup,no,13
+SUV,no,16
+Sports Car,no,14
+SUV,no,18
+Minivan,yes,1
+Minivan,yes,9
+Panel Truck,yes,
+Pickup,yes,8
+Minivan,no,6
+Pickup,no,18
+Minivan,no,1
+SUV,no,6
+Minivan,no,7
+SUV,no,1
+Panel Truck,no,13
+Minivan,no,1
+SUV,no,6
+Pickup,no,9
+Minivan,no,9
+Sports Car,no,7
+SUV,no,
+Minivan,no,7
+Minivan,no,23
+SUV,no,8
+Sports Car,no,7
+SUV,no,5
+Minivan,no,1
+Minivan,no,18
+Sports Car,no,9
+Panel Truck,no,15
+SUV,no,9
+Minivan,yes,11
+Panel Truck,no,10
+Minivan,no,11
+Sports Car,yes,10
+SUV,no,17
+Sports Car,no,9
+Van,yes,20
+Minivan,yes,19
+Pickup,yes,1
+Pickup,yes,6
+Sports Car,yes,1
+Sports Car,no,13
+Van,no,15
+Minivan,yes,11
+Pickup,no,1
+Pickup,no,3
+Pickup,no,1
+SUV,no,1
+Sports Car,no,16
+Panel Truck,yes,10
+Panel Truck,no,12
+SUV,no,1
+SUV,no,
+Pickup,yes,19
+Sports Car,no,1
+Minivan,no,15
+Sports Car,yes,0
+SUV,no,9
+Pickup,yes,19
+SUV,no,11
+Pickup,no,12
+Pickup,yes,17
+Pickup,yes,8
+SUV,no,1
+Minivan,no,16
+Sports Car,no,7
+SUV,no,13
+Minivan,yes,1
+Minivan,yes,10
+Minivan,yes,
+Pickup,yes,6
+Van,yes,1
+Pickup,no,15
+SUV,no,1
+SUV,no,7
+Minivan,no,7
+Minivan,no,1
+SUV,no,6
+Sports Car,no,17
+SUV,no,1
+Minivan,yes,11
+Sports Car,no,23
+Sports Car,no,12
+Sports Car,no,7
+Minivan,no,7
+Pickup,no,1
+Minivan,yes,7
+SUV,no,12
+Van,yes,1
+Minivan,no,15
+Van,no,14
+Sports Car,no,1
+SUV,no,11
+Panel Truck,no,1
+Panel Truck,yes,9
+SUV,no,1
+Sports Car,no,8
+Minivan,yes,5
+SUV,no,7
+SUV,no,19
+Minivan,yes,10
+Pickup,no,7
+Panel Truck,yes,1
+Pickup,yes,1
+SUV,no,7
+Panel Truck,yes,15
+Pickup,no,1
+SUV,no,12
+Pickup,no,
+Panel Truck,yes,14
+Van,no,1
+Minivan,yes,1
+Van,no,1
+Pickup,yes,4
+Minivan,yes,15
+SUV,no,6
+Van,yes,4
+Van,no,10
+Minivan,no,8
+SUV,no,15
+SUV,no,11
+Pickup,no,12
+SUV,no,8
+SUV,no,12
+SUV,no,8
+SUV,no,1
+Pickup,no,6
+Pickup,no,8
+Van,no,1
+SUV,no,8
+Van,yes,
+Van,yes,9
+Pickup,yes,8
+Panel Truck,yes,10
+Panel Truck,yes,
+Panel Truck,no,21
+Minivan,yes,1
+Minivan,no,0
+Pickup,yes,19
+Pickup,yes,11
+Pickup,no,
+SUV,no,
+Sports Car,no,1
+Pickup,no,1
+SUV,no,
+SUV,no,6
+Pickup,no,20
+SUV,no,17
+Pickup,yes,1
+SUV,no,1
+SUV,no,6
+SUV,no,
+Minivan,yes,18
+SUV,no,9
+SUV,no,20
+SUV,no,12
+Sports Car,no,4
+Pickup,no,18
+SUV,no,1
+SUV,no,1
+SUV,no,19
+SUV,no,8
+Panel Truck,yes,1
+SUV,no,10
+Van,no,7
+Minivan,yes,1
+Pickup,no,1
+Minivan,yes,11
+Van,yes,19
+SUV,no,1
+Van,yes,2
+SUV,no,19
+SUV,no,10
+Pickup,yes,8
+SUV,no,1
+Pickup,no,5
+Pickup,no,6
+SUV,no,6
+Sports Car,no,17
+Pickup,no,1
+SUV,no,1
+SUV,no,21
+Minivan,yes,14
+Minivan,yes,16
+Pickup,no,1
+SUV,no,7
+Pickup,no,3
+Sports Car,no,7
+Van,yes,1
+Minivan,no,11
+SUV,no,8
+Pickup,yes,7
+Van,no,6
+Minivan,no,18
+SUV,no,14
+SUV,no,8
+Pickup,yes,6
+Pickup,yes,20
+Pickup,no,10
+Pickup,yes,1
+Minivan,no,6
+Van,yes,
+Minivan,no,3
+SUV,no,1
+SUV,no,7
+Pickup,yes,1
+SUV,no,10
+SUV,no,1
+Sports Car,no,6
+Sports Car,no,9
+SUV,no,7
+Pickup,no,19
+Van,no,7
+Panel Truck,yes,1
+SUV,no,13
+Pickup,yes,7
+Pickup,no,13
+Sports Car,no,18
+Minivan,no,9
+Sports Car,no,14
+SUV,no,1
+Van,yes,1
+SUV,no,11
+SUV,no,6
+Minivan,yes,
+Panel Truck,yes,3
+Minivan,no,19
+Pickup,no,6
+Minivan,no,19
+Minivan,yes,12
+SUV,no,6
+Minivan,no,6
+Panel Truck,yes,7
+SUV,no,
+SUV,no,10
+SUV,no,12
+Pickup,yes,1
+Panel Truck,yes,12
+Pickup,yes,
+SUV,no,1
+Van,yes,5
+SUV,no,4
+SUV,no,14
+Pickup,no,1
+Panel Truck,yes,11
+Panel Truck,yes,
+SUV,no,11
+SUV,no,
+Pickup,no,12
+Minivan,no,7
+Minivan,yes,5
+Minivan,yes,6
+SUV,no,11
+SUV,no,19
+Minivan,yes,12
+SUV,no,
+Minivan,yes,13
+Minivan,no,13
+Minivan,yes,7
+SUV,no,
+Van,yes,7
+SUV,no,1
+Pickup,yes,1
+Van,no,11
+SUV,no,1
+SUV,no,13
+SUV,no,16
+Minivan,no,10
+SUV,no,7
+SUV,no,7
+SUV,no,1
+Minivan,no,
+Van,yes,4
+Panel Truck,yes,6
+Sports Car,no,8
+Pickup,no,18
+Van,no,5
+Sports Car,no,8
+Minivan,yes,
+Sports Car,no,4
+Van,no,1
+Minivan,no,6
+SUV,no,16
+SUV,no,10
+Minivan,no,1
+SUV,no,4
+Minivan,yes,7
+SUV,no,20
+Minivan,yes,1
+SUV,no,11
+Minivan,yes,
+Panel Truck,yes,14
+SUV,no,11
+Panel Truck,no,1
+Minivan,yes,1
+Sports Car,no,1
+Sports Car,no,12
+SUV,no,6
+Van,no,12
+Sports Car,no,6
+Minivan,no,11
+SUV,no,15
+SUV,no,9
+Minivan,yes,7
+SUV,no,10
+Van,no,7
+Sports Car,no,1
+Pickup,no,13
+SUV,no,1
+Panel Truck,no,1
+Sports Car,yes,14
+Minivan,yes,
+Pickup,yes,14
+Minivan,no,1
+Pickup,no,14
+Pickup,no,8
+Pickup,yes,10
+Minivan,yes,1
+Minivan,yes,7
+Pickup,no,11
+Minivan,yes,1
+SUV,no,1
+SUV,no,12
+Pickup,yes,5
+Minivan,yes,1
+Sports Car,no,1
+Van,no,1
+Van,yes,9
+Sports Car,no,1
+Minivan,no,9
+SUV,no,6
+Pickup,yes,10
+Pickup,yes,13
+Pickup,no,
+SUV,no,1
+Pickup,yes,1
+Minivan,no,12
+Sports Car,no,1
+Sports Car,no,1
+Panel Truck,yes,6
+SUV,no,13
+Van,no,
+Minivan,no,
+SUV,no,
+SUV,no,1
+Panel Truck,yes,8
+Panel Truck,yes,8
+Panel Truck,yes,1
+Pickup,yes,15
+Panel Truck,yes,13
+Minivan,no,2
+Sports Car,no,13
+SUV,no,1
+Minivan,no,15
+Sports Car,no,13
+Sports Car,no,14
+Minivan,no,1
+Sports Car,no,8
+SUV,no,10
+Minivan,no,9
+Pickup,no,6
+Minivan,yes,8
+SUV,no,
+SUV,no,12
+SUV,no,1
+Pickup,yes,1
+Minivan,no,1
+SUV,no,15
+Pickup,yes,
+Pickup,yes,4
+SUV,no,9
+Minivan,yes,17
+Pickup,yes,1
+Pickup,yes,7
+Minivan,no,1
+Minivan,no,10
+Pickup,yes,8
+Pickup,no,10
+Van,yes,8
+Minivan,no,
+Minivan,yes,
+SUV,no,4
+Minivan,yes,6
+SUV,no,19
+SUV,no,14
+Pickup,yes,
+Van,no,17
+Sports Car,no,1
+Pickup,yes,1
+Pickup,no,13
+Van,yes,12
+Minivan,no,6
+Sports Car,no,6
+SUV,no,12
+Pickup,no,1
+SUV,no,1
+Minivan,no,13
+Panel Truck,yes,1
+Panel Truck,yes,16
+SUV,no,8
+SUV,no,10
+SUV,no,16
+Pickup,yes,10
+Pickup,no,
+Minivan,no,12
+SUV,no,10
+Sports Car,no,14
+Sports Car,no,8
+Sports Car,no,6
+Pickup,no,7
+SUV,no,8
+SUV,no,1
+Pickup,yes,10
+Pickup,no,1
+SUV,no,1
+Sports Car,no,5
+Sports Car,no,1
+Minivan,no,14
+Minivan,yes,9
+SUV,no,8
+Minivan,no,4
+Van,yes,1
+Pickup,yes,1
+SUV,no,16
+Minivan,yes,8
+Minivan,no,7
+Van,yes,24
+SUV,no,1
+Sports Car,no,8
+Pickup,yes,8
+Sports Car,no,14
+SUV,no,14
+Minivan,no,18
+Minivan,no,12
+SUV,no,1
+Panel Truck,yes,14
+Panel Truck,yes,1
+Sports Car,no,9
+Sports Car,no,7
+Minivan,yes,1
+SUV,no,17
+Sports Car,no,1
+SUV,no,3
+Minivan,yes,13
+Pickup,no,16
+Minivan,yes,11
+Minivan,no,10
+Panel Truck,no,13
+Minivan,yes,19
+Minivan,no,8
+Pickup,no,
+Pickup,yes,6
+Van,no,17
+Minivan,yes,6
+Pickup,yes,12
+Pickup,no,9
+Van,no,1
+Pickup,no,8
+SUV,yes,9
+Minivan,no,8
+Panel Truck,no,13
+Pickup,yes,5
+Minivan,no,12
+Sports Car,no,1
+Pickup,no,5
+SUV,no,20
+SUV,no,17
+SUV,no,14
+Pickup,no,8
+Sports Car,no,10
+Panel Truck,yes,13
+Minivan,yes,21
+Panel Truck,yes,1
+Minivan,yes,12
+Minivan,no,6
+Minivan,yes,1
+SUV,no,9
+SUV,no,11
+Minivan,no,
+Sports Car,no,1
+Panel Truck,yes,4
+Pickup,yes,1
+SUV,no,11
+Pickup,no,6
+Minivan,no,1
+Panel Truck,yes,11
+Panel Truck,yes,18
+Panel Truck,yes,12
+Pickup,yes,7
+Panel Truck,no,11
+Pickup,yes,7
+Van,no,9
+Van,no,11
+Panel Truck,no,19
+Pickup,no,10
+Panel Truck,no,18
+Minivan,yes,1
+Pickup,yes,1
+SUV,no,19
+Panel Truck,no,7
+Sports Car,no,5
+Pickup,yes,14
+Pickup,yes,6
+Sports Car,no,1
+SUV,no,16
+Panel Truck,yes,13
+Panel Truck,yes,5
+SUV,no,13
+Minivan,no,19
+Sports Car,no,6
+Minivan,no,1
+SUV,no,
+SUV,no,1
+Pickup,no,1
+SUV,no,8
+Pickup,yes,1
+Minivan,yes,16
+Pickup,no,
+Minivan,no,9
+Minivan,yes,1
+SUV,no,8
+SUV,no,11
+Panel Truck,yes,13
+Pickup,yes,14
+Minivan,no,9
+SUV,no,12
+SUV,no,5
+SUV,no,13
+Minivan,no,18
+Pickup,yes,6
+Pickup,yes,7
+Pickup,no,4
+Panel Truck,yes,5
+Pickup,no,
+Minivan,no,1
+SUV,no,
+Minivan,no,5
+Panel Truck,yes,6
+SUV,no,14
+Van,no,1
+Sports Car,no,5
+SUV,no,1
+Pickup,no,1
+Pickup,no,16
+SUV,no,10
+SUV,no,10
+Van,no,8
+Sports Car,no,8
+Sports Car,no,1
+SUV,no,7
+Panel Truck,yes,15
+SUV,no,10
+SUV,no,7
+Pickup,no,1
+SUV,no,1
+SUV,no,8
+Minivan,yes,1
+Pickup,yes,5
+Van,no,5
+SUV,no,6
+Minivan,no,6
+Minivan,no,12
+SUV,no,1
+SUV,no,1
+Minivan,no,1
+Panel Truck,no,13
+Pickup,no,8
+SUV,no,9
+Sports Car,no,1
+SUV,no,17
+Minivan,yes,24
+SUV,no,9
+Van,yes,14
+Panel Truck,yes,9
+Van,yes,13
+SUV,no,11
+Minivan,yes,1
+Minivan,no,1
+SUV,no,17
+Minivan,no,16
+SUV,no,1
+Panel Truck,no,20
+Sports Car,no,7
+Pickup,yes,
+Minivan,no,1
+Minivan,yes,8
+Sports Car,no,3
+SUV,no,5
+Pickup,yes,1
+Sports Car,no,9
+Van,no,7
+Panel Truck,no,10
+SUV,no,15
+Van,no,1
+SUV,no,9
+Minivan,no,1
+Pickup,no,8
+SUV,no,9
+Panel Truck,yes,7
+Minivan,no,20
+Van,yes,1
+Pickup,yes,11
+SUV,no,14
+Minivan,no,10
+SUV,no,14
+SUV,no,7
+Pickup,no,1
+Sports Car,no,11
+Minivan,yes,
+Minivan,no,
+Pickup,yes,6
+Sports Car,no,
+Minivan,yes,8
+Minivan,no,
+Pickup,yes,16
+Minivan,no,
+Pickup,no,9
+Sports Car,no,13
+Panel Truck,no,12
+SUV,no,6
+Minivan,yes,6
+Minivan,yes,8
+Minivan,no,1
+Sports Car,no,10
+SUV,no,16
+Minivan,no,16
+Van,yes,13
+SUV,no,18
+Minivan,no,7
+Sports Car,yes,
+Van,no,1
+Sports Car,yes,11
+Minivan,yes,11
+Minivan,no,9
+Minivan,yes,
+Pickup,yes,19
+Pickup,yes,1
+Minivan,no,1
+Minivan,no,16
+Sports Car,no,1
+Pickup,yes,1
+SUV,no,1
+Minivan,no,22
+SUV,no,10
+SUV,no,8
+Sports Car,no,
+Sports Car,no,9
+Van,yes,1
+Sports Car,no,10
+Minivan,yes,13
+Minivan,no,15
+SUV,no,1
+Panel Truck,no,8
+Minivan,yes,22
+SUV,no,9
+Minivan,yes,17
+Minivan,no,10
+Minivan,yes,1
+SUV,no,
+SUV,no,5
+SUV,no,13
+Minivan,yes,7
+Sports Car,no,7
+Van,yes,1
+SUV,no,5
+SUV,no,1
+Pickup,yes,7
+SUV,no,13
+Pickup,no,5
+Sports Car,no,14
+Pickup,no,5
+Pickup,no,1
+Minivan,yes,1
+Minivan,no,1
+Van,no,15
+SUV,no,7
+Minivan,yes,9
+Panel Truck,no,1
+SUV,no,15
+Sports Car,no,1
+Minivan,no,12
+SUV,no,13
+SUV,no,1
+SUV,no,16
+Pickup,yes,1
+Sports Car,no,9
+Van,no,1
+SUV,yes,9
+Pickup,no,9
+Pickup,no,
+Pickup,no,8
+Minivan,yes,18
+Minivan,yes,9
+Pickup,no,13
+Minivan,yes,1
+SUV,no,1
+Pickup,yes,9
+Pickup,no,14
+Panel Truck,no,12
+Minivan,no,12
+Minivan,yes,
+Pickup,no,16
+SUV,no,7
+Van,no,10
+Panel Truck,yes,13
+SUV,no,14
+Minivan,yes,8
+SUV,no,1
+SUV,no,1
+Van,no,18
+Van,no,10
+Pickup,yes,13
+Sports Car,no,7
+Minivan,no,11
+Minivan,no,1
+Minivan,yes,5
+Pickup,no,16
+Panel Truck,yes,15
+Minivan,yes,6
+Minivan,no,14
+Panel Truck,yes,1
+Van,no,17
+Pickup,yes,14
+Panel Truck,yes,
+Minivan,no,1
+Sports Car,no,11
+Sports Car,no,1
+Sports Car,no,7
+SUV,no,5
+Pickup,yes,1
+Pickup,no,11
+Pickup,yes,1
+Panel Truck,yes,20
+Pickup,no,-3
+SUV,no,16
+Minivan,no,10
+Pickup,yes,1
+Van,yes,5
+Minivan,no,14
+Minivan,no,17
+Panel Truck,no,7
+Minivan,yes,11
+SUV,no,18
+Pickup,no,23
+Pickup,yes,17
+Sports Car,no,
+Van,no,10
+Minivan,yes,1
+Sports Car,no,8
+Panel Truck,yes,10
+Minivan,no,1
+Minivan,no,7
+Panel Truck,no,1
+Sports Car,no,1
+Pickup,yes,12
+Minivan,yes,1
+Minivan,yes,1
+SUV,no,1
+Sports Car,no,
+Pickup,no,13
+SUV,no,14
+Minivan,no,13
+Pickup,no,6
+Panel Truck,yes,18
+Van,no,1
+SUV,no,15
+SUV,no,8
+Panel Truck,no,1
+Pickup,no,8
+Minivan,no,1
+Pickup,yes,1
+SUV,no,7
+SUV,no,8
+Minivan,no,1
+Van,yes,7
+Minivan,no,7
+Minivan,no,13
+SUV,no,6
+Minivan,yes,5
+Minivan,yes,16
+SUV,no,1
+Van,yes,5
+Sports Car,no,1
+Minivan,no,11
+SUV,no,7
+SUV,no,12
+Minivan,yes,16
+Pickup,no,8
+SUV,no,12
+Sports Car,no,14
+SUV,no,
+Minivan,yes,1
+Pickup,yes,7
+Sports Car,no,10
+Van,no,15
+Panel Truck,no,17
+Van,no,10
+Minivan,yes,11
+Pickup,no,1
+Minivan,yes,1
+SUV,no,5
+Minivan,yes,9
+Pickup,no,13
+Sports Car,no,
+Van,no,12
+Minivan,no,1
+SUV,no,1
+SUV,no,18
+SUV,no,
+Van,yes,20
+Sports Car,no,1
+Pickup,no,21
+SUV,no,7
+Pickup,no,10
+Panel Truck,no,17
+Sports Car,no,
+SUV,no,1
+Panel Truck,yes,5
+Pickup,no,1
+Pickup,yes,7
+Pickup,yes,13
+Panel Truck,no,23
+SUV,no,13
+Minivan,yes,12
+SUV,no,1
+Pickup,yes,1
+Panel Truck,no,8
+Sports Car,no,9
+Minivan,no,1
+Minivan,no,8
+Minivan,yes,
+Minivan,no,14
+Sports Car,no,7
+Minivan,yes,22
+Sports Car,no,1
+Van,no,1
+Minivan,no,10
+SUV,no,14
+Pickup,no,1
+Sports Car,no,7
+Panel Truck,yes,1
+SUV,no,1
+Minivan,yes,19
+Sports Car,no,11
+Van,yes,18
+Minivan,yes,1
+Minivan,yes,14
+SUV,no,1
+Panel Truck,yes,8
+Van,yes,20
+Minivan,no,
+Sports Car,no,1
+Pickup,yes,9
+SUV,no,14
+Panel Truck,yes,1
+Minivan,no,17
+Pickup,no,
+SUV,no,17
+SUV,no,9
+SUV,no,12
+Minivan,no,1
+Pickup,no,9
+Sports Car,no,21
+Pickup,no,
+SUV,no,14
+Pickup,yes,1
+SUV,no,7
+Minivan,no,10
+Pickup,no,11
+Panel Truck,no,9
+Pickup,no,1
+Sports Car,no,8
+Sports Car,no,9
+Minivan,no,
+SUV,no,1
+Minivan,no,
+Pickup,yes,1
+SUV,no,1
+SUV,no,12
+SUV,no,12
+SUV,no,10
+Sports Car,no,1
+Minivan,yes,11
+SUV,no,11
+Pickup,no,2
+Sports Car,no,13
+SUV,no,5
+Minivan,yes,12
+Sports Car,no,
+Pickup,yes,11
+Minivan,no,14
+Pickup,no,6
+Minivan,no,6
+Sports Car,no,1
+SUV,no,8
+Sports Car,no,1
+Sports Car,no,21
+SUV,no,22
+Minivan,no,6
+Minivan,yes,15
+Sports Car,no,8
+Minivan,no,13
+SUV,no,4
+Minivan,no,19
+SUV,no,15
+Minivan,no,1
+Minivan,yes,13
+SUV,no,1
+Minivan,no,1
+SUV,no,
+SUV,no,1
+Minivan,yes,7
+Sports Car,no,1
+SUV,no,9
+Van,yes,1
+Van,yes,10
+Pickup,no,7
+SUV,no,11
+SUV,yes,20
+SUV,no,8
+SUV,no,1
+Sports Car,no,1
+Pickup,no,11
+Sports Car,no,1
+Minivan,yes,8
+Sports Car,no,1
+Sports Car,no,15
+SUV,no,8
+Minivan,no,14
+Panel Truck,yes,1
+Pickup,no,9
+Panel Truck,yes,13
+Sports Car,no,13
+Pickup,no,14
+Minivan,yes,18
+SUV,no,11
+Panel Truck,no,10
+Minivan,no,10
+Minivan,yes,13
+Van,yes,19
+Pickup,yes,10
+SUV,no,10
+Minivan,yes,13
+Minivan,no,9
+SUV,no,
+Minivan,yes,5
+Minivan,yes,7
+Van,yes,1
+SUV,no,7
+Pickup,no,1
+Pickup,no,1
+Panel Truck,no,17
+SUV,no,12
+Pickup,no,1
+SUV,no,11
+Panel Truck,yes,12
+SUV,no,7
+Pickup,no,7
+SUV,no,8
+Pickup,no,1
+SUV,no,1
+Sports Car,no,21
+SUV,no,7
+Pickup,yes,1
+SUV,no,5
+Van,no,10
+SUV,no,8
+SUV,no,6
+Pickup,no,10
+Van,yes,
+Minivan,yes,1
+Minivan,no,20
+SUV,no,4
+Pickup,yes,
+SUV,no,9
+SUV,no,9
+Minivan,yes,7
+SUV,no,1
+Minivan,no,9
+Sports Car,no,11
+Pickup,yes,3
+SUV,no,10
+Minivan,no,1
+Sports Car,no,5
+Pickup,no,16
+Minivan,yes,10
+Minivan,no,1
+Pickup,no,1
+SUV,no,9
+Van,yes,10
+SUV,no,11
+Panel Truck,no,16
+SUV,no,10
+SUV,no,1
+SUV,no,4
+SUV,no,1
+Sports Car,no,6
+SUV,no,1
+Pickup,yes,10
+Van,no,1
+SUV,no,
+Minivan,no,10
+Minivan,yes,9
+Van,yes,21
+Minivan,yes,1
+Panel Truck,yes,15
+SUV,no,5
+Pickup,yes,
+SUV,no,7
+SUV,no,8
+SUV,no,1
+SUV,yes,6
+SUV,no,5
+Pickup,yes,5
+Minivan,no,7
+SUV,no,9
+SUV,no,13
+Minivan,no,15
+SUV,no,9
+Minivan,no,14
+Minivan,no,
+Minivan,no,11
+Minivan,yes,1
+Van,yes,15
+Minivan,no,16
+Van,yes,1
+SUV,no,14
+Minivan,no,8
+Pickup,no,1
+Van,yes,9
+Pickup,no,20
+SUV,no,6
+Pickup,no,
+SUV,no,
+Minivan,yes,4
+Van,no,9
+Sports Car,no,1
+Sports Car,no,18
+SUV,no,1
+Sports Car,no,1
+Minivan,no,
+Panel Truck,no,14
+Panel Truck,yes,15
+Minivan,yes,1
+SUV,no,10
+Pickup,no,5
+Van,no,6
+Pickup,yes,1
+Minivan,yes,10
+Minivan,no,3
+SUV,no,1
+SUV,no,1
+SUV,no,10
+Panel Truck,yes,8
+Van,no,13
+Panel Truck,no,12
+SUV,no,12
+Pickup,no,7
+Minivan,yes,5
+SUV,no,10
+SUV,no,7
+Panel Truck,no,13
+Sports Car,no,15
+Sports Car,no,1
+Pickup,no,
+SUV,no,10
+SUV,no,1
+Minivan,no,1
+Van,yes,1
+Pickup,no,1
+Sports Car,no,1
+Pickup,yes,10
+Minivan,no,19
+Pickup,yes,1
+Sports Car,no,1
+Pickup,no,13
+SUV,no,10
+Minivan,yes,16
+SUV,no,1
+SUV,no,1
+SUV,no,
+Minivan,yes,1
+Pickup,yes,8
+SUV,no,13
+Pickup,no,7
+Pickup,no,7
+Pickup,no,22
+Minivan,no,1
+SUV,no,1
+Minivan,yes,9
+Van,no,8
+SUV,no,9
+Minivan,no,13
+Van,no,5
+SUV,no,17
+Minivan,no,16
+Minivan,no,5
+SUV,no,4
+Pickup,yes,1
+SUV,yes,11
+Sports Car,no,7
+Panel Truck,yes,
+Minivan,yes,8
+Pickup,yes,11
+Minivan,no,10
+Minivan,yes,
+SUV,no,1
+Pickup,yes,10
+Minivan,yes,18
+Sports Car,no,9
+SUV,no,1
+Minivan,no,11
+Sports Car,yes,
+Pickup,yes,16
+SUV,no,12
+Van,yes,
+Minivan,yes,14
+Van,yes,8
+SUV,no,1
+Panel Truck,yes,
+SUV,no,16
+SUV,no,1
+Minivan,no,12
+Pickup,no,9
+Minivan,yes,16
+SUV,no,9
+SUV,no,
+Minivan,yes,10
+Pickup,yes,9
+SUV,no,1
+Minivan,yes,18
+SUV,no,9
+Minivan,no,10
+Sports Car,no,11
+Pickup,no,
+Panel Truck,yes,14
+Sports Car,no,6
+Minivan,no,23
+SUV,no,
+SUV,no,6
+SUV,no,18
+Sports Car,no,1
+Minivan,no,6
+Minivan,no,1
+Van,no,12
+SUV,no,9
+Van,yes,1
+Pickup,no,15
+SUV,no,3
+Sports Car,no,19
+Panel Truck,no,13
+Sports Car,no,9
+Sports Car,no,7
+SUV,no,8
+Van,yes,1
+Minivan,no,10
+Pickup,no,10
+Pickup,yes,16
+Pickup,yes,1
+SUV,no,1
+Sports Car,no,18
+SUV,no,1
+SUV,no,14
+Panel Truck,yes,19
+Minivan,yes,1
+Van,yes,14
+Minivan,no,1
+Pickup,no,13
+Van,yes,20
+Minivan,no,1
+Minivan,no,7
+Panel Truck,yes,11
+Panel Truck,no,8
+SUV,no,10
+Minivan,yes,18
+SUV,no,1
+Minivan,yes,8
+SUV,no,8
+SUV,no,
+Sports Car,no,9
+Minivan,no,7
+SUV,no,13
+Minivan,no,11
+Panel Truck,no,1
+Van,yes,8
+Van,yes,1
+SUV,no,1
+Sports Car,no,
+Minivan,yes,12
+SUV,no,11
+Panel Truck,no,13
+Sports Car,no,15
+SUV,no,11
+Pickup,no,12
+Minivan,no,13
+Minivan,no,1
+SUV,no,5
+Sports Car,no,1
+SUV,no,16
+SUV,no,15
+SUV,no,6
+Minivan,no,15
+Minivan,yes,15
+SUV,no,17
+Minivan,no,6
+Sports Car,no,10
+Van,no,10
+SUV,no,1
+Van,no,6
+Minivan,no,1
+SUV,no,10
+Panel Truck,yes,15
+Pickup,no,9
+Pickup,no,11
+Minivan,no,1
+Sports Car,no,7
+Minivan,no,10
+Minivan,yes,
+Pickup,yes,1
+Pickup,yes,12
+Panel Truck,yes,1
+Pickup,no,20
+Minivan,no,10
+SUV,no,11
+Van,yes,8
+SUV,no,1
+Van,no,9
+Pickup,no,16
+Panel Truck,no,18
+Pickup,no,1
+SUV,no,9
+Minivan,yes,1
+Sports Car,no,15
+Pickup,yes,1
+Sports Car,no,9
+SUV,no,1
+SUV,no,15
+Minivan,no,6
+Minivan,no,1
+SUV,no,8
+Sports Car,no,1
+SUV,no,1
+Pickup,yes,12
+Pickup,no,10
+Minivan,no,18
+SUV,no,6
+Minivan,no,14
+Pickup,yes,6
+Van,no,9
+SUV,no,9
+Minivan,no,13
+Van,yes,1
+Pickup,no,11
+SUV,no,19
+Sports Car,no,8
+Van,yes,13
+Pickup,yes,11
+Sports Car,no,8
+Pickup,no,1
+Pickup,no,1
+SUV,no,8
+Van,yes,19
+Minivan,no,6
+SUV,no,17
+Panel Truck,yes,1
+Sports Car,no,7
+SUV,no,12
+Pickup,no,1
+Pickup,yes,9
+Van,yes,1
+Van,no,
+Minivan,no,21
+Van,yes,11
+Sports Car,no,18
+Pickup,yes,9
+Panel Truck,yes,
+SUV,no,6
+SUV,no,8
+SUV,no,7
+Minivan,yes,6
+Sports Car,no,16
+Van,yes,10
+Minivan,no,12
+SUV,no,17
+SUV,yes,11
+Sports Car,no,
+Pickup,no,1
+SUV,no,11
+Sports Car,no,8
+Van,no,14
+Minivan,yes,7
+Pickup,no,1
+Sports Car,no,1
+Panel Truck,no,
+SUV,no,11
+Pickup,no,12
+Minivan,no,17
+Sports Car,no,18
+Minivan,yes,13
+Pickup,yes,16
+Panel Truck,yes,1
+SUV,no,1
+Minivan,yes,10
+Minivan,yes,14
+SUV,no,10
+Sports Car,no,15
+Pickup,yes,4
+Van,no,1
+Minivan,no,1
+Minivan,yes,
+Minivan,no,9
+Van,no,16
+Pickup,no,10
+Pickup,yes,8
+Pickup,no,6
+SUV,no,1
+Pickup,yes,7
+Van,yes,13
+SUV,yes,10
+SUV,no,1
+SUV,no,1
+Minivan,no,1
+Minivan,yes,3
+Van,yes,13
+Minivan,no,
+Van,yes,13
+Pickup,no,12
+Pickup,no,20
+Sports Car,no,1
+Pickup,no,24
+Minivan,no,1
+Pickup,no,6
+Panel Truck,yes,5
+SUV,no,14
+Sports Car,no,
+Panel Truck,no,14
+Sports Car,no,1
+Minivan,yes,16
+Minivan,no,11
+Minivan,no,3
+Panel Truck,yes,11
+Pickup,no,
+Sports Car,no,
+Pickup,no,9
+SUV,no,1
+SUV,no,15
+SUV,no,
+SUV,no,1
+Minivan,yes,
+SUV,no,18
+Sports Car,no,1
+Pickup,yes,1
+SUV,no,1
+SUV,no,8
+Minivan,yes,5
+Sports Car,no,9
+Sports Car,no,1
+SUV,no,11
+Panel Truck,no,15
+SUV,no,12
+SUV,no,4
+Minivan,yes,8
+Panel Truck,yes,15
+Minivan,yes,12
+SUV,no,15
+Minivan,yes,1
+SUV,no,1
+Minivan,no,14
+Pickup,yes,
+Van,no,
+Van,yes,11
+Sports Car,no,5
+Sports Car,no,10
+Van,no,6
+Minivan,no,1
+Pickup,yes,12
+Sports Car,no,1
+Minivan,no,1
+Sports Car,no,11
+Van,yes,8
+Panel Truck,yes,9
+Van,no,
+Panel Truck,yes,14
+Van,no,10
+Sports Car,no,10
+SUV,no,9
+Minivan,yes,12
+Sports Car,no,9
+SUV,no,8
+Van,no,9
+SUV,no,5
+Minivan,no,4
+Pickup,no,11
+Sports Car,no,
+Minivan,no,12
+Minivan,no,8
+SUV,no,9
+Minivan,yes,8
+Sports Car,no,11
+Minivan,yes,1
+Minivan,no,14
+Pickup,no,10
+Minivan,no,9
+SUV,no,3
+SUV,no,10
+SUV,no,1
+Pickup,yes,12
+Van,yes,
+SUV,no,
+Pickup,no,1
+SUV,no,21
+SUV,no,1
+SUV,no,20
+SUV,no,1
+Minivan,no,9
+SUV,no,9
+Pickup,yes,6
+Pickup,no,8
+Sports Car,no,
+Minivan,yes,7
+Pickup,no,23
+Minivan,yes,7
+Van,yes,13
+Pickup,yes,
+Van,no,
+SUV,no,
+Pickup,no,7
+Pickup,no,7
+Panel Truck,yes,14
+Panel Truck,no,1
+Van,yes,8
+SUV,no,11
+Pickup,no,12
+Van,no,14
+Minivan,yes,6
+Van,no,1
+Minivan,yes,13
+Sports Car,no,1
+Minivan,yes,10
+SUV,no,8
+Van,yes,12
+Pickup,yes,8
+Minivan,no,15
+Van,no,1
+Minivan,yes,13
+Pickup,no,10
+Minivan,yes,1
+Pickup,no,6
+Minivan,no,8
+Pickup,yes,1
+Minivan,yes,12
+Minivan,yes,5
+Minivan,yes,
+Minivan,no,1
+Minivan,yes,1
+Pickup,no,1
+Minivan,no,
+Panel Truck,no,13
+Sports Car,no,3
+SUV,no,1
+SUV,no,14
+Panel Truck,no,1
+Sports Car,no,1
+SUV,no,13
+Pickup,no,17
+Panel Truck,no,14
+SUV,no,1
+Minivan,no,11
+Pickup,no,16
+Minivan,no,11
+Van,yes,11
+Minivan,no,1
+Minivan,yes,16
+SUV,no,8
+Minivan,no,5
+Van,yes,10
+Pickup,no,1
+SUV,no,9
+Pickup,yes,1
+Minivan,no,17
+Panel Truck,no,15
+Panel Truck,no,15
+SUV,no,7
+Panel Truck,yes,
+Pickup,yes,21
+SUV,no,1
+SUV,no,13
+Panel Truck,yes,17
+Minivan,no,15
+Sports Car,no,12
+SUV,no,
+Van,no,10
+Minivan,yes,10
+Pickup,yes,13
+Sports Car,no,1
+SUV,no,13
+SUV,no,1
+Panel Truck,yes,13
+SUV,no,
+Van,no,12
+Van,yes,10
+Sports Car,no,6
+Sports Car,no,1
+Minivan,yes,17
+Sports Car,no,9
+SUV,no,7
+Minivan,no,6
+Van,yes,12
+Van,yes,8
+Sports Car,no,1
+Pickup,no,7
+Pickup,yes,9
+SUV,no,12
+Van,yes,17
+Sports Car,no,4
+Pickup,no,8
+Pickup,yes,1
+Pickup,yes,20
+Minivan,no,8
+Minivan,no,8
+Minivan,yes,14
+SUV,no,12
+Minivan,yes,11
+Van,no,8
+Van,no,1
+Minivan,yes,14
+Minivan,yes,15
+Minivan,yes,8
+Sports Car,no,12
+SUV,no,6
+Van,yes,12
+SUV,no,9
+Minivan,yes,9
+Sports Car,no,6
+SUV,no,1
+Van,yes,13
+Minivan,no,1
+Minivan,no,10
+SUV,no,6
+Pickup,yes,1
+Sports Car,no,10
+Van,no,1
+Van,yes,11
+Minivan,yes,1
+Pickup,yes,8
+Van,no,6
+Minivan,no,1
+Sports Car,no,1
+Sports Car,no,9
+Pickup,no,1
+Pickup,no,7
+SUV,no,5
+Panel Truck,yes,19
+SUV,no,1
+Minivan,no,9
+Sports Car,no,
+SUV,no,8
+Sports Car,no,12
+Pickup,no,16
+SUV,no,5
+Van,no,12
+Minivan,no,14
+SUV,no,11
+SUV,no,17
+SUV,no,4
+Minivan,yes,
+SUV,no,10
+Panel Truck,no,7
+Minivan,no,7
+Van,yes,15
+Panel Truck,yes,18
+Panel Truck,yes,17
+Minivan,no,7
+Minivan,no,14
+Van,yes,
+Sports Car,no,8
+Sports Car,no,14
+Minivan,no,1
+SUV,no,8
+Minivan,no,1
+SUV,no,
+Pickup,no,12
+Van,no,
+Pickup,yes,7
+Sports Car,no,1
+Pickup,no,15
+Minivan,no,6
+Van,no,1
+Minivan,no,10
+SUV,no,8
+Minivan,yes,9
+SUV,no,8
+Minivan,yes,8
+Panel Truck,yes,9
+Pickup,no,19
+SUV,no,1
+Sports Car,no,9
+Minivan,no,11
+Minivan,yes,6
+Pickup,yes,9
+SUV,no,14
+Sports Car,no,12
+Panel Truck,yes,1
+Sports Car,no,1
+Minivan,yes,10
+SUV,no,10
+Pickup,no,1
+Minivan,no,21
+Van,no,9
+Sports Car,no,9
+Minivan,no,15
+Panel Truck,no,11
+Minivan,no,6
+Pickup,yes,7
+SUV,no,19
+Minivan,no,14
+Panel Truck,yes,12
+Minivan,no,1
+SUV,no,15
+Minivan,no,
+Panel Truck,yes,
+Panel Truck,yes,1
+SUV,no,7
+Panel Truck,no,13
+SUV,no,1
+Minivan,yes,1
+SUV,no,13
+Minivan,no,1
+Minivan,yes,15
+Pickup,no,8
+Pickup,yes,
+SUV,no,1
+Pickup,yes,18
+Pickup,no,1
+Minivan,no,11
+Minivan,no,12
+Minivan,no,15
+SUV,no,8
+Sports Car,no,9
+Pickup,no,
+SUV,no,3
+Panel Truck,yes,8
+Sports Car,no,16
+Minivan,no,11
+SUV,no,
+Sports Car,no,18
+SUV,no,14
+Minivan,yes,12
+Minivan,no,9
+SUV,no,14
+Pickup,no,17
+Minivan,no,15
+SUV,no,6
+Minivan,yes,16
+Van,yes,5
+Van,yes,19
+SUV,no,9
+Minivan,no,1
+SUV,no,14
+Minivan,no,16
+Minivan,no,10
+Minivan,yes,1
+Van,yes,17
+Minivan,no,21
+Pickup,yes,1
+SUV,no,1
+Sports Car,no,17
+Sports Car,no,7
+SUV,no,16
+SUV,no,18
+SUV,no,1
+Minivan,no,12
+Minivan,no,
+Minivan,yes,8
+Minivan,yes,
+Sports Car,no,11
+Pickup,yes,10
+SUV,no,1
+Van,yes,3
+SUV,no,9
+Sports Car,no,13
+Minivan,no,8
+Sports Car,no,1
+Minivan,yes,1
+Van,yes,15
+Sports Car,no,4
+Minivan,yes,22
+Panel Truck,yes,9
+Sports Car,no,1
+SUV,no,11
+Panel Truck,yes,
+SUV,no,6
+Van,no,12
+Minivan,yes,6
+Minivan,no,13
+Minivan,no,1
+SUV,no,14
+Panel Truck,no,13
+Panel Truck,yes,18
+Sports Car,no,8
+Minivan,yes,18
+Pickup,yes,1
+Van,yes,8
+Sports Car,no,1
+Minivan,yes,1
+Pickup,no,
+SUV,no,1
+Minivan,yes,1
+SUV,no,10
+SUV,no,6
+Panel Truck,no,13
+Sports Car,no,4
+Sports Car,no,1
+Van,no,7
+Minivan,no,9
+SUV,no,14
+Van,no,18
+Pickup,no,12
+SUV,no,12
+Minivan,no,8
+SUV,no,7
+Sports Car,no,1
+Minivan,no,20
+SUV,no,14
+SUV,no,7
+Minivan,no,10
+Panel Truck,no,11
+Sports Car,no,14
+SUV,no,12
+SUV,no,9
+Sports Car,no,1
+Minivan,yes,8
+Pickup,yes,1
+Sports Car,no,1
+Minivan,yes,1
+Minivan,no,1
+Minivan,no,13
+SUV,no,14
+Pickup,no,14
+SUV,no,11
+Van,yes,1
+Sports Car,no,
+Van,yes,1
+SUV,no,11
+Pickup,yes,1
+Panel Truck,yes,6
+Minivan,no,1
+SUV,no,1
+Minivan,yes,8
+Sports Car,yes,6
+SUV,no,1
+Pickup,no,6
+Pickup,no,12
+Panel Truck,yes,16
+Pickup,no,12
+Minivan,yes,1
+Pickup,yes,1
+SUV,no,17
+Minivan,no,12
+SUV,no,1
+Pickup,no,13
+Pickup,no,19
+SUV,no,1
+Minivan,yes,1
+Sports Car,no,1
+Sports Car,no,15
+Minivan,no,13
+Panel Truck,yes,8
+Minivan,no,10
+Pickup,no,6
+Pickup,yes,10
+Minivan,yes,10
+SUV,no,8
+Pickup,no,10
+Pickup,no,7
+Minivan,no,8
+SUV,no,7
+Minivan,yes,11
+Minivan,no,
+Pickup,yes,14
+Van,no,28
+Sports Car,no,1
+Panel Truck,no,12
+Pickup,no,21
+Pickup,yes,15
+Panel Truck,yes,
+Minivan,no,12
+Panel Truck,no,1
+SUV,no,13
+SUV,no,9
+SUV,no,6
+Minivan,no,7
+Minivan,yes,11
+SUV,no,
+Pickup,no,8
+Pickup,yes,15
+SUV,no,21
+SUV,no,1
+Pickup,yes,
+SUV,no,9
+Minivan,no,9
+Panel Truck,no,11
+Minivan,no,11
+Minivan,yes,
+Sports Car,no,2
+Panel Truck,yes,15
+Van,yes,18
+Van,no,18
+SUV,no,10
+Van,no,13
+Panel Truck,no,6
+Minivan,yes,9
+Pickup,no,1
+SUV,no,1
+Sports Car,no,10
+Sports Car,no,1
+Minivan,yes,8
+Pickup,no,4
+Pickup,yes,8
+SUV,no,1
+SUV,no,1
+SUV,no,10
+SUV,no,9
+Panel Truck,yes,14
+Pickup,no,9
+SUV,no,10
+Panel Truck,no,1
+Minivan,no,1
+Minivan,yes,7
+Pickup,yes,1
+Panel Truck,no,16
+SUV,no,14
+Panel Truck,yes,12
+Minivan,no,13
+Sports Car,no,7
+Pickup,yes,11
+SUV,no,11
+Panel Truck,yes,15
+Pickup,yes,15
+SUV,no,10
+Van,no,9
+Pickup,no,1
+SUV,no,18
+Panel Truck,yes,18
+Minivan,no,11
+Minivan,no,18
+Minivan,yes,1
+Pickup,no,13
+SUV,no,1
+Minivan,yes,1
+Sports Car,no,7
+Van,no,8
+Panel Truck,no,6
+SUV,no,
+Minivan,yes,1
+Minivan,yes,
+SUV,no,1
+Minivan,no,19
+SUV,no,14
+Minivan,no,15
+Minivan,yes,21
+Sports Car,no,14
+Pickup,yes,5
+Minivan,no,13
+SUV,no,12
+SUV,no,13
+Pickup,no,1
+Sports Car,no,
+Minivan,yes,13
+SUV,no,6
+Pickup,no,1
+SUV,no,1
+Panel Truck,no,6
+Sports Car,no,10
+Sports Car,no,21
+Sports Car,no,1
+Van,yes,4
+Minivan,no,11
+Pickup,no,9
+SUV,no,
+Van,no,9
+Pickup,yes,
+SUV,no,18
+Minivan,yes,6
+Minivan,no,8
+Minivan,no,1
+Pickup,no,14
+Minivan,no,16
+Panel Truck,no,11
+SUV,no,1
+SUV,no,1
+Panel Truck,yes,7
+Pickup,no,1
+Van,yes,7
+Minivan,no,10
+Pickup,no,14
+Panel Truck,yes,1
+SUV,no,21
+Panel Truck,yes,
+Panel Truck,no,19
+SUV,no,14
+Sports Car,no,1
+Minivan,yes,10
+Minivan,yes,1
+Van,yes,1
+Pickup,yes,10
+SUV,no,1
+Van,yes,9
+Minivan,no,13
+SUV,no,
+SUV,no,15
+Minivan,no,10
+Minivan,yes,13
+Minivan,no,10
+SUV,no,
+Sports Car,no,1
+Minivan,yes,12
+Minivan,yes,
+Minivan,no,5
+Minivan,no,1
+Pickup,yes,7
+Minivan,yes,1
+Pickup,yes,1
+Minivan,no,16
+Van,no,14
+Minivan,no,1
+Van,yes,16
+Minivan,yes,8
+SUV,no,1
+SUV,yes,20
+SUV,no,15
+SUV,no,6
+Minivan,yes,9
+SUV,no,10
+Minivan,yes,12
+SUV,no,12
+SUV,no,13
+Panel Truck,no,10
+SUV,no,
+Sports Car,no,9
+Minivan,yes,7
+Van,no,12
+Van,no,1
+Panel Truck,yes,15
+Sports Car,no,1
+Pickup,no,10
+Panel Truck,yes,12
+SUV,no,10
+Minivan,yes,16
+Minivan,yes,1
+Minivan,no,4
+Minivan,no,12
+SUV,no,1
+Minivan,no,19
+Sports Car,no,20
+Panel Truck,yes,17
+Pickup,no,11
+Minivan,no,1
+Van,yes,6
+SUV,no,20
+Van,yes,11
+SUV,no,1
+SUV,no,
+SUV,no,5
+SUV,no,
+SUV,no,9
+Pickup,no,1
+Minivan,no,6
+Pickup,yes,12
+Van,no,8
+SUV,no,1
+Minivan,yes,11
+Van,yes,16
+Van,no,1
+Pickup,yes,11
+SUV,no,18
+SUV,no,10
+Minivan,yes,15
+Pickup,no,1
+SUV,no,8
+SUV,no,7
+SUV,no,16
+Minivan,no,9
+Pickup,yes,11
+SUV,no,9
+Panel Truck,yes,11
+Minivan,yes,6
+Van,yes,1
+SUV,no,4
+SUV,no,13
+Minivan,yes,1
+Sports Car,no,12
+SUV,no,12
+Minivan,no,1
+Minivan,no,1
+Pickup,no,15
+Sports Car,no,15
+SUV,no,1
+Panel Truck,yes,5
+Pickup,yes,1
+Minivan,no,1
+Minivan,no,6
+Pickup,no,15
+SUV,no,
+Van,yes,12
+SUV,no,1
+SUV,no,1
+Van,no,8
+SUV,no,1
+Van,no,
+Minivan,yes,8
+Minivan,no,7
+Minivan,no,17
+SUV,no,8
+Van,yes,1
+SUV,no,13
+Minivan,yes,1
+Minivan,yes,
+Pickup,yes,1
+Minivan,no,17
+Sports Car,no,1
+Minivan,yes,16
+Minivan,no,11
+SUV,no,15
+Pickup,yes,6
+SUV,no,10
+Pickup,no,1
+Panel Truck,no,6
+SUV,no,5
+Van,no,8
+Minivan,no,
+SUV,no,11
+Panel Truck,yes,1
+Van,yes,17
+Pickup,yes,17
+Minivan,no,8
+Van,yes,8
+SUV,no,6
+Sports Car,no,1
+Van,no,6
+SUV,no,8
+SUV,no,13
+SUV,no,4
+Minivan,yes,7
+SUV,no,6
+SUV,no,18
+Minivan,no,10
+Panel Truck,yes,10
+SUV,no,14
+Minivan,no,1
+SUV,no,7
+Panel Truck,no,18
+SUV,no,12
+SUV,no,11
+Pickup,yes,7
+Minivan,no,7
+SUV,no,
+Panel Truck,yes,24
+Van,yes,1
+SUV,no,14
+Minivan,no,11
+SUV,no,15
+SUV,no,10
+SUV,no,9
+Van,yes,1
+Panel Truck,yes,1
+Van,no,1
+Sports Car,no,1
+Sports Car,no,7
+Minivan,no,1
+SUV,no,8
+SUV,no,8
+SUV,no,7
+Minivan,yes,18
+Panel Truck,no,1
+SUV,no,12
+SUV,no,12
+Minivan,no,14
+SUV,no,10
+SUV,no,5
+Pickup,no,
+SUV,no,12
+SUV,no,
+Pickup,no,11
+Van,yes,1
+Sports Car,no,2
+Van,yes,5
+Minivan,no,10
+Panel Truck,yes,15
+SUV,no,1
+Minivan,no,
+Panel Truck,yes,11
+Minivan,no,
+Van,yes,11
+Minivan,no,1
+Sports Car,no,7
+Minivan,yes,8
+Pickup,no,
+Sports Car,no,1
+SUV,no,7
+Minivan,no,1
+SUV,no,8
+Minivan,yes,13
+Minivan,no,13
+Sports Car,no,16
+SUV,no,9
+SUV,no,1
+Minivan,no,
+Sports Car,no,11
+Pickup,no,11
+SUV,no,18
+Minivan,no,9
+Pickup,no,1
+Van,yes,
+Minivan,no,5
+Minivan,yes,9
+Sports Car,no,16
+Pickup,no,11
+Pickup,no,1
+Minivan,yes,1
+Minivan,no,1
+Van,no,17
+Sports Car,no,11
+Minivan,no,8
+Van,yes,1
+SUV,no,10
+Panel Truck,yes,1
+SUV,no,9
+SUV,no,4
+Pickup,no,11
+SUV,no,6
+Van,no,
+Pickup,no,1
+Minivan,yes,11
+Pickup,yes,1
+Sports Car,no,15
+SUV,no,1
+SUV,no,1
+Minivan,no,11
+SUV,no,13
+Van,yes,11
+Sports Car,no,12
+Panel Truck,no,10
+Pickup,yes,7
+Panel Truck,yes,15
+SUV,no,9
+Minivan,no,10
+Pickup,no,17
+Minivan,no,6
+SUV,no,7
+Panel Truck,yes,7
+Minivan,yes,1
+SUV,no,7
+SUV,no,1
+Van,no,7
+Pickup,yes,5
+Pickup,yes,22
+Panel Truck,no,
+Sports Car,no,7
+Minivan,yes,21
+Minivan,no,1
+Van,yes,7
+Pickup,no,17
+SUV,no,1
+SUV,no,11
+SUV,no,
+SUV,no,5
+Van,yes,11
+Sports Car,no,11
+Van,no,11
+Pickup,yes,8
+SUV,no,12
+SUV,no,9
+Van,yes,11
+Pickup,no,16
+Minivan,no,9
+Minivan,no,1
+SUV,no,1
+Van,yes,1
+SUV,no,1
+SUV,no,1
+SUV,no,6
+SUV,no,5
+SUV,no,14
+SUV,no,6
+Minivan,no,18
+SUV,no,11
+Pickup,no,1
+SUV,no,10
+Minivan,no,13
+Minivan,no,12
+Minivan,yes,7
+Sports Car,no,9
+Minivan,no,10
+Panel Truck,yes,1
+Minivan,yes,13
+Van,yes,15
+Pickup,yes,5
+SUV,no,13
+Minivan,yes,5
+Minivan,no,6
+Sports Car,no,1
+SUV,no,10
+SUV,no,1
+SUV,no,11
+SUV,no,1
+Minivan,yes,4
+Pickup,no,6
+SUV,no,8
+Minivan,no,15
+Sports Car,no,
+Minivan,no,1
+Pickup,no,9
+SUV,no,6
+Minivan,no,9
+SUV,no,9
+Panel Truck,no,6
+Minivan,yes,20
+Van,yes,1
+Van,no,11
+Pickup,no,7
+SUV,no,4
+Panel Truck,yes,20
+Van,no,7
+Panel Truck,yes,16
+SUV,no,8
+Minivan,no,14
+Van,yes,20
+SUV,no,1
+Panel Truck,no,15
+Van,no,9
+Minivan,no,11
+SUV,no,9
+SUV,no,
+Panel Truck,no,7
+SUV,no,5
+SUV,no,12
+SUV,no,12
+Minivan,yes,20
+SUV,no,12
+Sports Car,no,8
+SUV,no,1
+Minivan,no,1
+Minivan,no,16
+Sports Car,no,4
+Sports Car,no,9
+Sports Car,no,22
+Minivan,yes,10
+Sports Car,no,1
+Pickup,yes,1
+Van,yes,1
+Minivan,no,1
+Van,no,4
+Minivan,no,1
+SUV,no,18
+Panel Truck,no,15
+Pickup,no,15
+Pickup,no,7
+Panel Truck,yes,8
+Minivan,no,17
+Panel Truck,no,1
+SUV,no,1
+Minivan,no,11
+Minivan,no,9
